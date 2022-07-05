@@ -96,6 +96,7 @@
 
 ## JavaScript 
 
+- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
@@ -172,7 +173,7 @@
 
 ## PHP 
 
-- [formewp/forme-framework](https://github.com/formewp/forme-framework) - The Forme core framework
+- [formewp/forme-framework](https://github.com/formewp/forme-framework) - The Forme core framework - knocking WordPress into shape
 - [dingo-d/wp-pest-integration-test-setup](https://github.com/dingo-d/wp-pest-integration-test-setup) - A package that will add WordPress integration test suite with Pest
 - [EventSaucePHP/EventSauce](https://github.com/EventSaucePHP/EventSauce) - A pragmatic event sourcing library for PHP with a focus on developer experience.
 - [seancheung/history](https://github.com/seancheung/history) - Eloquent model history tracking for Laravel
@@ -193,7 +194,7 @@
 - [idleberg/php-wordpress-vite-assets](https://github.com/idleberg/php-wordpress-vite-assets) - Adds assets from a Vite manifest to the Wordpress head
 - [defuse/php-encryption](https://github.com/defuse/php-encryption) - Simple Encryption in PHP.
 - [szepeviktor/phpstan-wordpress](https://github.com/szepeviktor/phpstan-wordpress) - WordPress extensions for PHPStan ⛏️
-- [formewp/forme-codegen](https://github.com/formewp/forme-codegen) - The Forme cli tool
+- [formewp/forme-codegen](https://github.com/formewp/forme-codegen) - The Forme cli tool - knocking WordPress into shape
 - [astorm/pestle](https://github.com/astorm/pestle) - A collection of command line scripts for Magento 2 code generation, and a PHP module system for organizing command line scripts.
 - [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) - A customizable, open-source eCommerce platform built on WordPress. Build any commerce solution you can imagine.
 - [bagisto/bagisto](https://github.com/bagisto/bagisto) - An easy to use, free and open source laravel eCommerce platform to build your online shop in no time.
