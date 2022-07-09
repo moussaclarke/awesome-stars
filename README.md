@@ -173,6 +173,7 @@
 
 ## PHP 
 
+- [kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers) - A set of custom fixers for PHP CS Fixer
 - [formewp/forme-framework](https://github.com/formewp/forme-framework) - The Forme core framework - knocking WordPress into shape
 - [dingo-d/wp-pest-integration-test-setup](https://github.com/dingo-d/wp-pest-integration-test-setup) - A package that will add WordPress integration test suite with Pest
 - [EventSaucePHP/EventSauce](https://github.com/EventSaucePHP/EventSauce) - A pragmatic event sourcing library for PHP with a focus on developer experience.
