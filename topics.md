@@ -684,6 +684,7 @@
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
 - [fiduswriter/Simple-DataTables](https://github.com/fiduswriter/Simple-DataTables) - DataTables but in Vanilla ES2018 JS
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
+- [wikimedia/composer-merge-plugin](https://github.com/wikimedia/composer-merge-plugin) - Merge one or more additional composer.json files at Composer runtime
 - [nunomaduro/mock-final-classes](https://github.com/nunomaduro/mock-final-classes) - 🏄‍♂️ Allows mocking final classes in PHP.
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
@@ -774,7 +775,6 @@
 - [Behat/Behat](https://github.com/Behat/Behat) - BDD in PHP
 - [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP Testing Framework with a focus on simplicity
 - [mpyw/stream-interface-resource](https://github.com/mpyw/stream-interface-resource) - Create resource stream from PSR-7 StreamInterface implementation
-- [wikimedia/composer-merge-plugin](https://github.com/wikimedia/composer-merge-plugin) - Merge one or more additional composer.json files at Composer runtime
 - [wintercms/winter](https://github.com/wintercms/winter) - Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework.
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [vlucas/valitron](https://github.com/vlucas/valitron) - Valitron is a simple, elegant, stand-alone validation library with NO dependencies
