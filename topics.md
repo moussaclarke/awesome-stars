@@ -774,7 +774,7 @@
 - [spatie/enum](https://github.com/spatie/enum) - Strongly typed enums in PHP supporting autocompletion and refactoring
 - [Behat/Behat](https://github.com/Behat/Behat) - BDD in PHP
 - [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP Testing Framework with a focus on simplicity
-- [mpyw/stream-interface-resource](https://github.com/mpyw/stream-interface-resource) - Create resource stream from PSR-7 StreamInterface implementation
+- [mpyw-junks/stream-interface-resource](https://github.com/mpyw-junks/stream-interface-resource) - Create resource stream from PSR-7 StreamInterface implementation
 - [wintercms/winter](https://github.com/wintercms/winter) - Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework.
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [vlucas/valitron](https://github.com/vlucas/valitron) - Valitron is a simple, elegant, stand-alone validation library with NO dependencies
