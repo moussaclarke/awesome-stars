@@ -242,7 +242,7 @@
 - [Behat/Behat](https://github.com/Behat/Behat) - BDD in PHP
 - [phpspec/phpspec](https://github.com/phpspec/phpspec) - SpecBDD Framework for PHP
 - [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP Testing Framework with a focus on simplicity
-- [mpyw/stream-interface-resource](https://github.com/mpyw/stream-interface-resource) - Create resource stream from PSR-7 StreamInterface implementation
+- [mpyw-junks/stream-interface-resource](https://github.com/mpyw-junks/stream-interface-resource) - Create resource stream from PSR-7 StreamInterface implementation
 - [wikimedia/composer-merge-plugin](https://github.com/wikimedia/composer-merge-plugin) - Merge one or more additional composer.json files at Composer runtime
 - [wintercms/winter](https://github.com/wintercms/winter) - Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework.
 - [nunomaduro/mock-final-classes](https://github.com/nunomaduro/mock-final-classes) - 🏄‍♂️ Allows mocking final classes in PHP.
