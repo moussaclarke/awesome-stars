@@ -486,6 +486,7 @@
 
 ## json 
 
+- [seijikohara/json-tree-view-vue3](https://github.com/seijikohara/json-tree-view-vue3) - JSON tree rendering Vue3 component
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [nette/utils](https://github.com/nette/utils) - 🛠 Lightweight utilities for string & array manipulation, image handling, safe JSON encoding/decoding, validation, slug or strong password generating etc.
 
@@ -958,6 +959,7 @@
 
 ## typescript 
 
+- [seijikohara/json-tree-view-vue3](https://github.com/seijikohara/json-tree-view-vue3) - JSON tree rendering Vue3 component
 - [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
