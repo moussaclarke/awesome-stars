@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ai](#ai)
 - [android](#android)
 - [angular](#angular)
 - [api](#api)
@@ -21,6 +22,7 @@
 - [clojure](#clojure)
 - [code-quality](#code-quality)
 - [compiler](#compiler)
+- [cpp](#cpp)
 - [css](#css)
 - [data-visualization](#data-visualization)
 - [database](#database)
@@ -51,6 +53,7 @@
 - [http](#http)
 - [icon-font](#icon-font)
 - [ios](#ios)
+- [java](#java)
 - [javascript](#javascript)
 - [js](#js)
 - [json](#json)
@@ -100,6 +103,7 @@
 - [shell](#shell)
 - [sql](#sql)
 - [sql-server](#sql-server)
+- [swift](#swift)
 - [symfony](#symfony)
 - [terminal](#terminal)
 - [testing](#testing)
@@ -115,6 +119,10 @@
 - [windows](#windows)
 - [wordpress](#wordpress)
 - [xml](#xml)
+
+## ai 
+
+- [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 
 ## android 
 
@@ -154,6 +162,7 @@
 
 ## bash 
 
+- [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
@@ -208,6 +217,10 @@
 
 - [ballerina-platform/ballerina-lang](https://github.com/ballerina-platform/ballerina-lang) - The Ballerina Programming Language
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
+
+## cpp 
+
+- [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 
 ## css 
 
@@ -340,6 +353,7 @@
 
 ## golang 
 
+- [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
@@ -435,8 +449,13 @@
 
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 
+## java 
+
+- [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
+
 ## javascript 
 
+- [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
@@ -546,6 +565,7 @@
 
 ## lua 
 
+- [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 ## macos 
@@ -742,6 +762,7 @@
 
 ## php 
 
+- [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [kubawerlos/php-cs-fixer-custom-fixers](https://github.com/kubawerlos/php-cs-fixer-custom-fixers) - A set of custom fixers for PHP CS Fixer
 - [EventSaucePHP/EventSauce](https://github.com/EventSaucePHP/EventSauce) - A pragmatic event sourcing library for PHP with a focus on developer experience.
 - [emgag/flysystem-tempdir](https://github.com/emgag/flysystem-tempdir) - Flysystem adapter for a self-destroying temporary directory
@@ -840,6 +861,7 @@
 
 ## python 
 
+- [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [alexmojaki/futurecoder](https://github.com/alexmojaki/futurecoder) - 100% free and interactive Python course for beginners
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -880,6 +902,7 @@
 
 ## ruby 
 
+- [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line.
 - [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
@@ -887,6 +910,7 @@
 
 ## rust 
 
+- [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -924,6 +948,10 @@
 - [doctrine/dbal](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 
+## swift 
+
+- [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
+
 ## symfony 
 
 - [symfony/string](https://github.com/symfony/string) - Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way.
@@ -959,6 +987,7 @@
 
 ## typescript 
 
+- [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [seijikohara/json-tree-view-vue3](https://github.com/seijikohara/json-tree-view-vue3) - JSON tree rendering Vue3 component
 - [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
