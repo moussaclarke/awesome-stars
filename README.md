@@ -362,6 +362,7 @@
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [nuxt/content](https://github.com/nuxt/content) - The file-based CMS for your Nuxt application, powered by Markdown and Vue components.
 - [nuxt/framework](https://github.com/nuxt/framework) - The Hybrid Vue(3) Framework.
+- [cdmoro/bootstrap-vue-3](https://github.com/cdmoro/bootstrap-vue-3) - Early (but lovely) implementation of Vue 3, Bootstrap 5 and Typescript
 - [vuejs/router](https://github.com/vuejs/router) - 🚦 The official router for Vue.js
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [formkit/formkit](https://github.com/formkit/formkit) - Vue Forms ⚡️ Supercharged
@@ -399,7 +400,6 @@
 ## Vue 
 
 - [seijikohara/json-tree-view-vue3](https://github.com/seijikohara/json-tree-view-vue3) - JSON tree rendering Vue3 component
-- [cdmoro/bootstrap-vue-3](https://github.com/cdmoro/bootstrap-vue-3) - Early (but lovely) implementation of Vue 3, Bootstrap 5 and Typescript
 
 
 ## License
