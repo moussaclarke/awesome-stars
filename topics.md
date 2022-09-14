@@ -436,7 +436,6 @@
 - [bagisto/bagisto](https://github.com/bagisto/bagisto) - An easy to use, free and open source laravel eCommerce platform to build your online shop in no time.
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP's built-in reflection API.
 - [composer/satis](https://github.com/composer/satis) - Simple static Composer repository generator - For a full private Composer repo use Private Packagist
-- [ramsey/uuid](https://github.com/ramsey/uuid) - A PHP library for generating universally unique identifiers (UUIDs).
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 - [Behat/Behat](https://github.com/Behat/Behat) - BDD in PHP
 - [phpspec/phpspec](https://github.com/phpspec/phpspec) - SpecBDD Framework for PHP
