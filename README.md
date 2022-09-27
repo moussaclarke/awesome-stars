@@ -189,6 +189,7 @@
 
 ## PHP 
 
+- [laracasts/cypress](https://github.com/laracasts/cypress) - Laravel Cypress Integration
 - [deployphp/deployer](https://github.com/deployphp/deployer) - The PHP deployment tool with support for popular frameworks out of the box
 - [laminas/laminas-validator](https://github.com/laminas/laminas-validator) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria
 - [maximebf/php-debugbar](https://github.com/maximebf/php-debugbar) - Debug bar for PHP
