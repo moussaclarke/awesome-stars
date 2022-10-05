@@ -482,6 +482,7 @@
 - [doctrine/dbal](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP's built-in reflection API.
 - [composer/satis](https://github.com/composer/satis) - Simple static Composer repository generator - For a full private Composer repo use Private Packagist
+- [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 - [Behat/Behat](https://github.com/Behat/Behat) - BDD in PHP
 - [phpspec/phpspec](https://github.com/phpspec/phpspec) - SpecBDD Framework for PHP
@@ -550,6 +551,7 @@
 
 ## javascript 
 
+- [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
@@ -893,6 +895,7 @@
 
 ## php 
 
+- [overtrue/phplint](https://github.com/overtrue/phplint) - :bug:  A tool that can speed up linting of php files by running several lint processes at once.
 - [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged PHP API client that allows you to interact with OpenAI API.
 - [deployphp/deployer](https://github.com/deployphp/deployer) - The PHP deployment tool with support for popular frameworks out of the box
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
