@@ -68,6 +68,7 @@
 
 ## CoffeeScript 
 
+- [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 - [homebrewing/brauhausjs](https://github.com/homebrewing/brauhausjs) - A beer recipe calculator for homebrewing on servers and in browsers
 
 ## Go 
@@ -193,6 +194,7 @@
 
 ## PHP 
 
+- [overtrue/phplint](https://github.com/overtrue/phplint) - :bug:  A tool that can speed up linting of php files by running several lint processes at once.
 - [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged PHP API client that allows you to interact with OpenAI API.
 - [laracasts/cypress](https://github.com/laracasts/cypress) - Laravel Cypress Integration
 - [deployphp/deployer](https://github.com/deployphp/deployer) - The PHP deployment tool with support for popular frameworks out of the box
