@@ -352,6 +352,7 @@
 
 ## framework 
 
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [formewp/forme-framework](https://github.com/formewp/forme-framework) - The Forme core framework - knocking WordPress into shape
 - [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
@@ -505,6 +506,7 @@
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
+- [pattern-lab/patternlab-node](https://github.com/pattern-lab/patternlab-node) - The Node version of Pattern Lab
 - [orchidsoftware/platform](https://github.com/orchidsoftware/platform) - Orchid is a @laravel package that allows for rapid application development of back-office applications, admin/user panels, and dashboards.
 - [Sylius/AdminOrderCreationPlugin](https://github.com/Sylius/AdminOrderCreationPlugin) - Create orders in Sylius as an Administrator
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
@@ -556,6 +558,7 @@
 
 ## javascript 
 
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
 - [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
@@ -745,6 +748,7 @@
 
 ## node 
 
+- [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
@@ -796,6 +800,7 @@
 
 ## others 
 
+- [laminas/laminas-i18n](https://github.com/laminas/laminas-i18n) - Provide translations for your application, and filter and validate internationalized values
 - [AdobeXD/design-system-package-dsp](https://github.com/AdobeXD/design-system-package-dsp) - DSP Documentation
 - [dracula/dracula-ui](https://github.com/dracula/dracula-ui) - :vampire: A dark-first collection of UI patterns and components.
 - [laracasts/cypress](https://github.com/laracasts/cypress) - Laravel Cypress Integration
@@ -899,6 +904,9 @@
 
 ## php 
 
+- [themosis/themosis](https://github.com/themosis/themosis) - A framework for WordPress developers.
+- [TypeRocket/typerocket](https://github.com/TypeRocket/typerocket) - TypeRocket is a highly integrated MVC WordPress framework with beautiful UI components for the modern developer.
+- [Brain-WP/BrainMonkey](https://github.com/Brain-WP/BrainMonkey) - Mocking utility for PHP functions and WordPress plugin API
 - [overtrue/phplint](https://github.com/overtrue/phplint) - :bug:  A tool that can speed up linting of php files by running several lint processes at once.
 - [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged PHP API client that allows you to interact with OpenAI API.
 - [deployphp/deployer](https://github.com/deployphp/deployer) - The PHP deployment tool with support for popular frameworks out of the box
@@ -1076,6 +1084,7 @@
 
 ## server 
 
+- [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 
@@ -1202,6 +1211,7 @@
 
 ## web 
 
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
@@ -1230,6 +1240,9 @@
 
 ## wordpress 
 
+- [themosis/themosis](https://github.com/themosis/themosis) - A framework for WordPress developers.
+- [TypeRocket/typerocket](https://github.com/TypeRocket/typerocket) - TypeRocket is a highly integrated MVC WordPress framework with beautiful UI components for the modern developer.
+- [Brain-WP/BrainMonkey](https://github.com/Brain-WP/BrainMonkey) - Mocking utility for PHP functions and WordPress plugin API
 - [outlandishideas/wpackagist](https://github.com/outlandishideas/wpackagist) - WordPress Packagist — manage your plugins with Composer
 - [formewp/forme-framework](https://github.com/formewp/forme-framework) - The Forme core framework - knocking WordPress into shape
 - [idleberg/php-wordpress-vite-assets](https://github.com/idleberg/php-wordpress-vite-assets) - Adds assets from a Vite manifest to the Wordpress head
