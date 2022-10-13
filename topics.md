@@ -362,7 +362,7 @@
 - [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
-- [nuxt/framework](https://github.com/nuxt/framework) - The Hybrid Vue(3) Framework.
+- [nuxt/framework](https://github.com/nuxt/framework) - The Intuitive Vue(3) Framework.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
 - [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP Testing Framework with a focus on simplicity
@@ -461,6 +461,7 @@
 
 ## hacktoberfest 
 
+- [bttger/contributing-gen-web](https://github.com/bttger/contributing-gen-web) - Web Frontend of contributing-gen - The guideline to communicate how people should contribute to your project.
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -814,6 +815,7 @@
 
 ## others 
 
+- [aaemnnosttv/wp-sqlite-db](https://github.com/aaemnnosttv/wp-sqlite-db) - A single file drop-in for using a SQLite database with WordPress. Based on the original SQLite Integration plugin.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
 - [rust-cli/book](https://github.com/rust-cli/book) - Documentation on how to use the Rust Programming Language to develop commandline applications
@@ -1209,13 +1211,14 @@
 
 ## vue 
 
+- [bttger/contributing-gen-web](https://github.com/bttger/contributing-gen-web) - Web Frontend of contributing-gen - The guideline to communicate how people should contribute to your project.
 - [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [hmsk/vite-plugin-markdown](https://github.com/hmsk/vite-plugin-markdown) - A vite plugin to import a Markdown file in various formats like Front Matter, HTML, ToC, and React/Vue Component
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
-- [nuxt/framework](https://github.com/nuxt/framework) - The Hybrid Vue(3) Framework.
+- [nuxt/framework](https://github.com/nuxt/framework) - The Intuitive Vue(3) Framework.
 - [cdmoro/bootstrap-vue-3](https://github.com/cdmoro/bootstrap-vue-3) - Early (but lovely) implementation of Vue 3, Bootstrap 5 and Typescript
 - [vuejs/router](https://github.com/vuejs/router) - 🚦 The official router for Vue.js
 - [formkit/formkit](https://github.com/formkit/formkit) - Vue Forms ⚡️ Supercharged
