@@ -881,7 +881,7 @@
 - [AdvancedCustomFields/acf](https://github.com/AdvancedCustomFields/acf) - Advanced Custom Fields
 - [WordPress/WordPress](https://github.com/WordPress/WordPress) - WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop 
 - [flatpickr/flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
-- [mattkingshott/iodine](https://github.com/mattkingshott/iodine) - A micro JavaScript validation library.
+- [caneara/iodine](https://github.com/caneara/iodine) - A micro JavaScript validation library.
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [kencrocken/FiraCodeiScript](https://github.com/kencrocken/FiraCodeiScript) - Mashup Font of FiraCode and Script12
 - [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
