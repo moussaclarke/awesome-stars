@@ -34,6 +34,7 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+- [Zig](#zig)
 
 ## Ballerina 
 
@@ -107,6 +108,7 @@
 
 ## JavaScript 
 
+- [diddledani/twitodon](https://github.com/diddledani/twitodon) - Twitter to Mastodon account mapping service to aid migration away from Twitter without losing all your followed friends
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [photonstorm/phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
@@ -350,6 +352,7 @@
 
 ## Ruby 
 
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
@@ -459,6 +462,10 @@
 
 - [bttger/contributing-gen-web](https://github.com/bttger/contributing-gen-web) - Web Frontend of contributing-gen - The guideline to communicate how people should contribute to your project.
 - [seijikohara/json-tree-view-vue3](https://github.com/seijikohara/json-tree-view-vue3) - JSON tree rendering Vue3 component
+
+## Zig 
+
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 
 
 ## License
