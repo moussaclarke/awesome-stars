@@ -70,7 +70,6 @@
 
 ## CoffeeScript 
 
-- [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 - [homebrewing/brauhausjs](https://github.com/homebrewing/brauhausjs) - A beer recipe calculator for homebrewing on servers and in browsers
 
 ## Go 
@@ -110,6 +109,7 @@
 
 - [diddledani/twitodon](https://github.com/diddledani/twitodon) - Twitter to Mastodon account mapping service to aid migration away from Twitter without losing all your followed friends
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
+- [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [photonstorm/phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
