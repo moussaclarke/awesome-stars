@@ -940,6 +940,7 @@
 
 ## php 
 
+- [reactphp/reactphp](https://github.com/reactphp/reactphp) - Event-driven, non-blocking I/O with PHP.
 - [lunarphp/lunar](https://github.com/lunarphp/lunar) - An open-source package that brings the power of modern headless e-commerce functionality to Laravel.
 - [yaegassy/coc-intelephense](https://github.com/yaegassy/coc-intelephense) - intelephense (PHP language server) extension for coc.nvim. intelephense’s various LSP features and this extension's additional features are available.
 - [themosis/themosis](https://github.com/themosis/themosis) - A framework for WordPress developers.
