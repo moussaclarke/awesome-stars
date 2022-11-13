@@ -10,6 +10,7 @@
 - [android](#android)
 - [angular](#angular)
 - [api](#api)
+- [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
@@ -26,10 +27,12 @@
 - [code-quality](#code-quality)
 - [compiler](#compiler)
 - [cpp](#cpp)
+- [csharp](#csharp)
 - [css](#css)
 - [data-science](#data-science)
 - [data-visualization](#data-visualization)
 - [database](#database)
+- [deep-learning](#deep-learning)
 - [deployment](#deployment)
 - [design](#design)
 - [devops](#devops)
@@ -67,6 +70,7 @@
 - [javascript](#javascript)
 - [js](#js)
 - [json](#json)
+- [julia](#julia)
 - [koa](#koa)
 - [kubernetes](#kubernetes)
 - [language](#language)
@@ -117,7 +121,9 @@
 - [sql](#sql)
 - [sql-server](#sql-server)
 - [swift](#swift)
+- [swiftui](#swiftui)
 - [symfony](#symfony)
+- [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [testing](#testing)
@@ -167,6 +173,10 @@
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Platform on Symfony
 
+## artificial-intelligence 
+
+- [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
+
 ## automation 
 
 - [WordOps/WordOps](https://github.com/WordOps/WordOps) - Install and manage a high performance WordPress stack with a few keystrokes
@@ -212,6 +222,7 @@
 
 ## c 
 
+- [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
@@ -256,13 +267,20 @@
 
 ## compiler 
 
+- [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis
 - [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
 - [ballerina-platform/ballerina-lang](https://github.com/ballerina-platform/ballerina-lang) - The Ballerina Programming Language
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 
 ## cpp 
 
+- [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis
+- [juce-framework/JUCE](https://github.com/juce-framework/JUCE) - JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins.
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
+
+## csharp 
+
+- [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis
 
 ## css 
 
@@ -292,6 +310,10 @@
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [doctrine/dbal](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+
+## deep-learning 
+
+- [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 
 ## deployment 
 
@@ -364,6 +386,7 @@
 
 ## framework 
 
+- [juce-framework/JUCE](https://github.com/juce-framework/JUCE) - JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins.
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [formewp/forme-framework](https://github.com/formewp/forme-framework) - The Forme core framework - knocking WordPress into shape
@@ -445,6 +468,8 @@
 
 ## golang 
 
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go.
+- [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
@@ -469,6 +494,8 @@
 
 ## hacktoberfest 
 
+- [nextcloud/social](https://github.com/nextcloud/social) - 🎉 Social can be used for work, or to connect to the fediverse!
+- [friendica/friendica](https://github.com/friendica/friendica) - Friendica Communications Platform
 - [bttger/contributing-gen-web](https://github.com/bttger/contributing-gen-web) - Web Frontend of contributing-gen - The guideline to communicate how people should contribute to your project.
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
@@ -642,6 +669,10 @@
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [nette/utils](https://github.com/nette/utils) - 🛠 Lightweight utilities for string & array manipulation, image handling, safe JSON encoding/decoding, validation, slug or strong password generating etc.
 
+## julia 
+
+- [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis
+
 ## koa 
 
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
@@ -742,6 +773,9 @@
 
 ## mastodon 
 
+- [nextcloud/social](https://github.com/nextcloud/social) - 🎉 Social can be used for work, or to connect to the fediverse!
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go.
+- [h3poteto/megalodon](https://github.com/h3poteto/megalodon) - Mastodon, Pleroma and Misskey API client library for node.js and browser
 - [ihabunek/toot](https://github.com/ihabunek/toot) - toot - Mastodon CLI & TUI
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [diddledani/twitodon](https://github.com/diddledani/twitodon) - Twitter to Mastodon account mapping service to aid migration away from Twitter without losing all your followed friends
@@ -762,6 +796,7 @@
 
 ## music 
 
+- [supercollider/supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
 - [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
@@ -792,6 +827,7 @@
 
 ## nodejs 
 
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
@@ -827,6 +863,7 @@
 
 ## open-source 
 
+- [nextcloud/social](https://github.com/nextcloud/social) - 🎉 Social can be used for work, or to connect to the fediverse!
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
@@ -838,6 +875,8 @@
 
 ## others 
 
+- [olilarkin/awesome-musicdsp](https://github.com/olilarkin/awesome-musicdsp) - A curated list of my favourite music DSP and audio programming resources
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [READ-ONLY] Set of rules for PHPStan used by Symplify projects.
 - [kernox/Mastodon-Share-Browser-Extension](https://github.com/kernox/Mastodon-Share-Browser-Extension) - A share button for your Mastodon's instance
 - [landrok/activitypub](https://github.com/landrok/activitypub) - A PHP implementation of ActivityPub protocol based upon the ActivityStreams 2.0 data format.
 - [w3c/activitypub](https://github.com/w3c/activitypub) - 
@@ -952,6 +991,7 @@
 
 ## php 
 
+- [friendica/friendica](https://github.com/friendica/friendica) - Friendica Communications Platform
 - [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - Phel is a functional programming language that compiles to PHP. It is a dialect of Lisp inspired by Clojure and Janet.
 - [WordOps/WordOps](https://github.com/WordOps/WordOps) - Install and manage a high performance WordPress stack with a few keystrokes
 - [reactphp/reactphp](https://github.com/reactphp/reactphp) - Event-driven, non-blocking I/O with PHP.
@@ -1064,6 +1104,7 @@
 
 ## python 
 
+- [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [ihabunek/toot](https://github.com/ihabunek/toot) - toot - Mastodon CLI & TUI
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
@@ -1118,6 +1159,7 @@
 
 ## rust 
 
+- [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -1147,6 +1189,7 @@
 
 ## shell 
 
+- [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [bobthecow/psysh](https://github.com/bobthecow/psysh) - A REPL for PHP
@@ -1167,6 +1210,10 @@
 
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 
+## swiftui 
+
+- [iPlug2/iPlug2](https://github.com/iPlug2/iPlug2) - C++ Audio Plug-in Framework for desktop, mobile and web
+
 ## symfony 
 
 - [symfony/string](https://github.com/symfony/string) - Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way.
@@ -1179,6 +1226,10 @@
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
 - [Sylius/AdminOrderCreationPlugin](https://github.com/Sylius/AdminOrderCreationPlugin) - Create orders in Sylius as an Administrator
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Platform on Symfony
+
+## tensorflow 
+
+- [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 
 ## terminal 
 
@@ -1210,6 +1261,7 @@
 
 ## typescript 
 
+- [h3poteto/megalodon](https://github.com/h3poteto/megalodon) - Mastodon, Pleroma and Misskey API client library for node.js and browser
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
@@ -1254,6 +1306,7 @@
 
 ## vue 
 
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [bttger/contributing-gen-web](https://github.com/bttger/contributing-gen-web) - Web Frontend of contributing-gen - The guideline to communicate how people should contribute to your project.
 - [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
