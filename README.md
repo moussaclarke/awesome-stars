@@ -117,6 +117,7 @@
 
 ## JavaScript 
 
+- [le0pard/pgtune](https://github.com/le0pard/pgtune) - Pgtune - tuning PostgreSQL config by your hardware
 - [kernox/Mastodon-Share-Browser-Extension](https://github.com/kernox/Mastodon-Share-Browser-Extension) - A share button for your Mastodon's instance
 - [diddledani/twitodon](https://github.com/diddledani/twitodon) - Twitter to Mastodon account mapping service to aid migration away from Twitter without losing all your followed friends
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
