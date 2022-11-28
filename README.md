@@ -12,6 +12,7 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
+- [Elixir](#elixir)
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -57,6 +58,7 @@
 
 ## C++ 
 
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis
 - [juce-framework/JUCE](https://github.com/juce-framework/JUCE) - JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins.
 - [supercollider/supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
@@ -80,6 +82,10 @@
 ## CoffeeScript 
 
 - [homebrewing/brauhausjs](https://github.com/homebrewing/brauhausjs) - A beer recipe calculator for homebrewing on servers and in browsers
+
+## Elixir 
+
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 ## Go 
 
@@ -229,6 +235,8 @@
 
 ## PHP 
 
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from website
+- [Open-Web-Analytics/Open-Web-Analytics](https://github.com/Open-Web-Analytics/Open-Web-Analytics) - Official repository for Open Web Analytics which is an open source alternative to commercial tools such as Google Analytics. Stay in control of the data you collect about the use of your website or ap
 - [AndrewFeeney/tusk](https://github.com/AndrewFeeney/tusk) - An ActivityPub based microblogging platform modelled on Mastodon based app written in PHP with the Laravel framework as a learning exercise in the ActivityPub protocol
 - [coenjacobs/mozart](https://github.com/coenjacobs/mozart) - Developers tool for WordPress plugins: Wraps all your projects dependencies in your own namespace, in order to prevent conflicts with other plugins loading the same dependencies in different versions.
 - [oomphinc/composer-installers-extender](https://github.com/oomphinc/composer-installers-extender) - Extend the composer/installers plugin to accept any arbitrary package type.
@@ -449,6 +457,7 @@
 
 ## TypeScript 
 
+- [nasa8x/rss-to-json](https://github.com/nasa8x/rss-to-json) - RSS and Atom feed generator for Node.js
 - [neet/masto.js](https://github.com/neet/masto.js) - 🐘 Mastodon API client for JavaScript, TypeScript, Node.js, browsers
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow) - A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph.
