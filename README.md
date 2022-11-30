@@ -58,6 +58,7 @@
 
 ## C++ 
 
+- [swoole/swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis
 - [juce-framework/JUCE](https://github.com/juce-framework/JUCE) - JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins.
@@ -89,6 +90,7 @@
 
 ## Go 
 
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server
 - [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
@@ -133,6 +135,7 @@
 
 ## JavaScript 
 
+- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back
 - [le0pard/pgtune](https://github.com/le0pard/pgtune) - Pgtune - tuning PostgreSQL config by your hardware
 - [kernox/Mastodon-Share-Browser-Extension](https://github.com/kernox/Mastodon-Share-Browser-Extension) - A share button for your Mastodon's instance
