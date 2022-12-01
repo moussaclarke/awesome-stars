@@ -118,6 +118,7 @@
 
 ## HTML 
 
+- [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [w3c/activitypub](https://github.com/w3c/activitypub) - 
 - [googlefonts/atkinson-hyperlegible](https://github.com/googlefonts/atkinson-hyperlegible) - 
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
