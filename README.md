@@ -90,6 +90,7 @@
 
 ## Go 
 
+- [go-pkgz/auth](https://github.com/go-pkgz/auth) - Authenticator via oauth2, direct, email and telegram
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server
