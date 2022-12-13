@@ -41,6 +41,7 @@
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
+- [dotnet](#dotnet)
 - [electron](#electron)
 - [elixir](#elixir)
 - [emoji](#emoji)
@@ -260,6 +261,7 @@
 
 ## cli 
 
+- [minicli/minicli](https://github.com/minicli/minicli) - A minimalist framework for command-line applications in PHP
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [ihabunek/toot](https://github.com/ihabunek/toot) - toot - Mastodon CLI & TUI
 - [WordOps/WordOps](https://github.com/WordOps/WordOps) - Install and manage a high performance WordPress stack with a few keystrokes
@@ -302,6 +304,7 @@
 
 ## csharp 
 
+- [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly.
 - [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis
 
 ## css 
@@ -373,6 +376,10 @@
 
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
+
+## dotnet 
+
+- [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly.
 
 ## electron 
 
@@ -658,6 +665,7 @@
 
 ## java 
 
+- [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly.
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 
 ## javascript 
@@ -971,7 +979,7 @@
 
 ## others 
 
-- [hodgesmr/mastodon_digest](https://github.com/hodgesmr/mastodon_digest) - A Python script that aggregates recent popular tweets from your Mastodon timeline
+- [hodgesmr/mastodon_digest](https://github.com/hodgesmr/mastodon_digest) - A Python script that aggregates recent popular posts from your Mastodon timeline
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Cross-platform application to monitor your network traffic with ease
 - [nikic/FastRoute](https://github.com/nikic/FastRoute) - Fast request router for PHP
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
@@ -1096,6 +1104,7 @@
 
 ## php 
 
+- [minicli/minicli](https://github.com/minicli/minicli) - A minimalist framework for command-line applications in PHP
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from website
