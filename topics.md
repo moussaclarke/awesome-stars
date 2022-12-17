@@ -1014,7 +1014,7 @@
 - [staudenmeir/laravel-adjacency-list](https://github.com/staudenmeir/laravel-adjacency-list) - Recursive Laravel Eloquent relationships with CTEs
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
 - [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar) - ⚡ Explore high-performance tooling for Vue
-- [dingo-d/wp-pest-integration-test-setup](https://github.com/dingo-d/wp-pest-integration-test-setup) - A package that will add WordPress integration test suite with Pest
+- [dingo-d/wp-pest](https://github.com/dingo-d/wp-pest) - A package that will add WordPress integration test suite with Pest
 - [krakjoe/pcov](https://github.com/krakjoe/pcov) - PCOV - CodeCoverage compatible driver for PHP
 - [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 - [thephpleague/fractal](https://github.com/thephpleague/fractal) - Output complex, flexible, AJAX/RESTful data structures.
