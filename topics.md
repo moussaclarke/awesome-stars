@@ -980,6 +980,7 @@
 
 ## others 
 
+- [ther0n/UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) - Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS
 - [Lartsch/FediAct](https://github.com/Lartsch/FediAct) - Chrome/Firefox extension that simplifies interactions on other Mastodon instances than your own.
 - [hodgesmr/mastodon_digest](https://github.com/hodgesmr/mastodon_digest) - A Python script that aggregates recent popular posts from your Mastodon timeline
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Cross-platform application to monitor your network traffic with ease
