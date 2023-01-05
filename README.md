@@ -188,7 +188,6 @@
 - [dropzone/dropzone](https://github.com/dropzone/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
 - [serversideup/amplitudejs](https://github.com/serversideup/amplitudejs) - AmplitudeJS: Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
 - [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
-- [inertiajs/inertia](https://github.com/inertiajs/inertia) - Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [fterrag/vscode-php-cs-fixer](https://github.com/fterrag/vscode-php-cs-fixer) - Support for php-cs-fixer in Visual Studio Code
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
@@ -245,6 +244,7 @@
 
 ## PHP 
 
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - PHP library that helps to map any input into a strongly-typed value object structure.
 - [formewp/forme-plugin](https://github.com/formewp/forme-plugin) - Forme plugin boilerplate
 - [minicli/minicli](https://github.com/minicli/minicli) - A minimalist framework for command-line applications in PHP
 - [nikic/FastRoute](https://github.com/nikic/FastRoute) - Fast request router for PHP
@@ -377,6 +377,7 @@
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
 - [rialto-php/puphpeteer](https://github.com/rialto-php/puphpeteer) - A Puppeteer bridge for PHP, supporting the entire API.
 - [orchidsoftware/platform](https://github.com/orchidsoftware/platform) - Orchid is a @laravel package that allows for rapid application development of back-office applications, admin/user panels, and dashboards.
+- [inertiajs/inertia](https://github.com/inertiajs/inertia) - Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - [Upstatement/routes](https://github.com/Upstatement/routes) - Simple routing for WordPress
