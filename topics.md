@@ -982,6 +982,7 @@
 
 ## others 
 
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - PHP library that helps to map any input into a strongly-typed value object structure.
 - [ther0n/UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) - Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS
 - [Lartsch/FediAct](https://github.com/Lartsch/FediAct) - Chrome/Firefox extension that simplifies interactions on other Mastodon instances than your own.
 - [hodgesmr/mastodon_digest](https://github.com/hodgesmr/mastodon_digest) - A Python script that aggregates recent popular posts from your Mastodon timeline
