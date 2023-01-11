@@ -71,6 +71,7 @@
 - [html5](#html5)
 - [http](#http)
 - [icon-font](#icon-font)
+- [image-processing](#image-processing)
 - [ios](#ios)
 - [java](#java)
 - [javascript](#javascript)
@@ -673,6 +674,10 @@
 
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
+## image-processing 
+
+- [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
+
 ## ios 
 
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
@@ -684,6 +689,7 @@
 
 ## javascript 
 
+- [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
@@ -949,6 +955,7 @@
 
 ## nodejs 
 
+- [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
 - [ehmicky/modern-errors](https://github.com/ehmicky/modern-errors) - Handle errors in a simple, stable, consistent way
@@ -1001,6 +1008,9 @@
 
 ## others 
 
+- [unjs/nitro](https://github.com/unjs/nitro) - ⚗️ Build and deploy universal JavaScript servers
+- [nuxt-themes/docus](https://github.com/nuxt-themes/docus) - Write beautiful documentations with Nuxt 3.
+- [unjs/h3](https://github.com/unjs/h3) - Minimal h(ttp) framework built for high performance and portability ⚡️
 - [caneara/varnish](https://github.com/caneara/varnish) - A library of UI components built using Vue.js and TailwindCSS.
 - [caneara/quest](https://github.com/caneara/quest) - A pseudo fuzzy-searching library for Laravel database queries.
 - [elk-zone/elk-native](https://github.com/elk-zone/elk-native) - Elk + Tauri FTW
