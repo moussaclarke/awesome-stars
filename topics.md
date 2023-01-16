@@ -1094,7 +1094,7 @@
 - [consolidation/comments](https://github.com/consolidation/comments) - A tool for preserving comments, e.g. when parsing YAML files.
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
-- [fiduswriter/simple-datatables](https://github.com/fiduswriter/simple-datatables) - DataTables but in Vanilla ES2018 JS
+- [fiduswriter/simple-datatables](https://github.com/fiduswriter/simple-datatables) - DataTables but in TypeScript transpiled to Vanilla JS
 - [wikimedia/composer-merge-plugin](https://github.com/wikimedia/composer-merge-plugin) - Merge one or more additional composer.json files at Composer runtime
 - [nunomaduro/mock-final-classes](https://github.com/nunomaduro/mock-final-classes) - 🏄‍♂️ Allows mocking final classes in PHP.
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
