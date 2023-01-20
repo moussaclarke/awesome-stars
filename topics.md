@@ -696,6 +696,7 @@
 
 ## javascript 
 
+- [christianvoigt/argdown](https://github.com/christianvoigt/argdown) - a simple syntax for complex argumentation
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
@@ -837,6 +838,7 @@
 
 ## linux 
 
+- [elk-zone/elk-native](https://github.com/elk-zone/elk-native) - Native version of Elk, a nimble Mastodon web
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Cross-platform application to monitor your network traffic with ease
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
@@ -862,6 +864,7 @@
 
 ## macos 
 
+- [elk-zone/elk-native](https://github.com/elk-zone/elk-native) - Native version of Elk, a nimble Mastodon web
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Cross-platform application to monitor your network traffic with ease
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
@@ -892,6 +895,7 @@
 ## mastodon 
 
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
+- [elk-zone/elk-native](https://github.com/elk-zone/elk-native) - Native version of Elk, a nimble Mastodon web
 - [rugk/mastodon-simplified-federation](https://github.com/rugk/mastodon-simplified-federation) - Simplifies following and interacting with remote users on other Mastodon instances.
 - [neet/masto.js](https://github.com/neet/masto.js) - 🐘 Mastodon API client for JavaScript, TypeScript, Node.js, browsers
 - [nextcloud/social](https://github.com/nextcloud/social) - 🎉 Social can be used for work, or to connect to the fediverse!
@@ -1026,7 +1030,6 @@
 - [unjs/h3](https://github.com/unjs/h3) - ⚡️ Minimal h(ttp) framework built for high performance and portability
 - [caneara/varnish](https://github.com/caneara/varnish) - A library of UI components built using Vue.js and TailwindCSS.
 - [caneara/quest](https://github.com/caneara/quest) - A pseudo fuzzy-searching library for Laravel database queries.
-- [elk-zone/elk-native](https://github.com/elk-zone/elk-native) - Elk + Tauri FTW
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - PHP library that helps to map any input into a strongly-typed value object structure.
 - [ther0n/UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) - Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS
 - [Lartsch/FediAct](https://github.com/Lartsch/FediAct) - Chrome/Firefox extension that simplifies interactions on other Mastodon instances than your own.
@@ -1578,6 +1581,7 @@
 
 ## windows 
 
+- [elk-zone/elk-native](https://github.com/elk-zone/elk-native) - Native version of Elk, a nimble Mastodon web
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Cross-platform application to monitor your network traffic with ease
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
