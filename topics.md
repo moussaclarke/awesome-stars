@@ -1677,6 +1677,7 @@
 
 ## wordpress 
 
+- [Log1x/navi](https://github.com/Log1x/navi) - A developer-friendly alternative to the WordPress NavWalker.
 - [formewp/forme-plugin](https://github.com/formewp/forme-plugin) - Forme plugin boilerplate
 - [coenjacobs/mozart](https://github.com/coenjacobs/mozart) - Developers tool for WordPress plugins: Wraps all your projects dependencies in your own namespace, in order to prevent conflicts with other plugins loading the same dependencies in different versions.
 - [darrenjacoby/intervention](https://github.com/darrenjacoby/intervention) - WordPress plugin to configure wp-admin and application state using a single config file.
