@@ -256,6 +256,7 @@
 
 ## PHP 
 
+- [Log1x/navi](https://github.com/Log1x/navi) - A developer-friendly alternative to the WordPress NavWalker.
 - [caneara/quest](https://github.com/caneara/quest) - A pseudo fuzzy-searching library for Laravel database queries.
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - PHP library that helps to map any input into a strongly-typed value object structure.
 - [formewp/forme-plugin](https://github.com/formewp/forme-plugin) - Forme plugin boilerplate
