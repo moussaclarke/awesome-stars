@@ -1073,7 +1073,7 @@
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is an open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
-- [alondmnt/joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) - AI note-taking assistant
+- [alondmnt/joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) - AI note-taking assistant (GPT-3)
 - [agerardin/joplin-plugin-knowledge-graph](https://github.com/agerardin/joplin-plugin-knowledge-graph) - Notes as nodes. Explore your Joplin knowledge graph.
 - [personalizedrefrigerator/joplin-plugin-freehand-drawing](https://github.com/personalizedrefrigerator/joplin-plugin-freehand-drawing) - JSDraw integration for Joplin — a plugin for creating and editing freehand drawings.
 - [Retr0ve/joplin-plugin-emoji](https://github.com/Retr0ve/joplin-plugin-emoji) - Better way to input emoji in Joplin.
