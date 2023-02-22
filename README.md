@@ -336,7 +336,7 @@
 - [moussaclarke/planar](https://github.com/moussaclarke/planar) - Super simple flat file json database / model in PHP
 - [moussaclarke/beatportapi](https://github.com/moussaclarke/beatportapi) - Query the Beatport API via Oauth, server side.
 - [phppkg/cli-markdown](https://github.com/phppkg/cli-markdown) - Render colored  Markdown contents on console terminal
-- [jupeter/clean-code-php](https://github.com/jupeter/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
+- [piotrplenik/clean-code-php](https://github.com/piotrplenik/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
 - [Rareloop/psr7-server-request-extension](https://github.com/Rareloop/psr7-server-request-extension) - 
 - [dannyvankooten/AltoRouter](https://github.com/dannyvankooten/AltoRouter) - PHP routing class. Lightweight yet flexible. Supports REST, dynamic and reversed routing.
 - [jenssegers/blade](https://github.com/jenssegers/blade) - 🔪 A standalone version of Laravel's Blade templating engine for use outside of Laravel.
@@ -398,7 +398,7 @@
 - [Upstatement/routes](https://github.com/Upstatement/routes) - Simple routing for WordPress
 - [Sylius/AdminOrderCreationPlugin](https://github.com/Sylius/AdminOrderCreationPlugin) - Create orders in Sylius as an Administrator
 - [knuckleswtf/scribe](https://github.com/knuckleswtf/scribe) - Generate API documentation for humans from your Laravel codebase.✍
-- [ludofleury/satisfy](https://github.com/ludofleury/satisfy) - Satis composer repository manager with a Web UI
+- [project-satisfy/satisfy](https://github.com/project-satisfy/satisfy) - Satis composer repository manager with a Web UI
 - [FLUX-SE/SyliusPayumStripePlugin](https://github.com/FLUX-SE/SyliusPayumStripePlugin) - Sylius Payum Stripe checkout session gateway plugin (with SCA support)
 - [Brille24/SyliusCustomOptionsPlugin](https://github.com/Brille24/SyliusCustomOptionsPlugin) - A Sylius plugin that adds customer options
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
