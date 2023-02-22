@@ -1149,7 +1149,7 @@
 - [moussaclarke/planar](https://github.com/moussaclarke/planar) - Super simple flat file json database / model in PHP
 - [moussaclarke/ebc2hexjs](https://github.com/moussaclarke/ebc2hexjs) - EBC beer colour measurement to hex colours
 - [moussaclarke/beatportapi](https://github.com/moussaclarke/beatportapi) - Query the Beatport API via Oauth, server side.
-- [jupeter/clean-code-php](https://github.com/jupeter/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
+- [piotrplenik/clean-code-php](https://github.com/piotrplenik/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
 - [php-fig/fig-standards](https://github.com/php-fig/fig-standards) - Standards either proposed or approved by the Framework Interop Group
 - [Rareloop/psr7-server-request-extension](https://github.com/Rareloop/psr7-server-request-extension) - 
 - [illuminate/database](https://github.com/illuminate/database) - [READ ONLY] Subtree split of the Illuminate Database component (see laravel/framework)
@@ -1184,7 +1184,7 @@
 - [SonarSource/sonarlint-vscode](https://github.com/SonarSource/sonarlint-vscode) - SonarLint for Visual Studio Code
 - [Upstatement/routes](https://github.com/Upstatement/routes) - Simple routing for WordPress
 - [knuckleswtf/scribe](https://github.com/knuckleswtf/scribe) - Generate API documentation for humans from your Laravel codebase.✍
-- [ludofleury/satisfy](https://github.com/ludofleury/satisfy) - Satis composer repository manager with a Web UI
+- [project-satisfy/satisfy](https://github.com/project-satisfy/satisfy) - Satis composer repository manager with a Web UI
 - [francisrstokes/super-expressive](https://github.com/francisrstokes/super-expressive) - 🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language
 - [FLUX-SE/SyliusPayumStripePlugin](https://github.com/FLUX-SE/SyliusPayumStripePlugin) - Sylius Payum Stripe checkout session gateway plugin (with SCA support)
 - [Brille24/SyliusCustomOptionsPlugin](https://github.com/Brille24/SyliusCustomOptionsPlugin) - A Sylius plugin that adds customer options
