@@ -603,7 +603,7 @@
 - [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
 - [antfu/icones](https://github.com/antfu/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
-- [nuxt-themes/docus](https://github.com/nuxt-themes/docus) - Write beautiful documentations with Nuxt 3.
+- [nuxt-themes/docus](https://github.com/nuxt-themes/docus) - Write beautiful documentations with Nuxt and Markdown.
 - [caneara/varnish](https://github.com/caneara/varnish) - A library of UI components built using Vue.js and TailwindCSS.
 - [bttger/contributing-gen-web](https://github.com/bttger/contributing-gen-web) - Web Frontend of contributing-gen - The guideline to communicate how people should contribute to your project.
 - [seijikohara/json-tree-view-vue3](https://github.com/seijikohara/json-tree-view-vue3) - JSON tree rendering Vue3 component
