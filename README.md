@@ -18,6 +18,7 @@
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Lua](#lua)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nunjucks](#nunjucks)
@@ -95,6 +96,7 @@
 
 ## Go 
 
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [answerdev/answer](https://github.com/answerdev/answer) - An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC activ
@@ -147,6 +149,7 @@
 
 ## JavaScript 
 
+- [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
@@ -220,6 +223,10 @@
 - [riot/riot](https://github.com/riot/riot) - Simple and elegant component-based UI library
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [Mailtrain-org/mailtrain](https://github.com/Mailtrain-org/mailtrain) - Self hosted newsletter app
+
+## Lua 
+
+- [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) - magit for neovim
 
 ## Makefile 
 
@@ -450,6 +457,7 @@
 
 ## Rust 
 
+- [Piturnah/gex](https://github.com/Piturnah/gex) - Git Explorer: cross-platform git workflow improvement tool inspired by Magit
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
