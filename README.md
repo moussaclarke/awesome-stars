@@ -295,7 +295,7 @@
 - [Brain-WP/BrainMonkey](https://github.com/Brain-WP/BrainMonkey) - Mocking utility for PHP functions and WordPress plugin API
 - [laminas/laminas-i18n](https://github.com/laminas/laminas-i18n) - Provide translations for your application, and filter and validate internationalized values
 - [overtrue/phplint](https://github.com/overtrue/phplint) - :bug:  A tool that can speed up linting of php files by running several lint processes at once.
-- [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community PHP API client that allows you to interact with OpenAI API.
+- [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 - [laracasts/cypress](https://github.com/laracasts/cypress) - Laravel Cypress Integration
 - [deployphp/deployer](https://github.com/deployphp/deployer) - The PHP deployment tool with support for popular frameworks out of the box
 - [laminas/laminas-validator](https://github.com/laminas/laminas-validator) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria
