@@ -50,6 +50,7 @@
 
 ## C 
 
+- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [geany/geany](https://github.com/geany/geany) - A fast and lightweight IDE
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
