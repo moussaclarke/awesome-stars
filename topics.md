@@ -89,6 +89,7 @@
 - [library](#library)
 - [linux](#linux)
 - [lua](#lua)
+- [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
@@ -899,6 +900,10 @@
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
+## mac 
+
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+
 ## machine-learning 
 
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
@@ -1079,6 +1084,7 @@
 
 ## others 
 
+- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
 - [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) - magit for neovim
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [geany/geany](https://github.com/geany/geany) - A fast and lightweight IDE
