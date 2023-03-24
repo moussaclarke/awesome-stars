@@ -169,7 +169,7 @@
 - [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back
 - [le0pard/pgtune](https://github.com/le0pard/pgtune) - Pgtune - tuning PostgreSQL config by your hardware
 - [kernox/Mastodon-Share-Browser-Extension](https://github.com/kernox/Mastodon-Share-Browser-Extension) - A share button for your Mastodon's instance
-- [diddledani/twitodon](https://github.com/diddledani/twitodon) - Twitter to Mastodon account mapping service to aid migration away from Twitter without losing all your followed friends
+- [lucyllewy/twitodon](https://github.com/lucyllewy/twitodon) - Twitter to Mastodon account mapping service to aid migration away from Twitter without losing all your followed friends
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
 - [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
@@ -267,6 +267,7 @@
 
 ## PHP 
 
+- [akaunting/akaunting](https://github.com/akaunting/akaunting) - Free and Online Accounting Software
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - PHPStan based SQL static analysis and type inference for the database access layer
 - [Log1x/navi](https://github.com/Log1x/navi) - A developer-friendly alternative to the WordPress NavWalker.
 - [caneara/quest](https://github.com/caneara/quest) - A pseudo fuzzy-searching library for Laravel database queries.
@@ -470,7 +471,7 @@
 - [thedodd/trunk](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust WASM application to the web.
 - [elk-zone/elk-native](https://github.com/elk-zone/elk-native) - Native version of Elk, a nimble Mastodon web
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your network traffic
-- [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly.
+- [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly (wasm).
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
 - [LemmyNet/activitypub-federation-rust](https://github.com/LemmyNet/activitypub-federation-rust) - High-level Rust library for the Activitypub protocol
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
