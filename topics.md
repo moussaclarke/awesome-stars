@@ -982,6 +982,7 @@
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
 
@@ -1065,6 +1066,7 @@
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [pattern-lab/patternlab-node](https://github.com/pattern-lab/patternlab-node) - The Node version of Pattern Lab
@@ -1191,7 +1193,6 @@
 - [paul-thebaud/phpunitgen-core](https://github.com/paul-thebaud/phpunitgen-core) - PhpUnitGen is a PHP tool to generate your unit tests' skeletons on your projects.
 - [paul-thebaud/phpunitgen-console](https://github.com/paul-thebaud/phpunitgen-console) - PhpUnitGen is a command line tool to generate your unit tests' skeletons on your projects.
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
-- [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [papertower/WP-REST-API-PSR7](https://github.com/papertower/WP-REST-API-PSR7) - PSR-7 Compatible Request & Response sub-classes for working with WP REST API
 - [moussaclarke/planar](https://github.com/moussaclarke/planar) - Super simple flat file json database / model in PHP
 - [moussaclarke/ebc2hexjs](https://github.com/moussaclarke/ebc2hexjs) - EBC beer colour measurement to hex colours
