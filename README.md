@@ -436,7 +436,7 @@
 
 ## Python 
 
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [yasyf/gpt-do](https://github.com/yasyf/gpt-do) - GPT-powered bash commands.
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
 - [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
