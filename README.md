@@ -564,7 +564,7 @@
 - [h3poteto/megalodon](https://github.com/h3poteto/megalodon) - Mastodon, Pleroma and Misskey API client library for node.js and browser
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [yaegassy/coc-intelephense](https://github.com/yaegassy/coc-intelephense) - intelephense (PHP language server) extension for coc.nvim. intelephense’s various LSP features and this extension's additional features are available.
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
 - [dracula/dracula-ui](https://github.com/dracula/dracula-ui) - :vampire: A dark-first collection of UI patterns and components.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
