@@ -267,6 +267,8 @@
 
 ## PHP 
 
+- [beyondcode/laravel-websockets](https://github.com/beyondcode/laravel-websockets) - Websockets for Laravel. Done right.
+- [ratchetphp/Ratchet](https://github.com/ratchetphp/Ratchet) - Asynchronous WebSocket server
 - [kylekatarnls/business-time](https://github.com/kylekatarnls/business-time) - Carbon mixin to handle business days and opening hours
 - [kylekatarnls/business-day](https://github.com/kylekatarnls/business-day) - Carbon mixin to handle business days
 - [akaunting/akaunting](https://github.com/akaunting/akaunting) - Free and Online Accounting Software
@@ -595,7 +597,7 @@
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [sgratzl/chartjs-chart-geo](https://github.com/sgratzl/chartjs-chart-geo) - Chart.js Choropleth and Bubble Maps
 - [fiduswriter/simple-datatables](https://github.com/fiduswriter/simple-datatables) - DataTables but in TypeScript transpiled to Vanilla JS
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
