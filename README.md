@@ -267,6 +267,7 @@
 
 ## PHP 
 
+- [brefphp/bref](https://github.com/brefphp/bref) - Serverless PHP on AWS Lambda
 - [beyondcode/laravel-websockets](https://github.com/beyondcode/laravel-websockets) - Websockets for Laravel. Done right.
 - [ratchetphp/Ratchet](https://github.com/ratchetphp/Ratchet) - Asynchronous WebSocket server
 - [kylekatarnls/business-time](https://github.com/kylekatarnls/business-time) - Carbon mixin to handle business days and opening hours
