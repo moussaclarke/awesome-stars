@@ -1285,6 +1285,7 @@
 
 ## php 
 
+- [brefphp/bref](https://github.com/brefphp/bref) - Serverless PHP on AWS Lambda
 - [ratchetphp/Ratchet](https://github.com/ratchetphp/Ratchet) - Asynchronous WebSocket server
 - [akaunting/akaunting](https://github.com/akaunting/akaunting) - Free and Online Accounting Software
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - PHPStan based SQL static analysis and type inference for the database access layer
@@ -1531,6 +1532,7 @@
 
 ## serverless 
 
+- [brefphp/bref](https://github.com/brefphp/bref) - Serverless PHP on AWS Lambda
 - [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
 
 ## shell 
