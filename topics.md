@@ -392,6 +392,7 @@
 
 ## deno 
 
+- [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 
@@ -1126,6 +1127,7 @@
 
 ## others 
 
+- [jenssegers/model](https://github.com/jenssegers/model) - This model provides an eloquent-like base class that can be used to build custom models in Laravel and other frameworks
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT UI
 - [unjs/unstorage](https://github.com/unjs/unstorage) - 💾 Unstorage provides an async Key-Value storage API with conventional features like multi driver mounting, watching and working with metadata, dozens of built-in drivers and a tiny core.
@@ -1572,6 +1574,7 @@
 
 ## svelte 
 
+- [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
@@ -1642,6 +1645,7 @@
 
 ## typescript 
 
+- [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [wobsoriano/h3-zod](https://github.com/wobsoriano/h3-zod) - TypeScript-first schema validation for h3 and Nuxt applications
 - [ealush/vest](https://github.com/ealush/vest) - Vest ✅ Declarative validations framework
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
@@ -1706,6 +1710,7 @@
 
 ## vue 
 
+- [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [wobsoriano/h3-zod](https://github.com/wobsoriano/h3-zod) - TypeScript-first schema validation for h3 and Nuxt applications
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
