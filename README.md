@@ -614,7 +614,7 @@
 - [krasimir/navigo](https://github.com/krasimir/navigo) - A simple vanilla JavaScript router.
 - [flatpickr/flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
-- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - Toolkit to create floating elements: tooltips, popovers, dropdowns, and more
+- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 - [damian-bal/php-class-generator](https://github.com/damian-bal/php-class-generator) - VSC Extension for generating PHP classes out of compser PSR-4
 - [Vibrant-Colors/node-vibrant](https://github.com/Vibrant-Colors/node-vibrant) - 🎨 Extract prominent colors from an image
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
