@@ -13,7 +13,6 @@
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
-- [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [aws](#aws)
 - [azure](#azure)
@@ -223,14 +222,9 @@
 - [rialto-php/puphpeteer](https://github.com/rialto-php/puphpeteer) - A Puppeteer bridge for PHP, supporting the entire API.
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 
-## awesome 
-
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-
 ## awesome-list 
 
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 
 ## aws 
 
