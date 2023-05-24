@@ -519,6 +519,7 @@
 
 ## SCSS 
 
+- [julianrubisch/better-stimulus](https://github.com/julianrubisch/better-stimulus) - An opinionated collection of StimulusJS best practices
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 
 ## Shell 
