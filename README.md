@@ -306,13 +306,13 @@
 - [darrenjacoby/intervention](https://github.com/darrenjacoby/intervention) - WordPress plugin to configure wp-admin and application state using a single config file.
 - [GrottoPress/wordpress-meta-box](https://github.com/GrottoPress/wordpress-meta-box) - A utility to set up meta boxes in WordPress
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
-- [vinkla/wordplate](https://github.com/vinkla/wordplate) - WordPlate is a boilerplate. It's like building any other WordPress website with themes and plugins. Just with sprinkles on top.
+- [vinkla/wordplate](https://github.com/vinkla/wordplate) - WordPlate is a boilerplate for WordPress, built with Composer and designed with sensible defaults.
 - [vinkla/extended-acf](https://github.com/vinkla/extended-acf) - Register advanced custom fields with object oriented PHP
 - [nextcloud/social](https://github.com/nextcloud/social) - 🎉 Social can be used for work, or to connect to the fediverse!
 - [friendica/friendica](https://github.com/friendica/friendica) - Friendica Communications Platform
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - Advanced rules for PHPStan
 - [landrok/activitypub](https://github.com/landrok/activitypub) - A PHP implementation of ActivityPub protocol based upon the ActivityStreams 2.0 data format.
-- [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - Phel is a functional programming language that compiles to PHP. It is a dialect of Lisp inspired by Clojure and Janet.
+- [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - Phel is a functional programming language that compiles to PHP. A Lisp dialect inspired by Clojure and Janet.
 - [reactphp/reactphp](https://github.com/reactphp/reactphp) - Event-driven, non-blocking I/O with PHP.
 - [lunarphp/lunar](https://github.com/lunarphp/lunar) - An open-source package that brings the power of modern headless e-commerce functionality to Laravel.
 - [stripe/stripe-php](https://github.com/stripe/stripe-php) - PHP library for the Stripe API.
@@ -562,7 +562,7 @@
 - [wobsoriano/h3-zod](https://github.com/wobsoriano/h3-zod) - TypeScript-first schema validation for h3 and Nuxt applications
 - [unjs/unstorage](https://github.com/unjs/unstorage) - 💾 Unstorage provides an async Key-Value storage API with conventional features like multi driver mounting, watching and working with metadata, dozens of built-in drivers and a tiny core.
 - [ealush/vest](https://github.com/ealush/vest) - Vest ✅ Declarative validations framework
-- [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
+- [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [alondmnt/joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) - AI note-taking assistant (semantic search, GPT-3, ChatGPT, GPT-4)
 - [agerardin/joplin-plugin-knowledge-graph](https://github.com/agerardin/joplin-plugin-knowledge-graph) - Notes as nodes. Explore your Joplin knowledge graph.
