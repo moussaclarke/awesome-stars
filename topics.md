@@ -944,7 +944,7 @@
 - [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) - Create and generate sitemaps with ease
 - [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) - IDE Helper for Laravel
 - [spatie/laravel-enum](https://github.com/spatie/laravel-enum) - Laravel support for spatie/enum
-- [innocenzi/laravel-vite](https://github.com/innocenzi/laravel-vite) - Vite integration for Laravel
+- [innocenzi/laravel-vite](https://github.com/innocenzi/laravel-vite) - Vite integration for Laravel (maintenance mode)
 - [bagisto/bagisto](https://github.com/bagisto/bagisto) - Free and open source laravel eCommerce platform
 - [jenssegers/blade](https://github.com/jenssegers/blade) - 🔪 A standalone version of Laravel's Blade templating engine for use outside of Laravel.
 - [nunomaduro/larastan](https://github.com/nunomaduro/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
