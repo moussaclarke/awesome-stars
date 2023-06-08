@@ -167,6 +167,8 @@
 
 ## JavaScript 
 
+- [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
+- [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [haraka/Haraka](https://github.com/haraka/Haraka) - A fast, highly extensible, and event driven SMTP server
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
@@ -551,6 +553,14 @@
 
 ## TypeScript 
 
+- [danielroe/nuxt-vitest](https://github.com/danielroe/nuxt-vitest) - An in-development vitest environment with support for testing code that needs a Nuxt runtime environment
+- [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, high-performance documentation websites with Astro
+- [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, and more
+- [ElMassimo/iles](https://github.com/ElMassimo/iles) - 🏝 The joyful site generator
+- [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
+- [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
+- [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [CodeDredd/pinia-orm](https://github.com/CodeDredd/pinia-orm) - The Pinia plugin to enable Object-Relational Mapping access to the Pinia Store.
 - [nuxt/image](https://github.com/nuxt/image) - Plug-and-play image optimization for Nuxt applications.
 - [onurkerimov/xoid](https://github.com/onurkerimov/xoid) - Framework-agnostic state management library designed for simplicity and scalability ⚛
