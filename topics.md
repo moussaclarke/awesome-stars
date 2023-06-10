@@ -1040,6 +1040,7 @@
 
 ## markdown 
 
+- [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) - The minimalist blog theme, powered by Nuxt & Markdown.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
@@ -1220,6 +1221,7 @@
 
 ## others 
 
+- [nuxt-themes/starter](https://github.com/nuxt-themes/starter) - The best place to start your Nuxt Theme.
 - [danielroe/nuxt-vitest](https://github.com/danielroe/nuxt-vitest) - An in-development vitest environment with support for testing code that needs a Nuxt runtime environment
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, high-performance documentation websites with Astro
 - [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
@@ -1853,6 +1855,7 @@
 
 ## vue 
 
+- [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) - The minimalist blog theme, powered by Nuxt & Markdown.
 - [CodeDredd/pinia-orm](https://github.com/CodeDredd/pinia-orm) - The Pinia plugin to enable Object-Relational Mapping access to the Pinia Store.
 - [onurkerimov/xoid](https://github.com/onurkerimov/xoid) - Framework-agnostic state management library designed for simplicity and scalability ⚛
 - [yaegassy/coc-volar](https://github.com/yaegassy/coc-volar) - Volar (Fast Vue Language Support) extension for coc.nvim
