@@ -102,6 +102,7 @@
 
 ## Go 
 
+- [coder/coder](https://github.com/coder/coder) - A tool that provisions remote development environments via Terraform
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼
@@ -162,6 +163,7 @@
 
 ## Java 
 
+- [QuantumBadger/RedReader](https://github.com/QuantumBadger/RedReader) - An unofficial open source Android app for Reddit.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 
@@ -288,6 +290,8 @@
 
 ## PHP 
 
+- [phparkitect/arkitect](https://github.com/phparkitect/arkitect) - Put your architectural rules under test!
+- [StoutLogic/acf-builder](https://github.com/StoutLogic/acf-builder) - An Advanced Custom Field Configuration Builder
 - [jenssegers/model](https://github.com/jenssegers/model) - This model provides an eloquent-like base class that can be used to build custom models in Laravel and other frameworks
 - [brefphp/bref](https://github.com/brefphp/bref) - Serverless PHP on AWS Lambda
 - [beyondcode/laravel-websockets](https://github.com/beyondcode/laravel-websockets) - Websockets for Laravel. Done right.
@@ -555,6 +559,8 @@
 
 ## TypeScript 
 
+- [kevinmarrec/h3-typebox](https://github.com/kevinmarrec/h3-typebox) - Schema validation utilities for h3, using typebox & ajv
+- [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - JSON Schema Type Builder with Static Type Resolution for TypeScript
 - [nuxt-themes/starter](https://github.com/nuxt-themes/starter) - The best place to start your Nuxt Theme.
 - [danielroe/nuxt-vitest](https://github.com/danielroe/nuxt-vitest) - An in-development vitest environment with support for testing code that needs a Nuxt runtime environment
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, high-performance documentation websites with Astro
