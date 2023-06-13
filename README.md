@@ -290,6 +290,7 @@
 
 ## PHP 
 
+- [antecedent/patchwork](https://github.com/antecedent/patchwork) - Method redefinition (monkey-patching) functionality for PHP.
 - [phparkitect/arkitect](https://github.com/phparkitect/arkitect) - Put your architectural rules under test!
 - [StoutLogic/acf-builder](https://github.com/StoutLogic/acf-builder) - An Advanced Custom Field Configuration Builder
 - [jenssegers/model](https://github.com/jenssegers/model) - This model provides an eloquent-like base class that can be used to build custom models in Laravel and other frameworks
