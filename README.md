@@ -265,7 +265,7 @@
 
 ## Lua 
 
-- [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) - magit for neovim
+- [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - magit for neovim
 
 ## MDX 
 
