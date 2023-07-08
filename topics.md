@@ -425,7 +425,7 @@
 
 ## deno 
 
-- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - ✦ A fast, smart, & global CDN for modern(es2015+) web development.
+- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -511,7 +511,7 @@
 
 ## es6 
 
-- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - ✦ A fast, smart, & global CDN for modern(es2015+) web development.
+- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
@@ -933,7 +933,7 @@
 
 ## js 
 
-- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - ✦ A fast, smart, & global CDN for modern(es2015+) web development.
+- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
 - [fredolss/rater-js](https://github.com/fredolss/rater-js) - Star rating widget for the browser. Unlimited number of stars. No dependencies. No Jquery required.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 
@@ -1229,7 +1229,7 @@
 
 ## npm 
 
-- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - ✦ A fast, smart, & global CDN for modern(es2015+) web development.
+- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
 - [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
