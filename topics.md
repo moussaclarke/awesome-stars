@@ -293,7 +293,7 @@
 
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by GPT-3 and GPT-4, will help you accomplish your tasks faster and more efficiently.
-- [alondmnt/joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) - AI note-taking assistant (semantic search, GPT-3, ChatGPT, GPT-4)
+- [alondmnt/joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) - Joplin assistant running a very intelligent system (OpenAI/ChatGPT, HuggingFace, USE), including: related notes (semantic search), chat with LLMs and your notes, prompt templates, and auto-generated s
 
 ## chrome 
 
