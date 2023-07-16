@@ -465,6 +465,7 @@
 
 ## documentation 
 
+- [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source technical content platform
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
@@ -845,7 +846,7 @@
 
 ## javascript 
 
-- [vriteio/vrite](https://github.com/vriteio/vrite) - Headless CMS for all your technical content
+- [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source technical content platform
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [oven-sh/homebrew-bun](https://github.com/oven-sh/homebrew-bun) - Official Homebrew tap for Bun
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
@@ -1273,6 +1274,8 @@
 
 ## others 
 
+- [pure-data/pure-data](https://github.com/pure-data/pure-data) - Pure Data -  a free real-time computer music system
+- [hugofloresgarcia/unloop](https://github.com/hugofloresgarcia/unloop) - a co-creative looper that uses generative modeling to **not** repeat itself.
 - [aschmelyun/diode](https://github.com/aschmelyun/diode) - A WASM-powered local development environment for Laravel
 - [jetpack-io/typeid](https://github.com/jetpack-io/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs
 - [Sh4yy/cloudflare-email](https://github.com/Sh4yy/cloudflare-email) - This is a simple proxy server that can be used for sending free transactional emails through Cloudflare workers.
@@ -1306,7 +1309,7 @@
 - [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
-- [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is an open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
+- [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [agerardin/joplin-plugin-knowledge-graph](https://github.com/agerardin/joplin-plugin-knowledge-graph) - Notes as nodes. Explore your Joplin knowledge graph.
 - [personalizedrefrigerator/joplin-plugin-freehand-drawing](https://github.com/personalizedrefrigerator/joplin-plugin-freehand-drawing) - JS-Draw integration for Joplin — a plugin for creating and editing freehand drawings.
@@ -1854,7 +1857,7 @@
 
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
-- [vriteio/vrite](https://github.com/vriteio/vrite) - Headless CMS for all your technical content
+- [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source technical content platform
 - [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - JSON Schema Type Builder with Static Type Resolution for TypeScript
 - [onurkerimov/xoid](https://github.com/onurkerimov/xoid) - Framework-agnostic state management library designed for simplicity and scalability ⚛
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.
