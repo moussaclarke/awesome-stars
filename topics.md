@@ -152,6 +152,7 @@
 - [symfony](#symfony)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
+- [termux](#termux)
 - [terraform](#terraform)
 - [testing](#testing)
 - [twitter](#twitter)
@@ -1338,7 +1339,7 @@
 - [hodgesmr/mastodon_digest](https://github.com/hodgesmr/mastodon_digest) - A Python script that aggregates recent popular posts from your Mastodon timeline
 - [nikic/FastRoute](https://github.com/nikic/FastRoute) - Fast request router for PHP
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
-- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
+- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 - [AndrewFeeney/tusk](https://github.com/AndrewFeeney/tusk) - An ActivityPub based microblogging platform modelled on Mastodon based app written in PHP with the Laravel framework as a learning exercise in the ActivityPub protocol
 - [oomphinc/composer-installers-extender](https://github.com/oomphinc/composer-installers-extender) - Extend the composer/installers plugin to accept any arbitrary package type.
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
@@ -1839,6 +1840,10 @@
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
+
+## termux 
+
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
 ## terraform 
 
