@@ -314,6 +314,7 @@
 
 ## PHP 
 
+- [thephpleague/commonmark](https://github.com/thephpleague/commonmark) - Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 - [thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP
 - [seanmorris/php-wasm](https://github.com/seanmorris/php-wasm) - PHP in Browser, powered by WebAssembly. Original Project by Oraoto, ES6 & Clang Upgrades by Sean Morris.
 - [oraoto/pib](https://github.com/oraoto/pib) - PHP in Browser (powered by WebAssembly)
