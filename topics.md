@@ -1542,7 +1542,7 @@
 - [wintercms/winter](https://github.com/wintercms/winter) - Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework.
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [vlucas/valitron](https://github.com/vlucas/valitron) - Valitron is a simple, elegant, stand-alone validation library with NO dependencies
-- [nette/php-generator](https://github.com/nette/php-generator) - 🐘 Generates neat PHP code for you. Supports new PHP 8.2 features.
+- [nette/php-generator](https://github.com/nette/php-generator) - 🐘 Generates neat PHP code for you. Supports new PHP 8.3 features.
 - [qferr/mjml-twig](https://github.com/qferr/mjml-twig) - MJML extension for Twig
 - [qferr/mjml-php](https://github.com/qferr/mjml-php) - A simple PHP library to render MJML to HTML.
 - [bobthecow/psysh](https://github.com/bobthecow/psysh) - A REPL for PHP
