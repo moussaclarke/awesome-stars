@@ -466,7 +466,7 @@
 
 ## documentation 
 
-- [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source technical content management platform
+- [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source technical content management platform | Now in Public Beta
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, high-performance documentation websites with Astro
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
@@ -856,7 +856,7 @@
 ## javascript 
 
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
-- [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source technical content management platform
+- [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source technical content management platform | Now in Public Beta
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [oven-sh/homebrew-bun](https://github.com/oven-sh/homebrew-bun) - Official Homebrew tap for Bun
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
@@ -1884,7 +1884,7 @@
 
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
-- [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source technical content management platform
+- [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source technical content management platform | Now in Public Beta
 - [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - JSON Schema Type Builder with Static Type Resolution for TypeScript
 - [onurkerimov/xoid](https://github.com/onurkerimov/xoid) - Framework-agnostic state management library designed for simplicity and scalability ⚛
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.
