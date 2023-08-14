@@ -467,7 +467,7 @@
 ## documentation 
 
 - [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source technical content management platform | Now in Public Beta
-- [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, high-performance documentation websites with Astro
+- [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
