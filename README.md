@@ -670,7 +670,7 @@
 - [tweedegolf/storage-abstraction](https://github.com/tweedegolf/storage-abstraction) - Provides an abstraction layer for interacting with a storage; the storage can be local or in the cloud.
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
 - [unjs/nitro](https://github.com/unjs/nitro) - Create, build and deploy universal web servers. The open engine powering Nuxt and open to everyone.
-- [unjs/h3](https://github.com/unjs/h3) - ⚡️ Minimal h(ttp) framework built for high performance and portability
+- [unjs/h3](https://github.com/unjs/h3) - ⚡️ Minimal H(TTP) framework built for high performance and portability
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
