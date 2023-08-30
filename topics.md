@@ -559,6 +559,7 @@
 
 ## framework 
 
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - A fully-fledged functional effect system for TypeScript with a rich standard library
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
@@ -1016,7 +1017,7 @@
 - [laravel/lumen](https://github.com/laravel/lumen) - The Laravel Lumen Framework.
 - [area17/twill](https://github.com/area17/twill) - Twill is an open source CMS toolkit for Laravel that helps developers rapidly create a custom admin console that is intuitive, powerful and flexible. Chat with us on Discord at https://discord.gg/cnWk
 - [orchidsoftware/platform](https://github.com/orchidsoftware/platform) - Orchid is a @laravel package that allows for rapid application development of back-office applications, admin/user panels, and dashboards.
-- [mongodb-php/laravel-mongodb](https://github.com/mongodb-php/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
+- [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [vanilophp/framework](https://github.com/vanilophp/framework) - The truly Laravel E-commerce Framework
 - [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 
@@ -1143,7 +1144,7 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
-- [mongodb-php/laravel-mongodb](https://github.com/mongodb-php/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
+- [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
 
 ## monitoring 
@@ -1904,6 +1905,7 @@
 
 ## typescript 
 
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - A fully-fledged functional effect system for TypeScript with a rich standard library
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
