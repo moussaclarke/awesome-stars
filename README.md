@@ -485,7 +485,7 @@
 - [project-satisfy/satisfy](https://github.com/project-satisfy/satisfy) - Satis composer repository manager with a Web UI
 - [FLUX-SE/SyliusPayumStripePlugin](https://github.com/FLUX-SE/SyliusPayumStripePlugin) - Sylius Payum Stripe checkout session gateway plugin (with SCA support)
 - [Brille24/SyliusCustomOptionsPlugin](https://github.com/Brille24/SyliusCustomOptionsPlugin) - A Sylius plugin that adds customer options
-- [mongodb-php/laravel-mongodb](https://github.com/mongodb-php/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
+- [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [LaravelCollective/html](https://github.com/LaravelCollective/html) - HTML and Form Builders for the Laravel Framework
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Framework on Symfony
 - [weprovide/valet-plus](https://github.com/weprovide/valet-plus) - Blazing fast macOS PHP development environment
@@ -607,6 +607,7 @@
 
 ## TypeScript 
 
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - A fully-fledged functional effect system for TypeScript with a rich standard library
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [Dave136/vue-email](https://github.com/Dave136/vue-email) - Write email templates with vue
 - [lautr/initium-nuxt](https://github.com/lautr/initium-nuxt) - An opinionated starter for using Nuxt, Tailwind & Storybook.
