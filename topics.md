@@ -1299,6 +1299,7 @@
 
 ## others 
 
+- [magenta/magenta-studio](https://github.com/magenta/magenta-studio) - Magenta Studio is a collection of music plugins built on Magenta’s open source tools and models
 - [WordPress/sqlite-database-integration](https://github.com/WordPress/sqlite-database-integration) - Feature Plugin to add SQLite support to WordPress. Under Development.
 - [aprietof/every-layout](https://github.com/aprietof/every-layout) - Minimum HTML/CSS/JS needed for recreating Heydon Pickering & Andy Bell's Every Layouts.
 - [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models
