@@ -190,6 +190,7 @@
 
 ## JavaScript 
 
+- [dylang/node-rss](https://github.com/dylang/node-rss) - RSS feed generator for Node.
 - [magenta/magenta-studio](https://github.com/magenta/magenta-studio) - Magenta Studio is a collection of music plugins built on Magenta’s open source tools and models
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground) - Run WordPress in the browser via WebAssembly PHP
@@ -618,7 +619,7 @@
 - [bespoke-surf/bespoke](https://github.com/bespoke-surf/bespoke) - The open source Mailchimp alternative.
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
-- [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source technical content management platform | Now in Public Beta
+- [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source developer content platform | Now in Public Beta
 - [Sh4yy/cloudflare-email](https://github.com/Sh4yy/cloudflare-email) - This is a simple proxy server that can be used for sending free transactional emails through Cloudflare workers.
 - [TypeCellOS/TypeCell](https://github.com/TypeCellOS/TypeCell) - 
 - [algolia/autocomplete](https://github.com/algolia/autocomplete) - 🔮 Fast and full-featured autocomplete library
