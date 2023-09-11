@@ -50,6 +50,7 @@
 
 ## C 
 
+- [nginx/unit](https://github.com/nginx/unit) - NGINX Unit – universal web app server – a lightweight and versatile open source server project that works as a reverse proxy, serves static assets, and runs applications in multiple languages.
 - [pure-data/pure-data](https://github.com/pure-data/pure-data) - Pure Data -  a free real-time computer music system
 - [chrismaltby/gb-studio](https://github.com/chrismaltby/gb-studio) - A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
 - [NetHack/NetHack](https://github.com/NetHack/NetHack) - Official NetHack Git Repository
@@ -191,6 +192,7 @@
 
 ## JavaScript 
 
+- [thesupapp/mobile-app](https://github.com/thesupapp/mobile-app) - 
 - [vuelidate/vuelidate](https://github.com/vuelidate/vuelidate) - Simple, lightweight model-based validation for Vue.js
 - [dylang/node-rss](https://github.com/dylang/node-rss) - RSS feed generator for Node.
 - [magenta/magenta-studio](https://github.com/magenta/magenta-studio) - Magenta Studio is a collection of music plugins built on Magenta’s open source tools and models
@@ -327,6 +329,7 @@
 
 ## PHP 
 
+- [thesupapp/server](https://github.com/thesupapp/server) - The backend for the sup. app
 - [WordPress/sqlite-database-integration](https://github.com/WordPress/sqlite-database-integration) - Feature Plugin to add SQLite support to WordPress. Under Development.
 - [thephpleague/commonmark](https://github.com/thephpleague/commonmark) - Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 - [thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP
