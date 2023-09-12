@@ -1307,7 +1307,7 @@
 
 ## others 
 
-- [nginx/unit](https://github.com/nginx/unit) - NGINX Unit – universal web app server – a lightweight and versatile open source server project that works as a reverse proxy, serves static assets, and runs applications in multiple languages.
+- [nginx/unit](https://github.com/nginx/unit) - NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming l
 - [thesupapp/mobile-app](https://github.com/thesupapp/mobile-app) - 
 - [thesupapp/server](https://github.com/thesupapp/server) - The backend for the sup. app
 - [robbie-cahill/tunnelmole-service](https://github.com/robbie-cahill/tunnelmole-service) - Give local web servers a public URL
