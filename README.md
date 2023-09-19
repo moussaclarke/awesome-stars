@@ -187,6 +187,7 @@
 
 ## JavaScript 
 
+- [javve/list.js](https://github.com/javve/list.js) - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
 - [thesupapp/mobile-app](https://github.com/thesupapp/mobile-app) - 
 - [vuelidate/vuelidate](https://github.com/vuelidate/vuelidate) - Simple, lightweight model-based validation for Vue.js
 - [dylang/node-rss](https://github.com/dylang/node-rss) - RSS feed generator for Node.
