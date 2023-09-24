@@ -1311,6 +1311,9 @@
 
 ## others 
 
+- [EthanRutherford/fast-fuzzy](https://github.com/EthanRutherford/fast-fuzzy) - Fast fuzzy search utility
+- [d8ahazard/FlexTV](https://github.com/d8ahazard/FlexTV) - 
+- [d8ahazard/FlexTV.bundle](https://github.com/d8ahazard/FlexTV.bundle) - Cast media, fetch stats...do more with less. :D
 - [rebing/graphql-laravel](https://github.com/rebing/graphql-laravel) - Laravel wrapper for Facebook's GraphQL
 - [unjs/get-port-please](https://github.com/unjs/get-port-please) - 🔌 Get an available open port
 - [antfu/vscode-server-controller](https://github.com/antfu/vscode-server-controller) - Start a local server to control the VS Code instance.
