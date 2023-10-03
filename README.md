@@ -614,6 +614,7 @@
 
 ## TypeScript 
 
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive Database for JavaScript Applications https://rxdb.info/
 - [moritzsternemann/vue-plausible](https://github.com/moritzsternemann/vue-plausible) - Plausible Analytics Vue.js Plugin and NuxtJS Module
 - [harlan-zw/nuxt-simple-sitemap](https://github.com/harlan-zw/nuxt-simple-sitemap) - Powerfully flexible XML Sitemaps that integrate seamlessly, for Nuxt.
 - [unjs/get-port-please](https://github.com/unjs/get-port-please) - 🔌 Get an available open port
