@@ -906,7 +906,7 @@
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [haraka/Haraka](https://github.com/haraka/Haraka) - A fast, highly extensible, and event driven SMTP server
 - [18alantom/strawberry](https://github.com/18alantom/strawberry) - Zero-dependency, build-free framework for the artisanal web.
-- [onurkerimov/xoid](https://github.com/onurkerimov/xoid) - Framework-agnostic state management library designed for simplicity and scalability ⚛
+- [xoidlabs/xoid](https://github.com/xoidlabs/xoid) - Framework-agnostic state management library designed for simplicity and scalability ⚛
 - [Choices-js/Choices](https://github.com/Choices-js/Choices) - A vanilla JS customisable select box/text input plugin ⚡️
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
@@ -1033,6 +1033,7 @@
 
 ## laravel 
 
+- [open-admin-org/open-admin](https://github.com/open-admin-org/open-admin) - open-admin forked from z-song/laravel-ladmin. Removing jquery, now based on Bootstrap5, vanilla JS
 - [cmgmyr/laravel-messenger](https://github.com/cmgmyr/laravel-messenger) - Simple user messaging package for Laravel
 - [nuwave/lighthouse](https://github.com/nuwave/lighthouse) - A framework for serving GraphQL from Laravel
 - [laracraft-tech/laravel-schema-rules](https://github.com/laracraft-tech/laravel-schema-rules) - Automatically generate Laravel validation rules based on your database table schema!
@@ -1326,6 +1327,7 @@
 
 ## open-source 
 
+- [open-admin-org/open-admin](https://github.com/open-admin-org/open-admin) - open-admin forked from z-song/laravel-ladmin. Removing jquery, now based on Bootstrap5, vanilla JS
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [nextcloud/social](https://github.com/nextcloud/social) - 🎉 Social can be used for work, or to connect to the fediverse!
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
@@ -1730,7 +1732,7 @@
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
-- [onurkerimov/xoid](https://github.com/onurkerimov/xoid) - Framework-agnostic state management library designed for simplicity and scalability ⚛
+- [xoidlabs/xoid](https://github.com/xoidlabs/xoid) - Framework-agnostic state management library designed for simplicity and scalability ⚛
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [answerdev/answer](https://github.com/answerdev/answer) - A Q&A platform software for teams at any scales. Whether it’s a community forum, help center, or knowledge management platform, you can always count on Answer.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
@@ -1885,7 +1887,7 @@
 ## svelte 
 
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
-- [onurkerimov/xoid](https://github.com/onurkerimov/xoid) - Framework-agnostic state management library designed for simplicity and scalability ⚛
+- [xoidlabs/xoid](https://github.com/xoidlabs/xoid) - Framework-agnostic state management library designed for simplicity and scalability ⚛
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
@@ -1977,7 +1979,7 @@
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source developer content platform | Now in Public Beta
 - [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript
-- [onurkerimov/xoid](https://github.com/onurkerimov/xoid) - Framework-agnostic state management library designed for simplicity and scalability ⚛
+- [xoidlabs/xoid](https://github.com/xoidlabs/xoid) - Framework-agnostic state management library designed for simplicity and scalability ⚛
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [neoclide/coc-tsserver](https://github.com/neoclide/coc-tsserver) - Tsserver extension for coc.nvim that provide rich features like VSCode for javascript & typescript
@@ -2062,7 +2064,7 @@
 - [Dave136/vue-email](https://github.com/Dave136/vue-email) - Write email templates with vue
 - [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) - The minimalist blog theme, powered by Nuxt & Markdown.
 - [CodeDredd/pinia-orm](https://github.com/CodeDredd/pinia-orm) - The Pinia plugin to enable Object-Relational Mapping access to the Pinia Store.
-- [onurkerimov/xoid](https://github.com/onurkerimov/xoid) - Framework-agnostic state management library designed for simplicity and scalability ⚛
+- [xoidlabs/xoid](https://github.com/xoidlabs/xoid) - Framework-agnostic state management library designed for simplicity and scalability ⚛
 - [yaegassy/coc-volar](https://github.com/yaegassy/coc-volar) - Volar (Fast Vue Language Support) extension for coc.nvim
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [wobsoriano/h3-zod](https://github.com/wobsoriano/h3-zod) - TypeScript-first schema validation for h3 and Nuxt applications
