@@ -621,6 +621,8 @@
 
 ## TypeScript 
 
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+- [ElMassimo/stimulus-vite-helpers](https://github.com/ElMassimo/stimulus-vite-helpers) - Helpers to easily load all your Stimulus controllers when using Vite.js
 - [Hebilicious/authjs-nuxt](https://github.com/Hebilicious/authjs-nuxt) - AuthJS edge-compatible authentication Nuxt module.
 - [sqids/sqids-javascript](https://github.com/sqids/sqids-javascript) - Official JavaScript port of Sqids. Generate short YouTube-looking IDs from numbers.
 - [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement
