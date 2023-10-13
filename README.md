@@ -548,6 +548,7 @@
 
 ## Ruby 
 
+- [dohliam/bookletizer](https://github.com/dohliam/bookletizer) - Bookletizer - Create foldable booklets from any PDF
 - [oven-sh/homebrew-bun](https://github.com/oven-sh/homebrew-bun) - Official Homebrew tap for Bun
 - [pedrozath/coltrane](https://github.com/pedrozath/coltrane) - 🎹🎸A music theory library with a command-line interface
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
