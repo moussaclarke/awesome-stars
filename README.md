@@ -328,6 +328,7 @@
 
 ## PHP 
 
+- [typesense/laravel-scout-typesense-driver](https://github.com/typesense/laravel-scout-typesense-driver) - Laravel Scout Driver for Typesense
 - [open-admin-org/open-admin](https://github.com/open-admin-org/open-admin) - open-admin forked from z-song/laravel-ladmin. Removing jquery, now based on Bootstrap5, vanilla JS
 - [alleyinteractive/mantle](https://github.com/alleyinteractive/mantle) - Mantle is a framework for building large, robust websites and applications with WordPress
 - [YahnisElsts/plugin-update-checker](https://github.com/YahnisElsts/plugin-update-checker) - A custom update checker for WordPress plugins. Useful if you don't want to host your project in the official WP repository, but would still like it to support automatic updates. Despite the name, it a
