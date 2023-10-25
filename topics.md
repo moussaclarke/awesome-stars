@@ -1469,7 +1469,7 @@
 - [landrok/activitypub](https://github.com/landrok/activitypub) - A PHP implementation of ActivityPub protocol based upon the ActivityStreams 2.0 data format.
 - [w3c/activitypub](https://github.com/w3c/activitypub) - 
 - [Ardour/ardour](https://github.com/Ardour/ardour) - Mirror of Ardour Source Code
-- [helio-fm/helio-workstation](https://github.com/helio-fm/helio-workstation) - One music sequencer for all major platforms, desktop and mobile
+- [helio-fm/helio-sequencer](https://github.com/helio-fm/helio-sequencer) - One music sequencer for all major platforms, desktop and mobile
 - [stripe/stripe-php](https://github.com/stripe/stripe-php) - PHP library for the Stripe API.
 - [aaemnnosttv/wp-sqlite-db](https://github.com/aaemnnosttv/wp-sqlite-db) - A single file drop-in for using a SQLite database with WordPress. Based on the original SQLite Integration plugin.
 - [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
