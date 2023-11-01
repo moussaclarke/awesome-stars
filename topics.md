@@ -740,9 +740,9 @@
 
 ## hacktoberfest 
 
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Toolbox
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - The free & Open Source Alternative to DocuSign
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [cmgmyr/laravel-messenger](https://github.com/cmgmyr/laravel-messenger) - Simple user messaging package for Laravel
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [ankurk91/vue-toast-notification](https://github.com/ankurk91/vue-toast-notification) - Yet another toast notification plugin for Vue.js :tulip:
@@ -1259,6 +1259,8 @@
 
 ## nextjs 
 
+- [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Toolbox
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Git and Visual Editing
 - [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - React component collection.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
@@ -1360,6 +1362,8 @@
 
 ## open-source 
 
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Toolbox
+- [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - The free & Open Source Alternative to DocuSign
 - [open-admin-org/open-admin](https://github.com/open-admin-org/open-admin) - open-admin forked from z-song/laravel-ladmin. Removing jquery, now based on Bootstrap5, vanilla JS
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [nextcloud/social](https://github.com/nextcloud/social) - 🎉 Social can be used for work, or to connect to the fediverse!
@@ -1773,6 +1777,7 @@
 
 ## react 
 
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Toolbox
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - The free & Open Source Alternative to DocuSign
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Git and Visual Editing
 - [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - www.embla-carousel.com — A lightweight carousel library with fluid motion and great swipe precision.
@@ -1807,6 +1812,7 @@
 
 ## reactjs 
 
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Toolbox
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - The free & Open Source Alternative to DocuSign
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative. Cloud version available here -&gt; https://app.coolify.io
@@ -2025,6 +2031,7 @@
 
 ## typescript 
 
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Toolbox
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Git and Visual Editing
 - [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - www.embla-carousel.com — A lightweight carousel library with fluid motion and great swipe precision.
 - [Splidejs/splide](https://github.com/Splidejs/splide) - Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.
