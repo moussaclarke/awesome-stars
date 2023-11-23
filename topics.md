@@ -247,7 +247,7 @@
 
 - [bespoke-surf/bespoke](https://github.com/bespoke-surf/bespoke) - The open source Mailchimp alternative.
 - [WordOps/WordOps](https://github.com/WordOps/WordOps) - Install and manage a high performance WordPress stack with a few keystrokes
-- [captainhookphp/captainhook](https://github.com/captainhookphp/captainhook) - CaptainHook is a very flexible git hook manager for software developers. It enables you to configure your git hook actions in a simple json file and easily share them with your team.
+- [captainhookphp/captainhook](https://github.com/captainhookphp/captainhook) - CaptainHook is a very flexible git hook manager for software developers that makes sharing git hooks with your team a breeze.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [rialto-php/puphpeteer](https://github.com/rialto-php/puphpeteer) - A Puppeteer bridge for PHP, supporting the entire API.
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
@@ -284,6 +284,7 @@
 
 ## bash 
 
+- [nojhan/lp-dotmatrix](https://github.com/nojhan/lp-dotmatrix) - A carefully designed theme for Liquid Prompt, that will change the way you think about your prompt.
 - [liquidprompt/liquidprompt](https://github.com/liquidprompt/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -371,7 +372,7 @@
 
 - [jhofm/ph-puml](https://github.com/jhofm/ph-puml) - PlantUML class diagram generator for PHP code
 - [ehmicky/modern-errors](https://github.com/ehmicky/modern-errors) - Handle errors in a simple, stable, consistent way
-- [captainhookphp/captainhook](https://github.com/captainhookphp/captainhook) - CaptainHook is a very flexible git hook manager for software developers. It enables you to configure your git hook actions in a simple json file and easily share them with your team.
+- [captainhookphp/captainhook](https://github.com/captainhookphp/captainhook) - CaptainHook is a very flexible git hook manager for software developers that makes sharing git hooks with your team a breeze.
 - [phpro/grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool
 
 ## code-review 
@@ -676,7 +677,7 @@
 - [Piturnah/gex](https://github.com/Piturnah/gex) - Git Explorer: cross-platform git workflow improvement tool inspired by Magit
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments Management with Git
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [captainhookphp/captainhook](https://github.com/captainhookphp/captainhook) - CaptainHook is a very flexible git hook manager for software developers. It enables you to configure your git hook actions in a simple json file and easily share them with your team.
+- [captainhookphp/captainhook](https://github.com/captainhookphp/captainhook) - CaptainHook is a very flexible git hook manager for software developers that makes sharing git hooks with your team a breeze.
 - [git-hooks/git-hooks](https://github.com/git-hooks/git-hooks) - git hooks manager
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
@@ -827,7 +828,7 @@
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
-- [captainhookphp/captainhook](https://github.com/captainhookphp/captainhook) - CaptainHook is a very flexible git hook manager for software developers. It enables you to configure your git hook actions in a simple json file and easily share them with your team.
+- [captainhookphp/captainhook](https://github.com/captainhookphp/captainhook) - CaptainHook is a very flexible git hook manager for software developers that makes sharing git hooks with your team a breeze.
 - [phpro/grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool
 - [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH.
 - [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) - IDE Helper for Laravel
@@ -1718,7 +1719,7 @@
 - [emgag/flysystem-tempdir](https://github.com/emgag/flysystem-tempdir) - Flysystem adapter for a self-destroying temporary directory
 - [jolicode/JoliNotif](https://github.com/jolicode/JoliNotif) - :computer: Send notifications to your desktop directly from your PHP script
 - [humbug/php-scoper](https://github.com/humbug/php-scoper) - 🔨 Prefixes all PHP namespaces in a file/directory to isolate the code bundled in PHARs.
-- [captainhookphp/captainhook](https://github.com/captainhookphp/captainhook) - CaptainHook is a very flexible git hook manager for software developers. It enables you to configure your git hook actions in a simple json file and easily share them with your team.
+- [captainhookphp/captainhook](https://github.com/captainhookphp/captainhook) - CaptainHook is a very flexible git hook manager for software developers that makes sharing git hooks with your team a breeze.
 - [phpro/grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool
 - [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) - Create and generate sitemaps with ease
 - [MontealegreLuis/phuml](https://github.com/MontealegreLuis/phuml) - phUML is a UML diagram generator. It takes arbitrary object oriented PHP code and creates fully blown class diagrams of it.
@@ -2008,6 +2009,7 @@
 
 ## shell 
 
+- [nojhan/lp-dotmatrix](https://github.com/nojhan/lp-dotmatrix) - A carefully designed theme for Liquid Prompt, that will change the way you think about your prompt.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by GPT-3 and GPT-4, will help you accomplish your tasks faster and more efficiently.
