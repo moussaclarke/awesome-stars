@@ -24,6 +24,7 @@
 - [Markdown](#markdown)
 - [Max](#max)
 - [Nunjucks](#nunjucks)
+- [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Odin](#odin)
 - [Others](#others)
@@ -200,6 +201,7 @@
 
 ## JavaScript 
 
+- [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [ayoayco/McFly](https://github.com/ayoayco/McFly) - Back to the Basics. Into the Future. 😱
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -325,6 +327,10 @@
 ## Nunjucks 
 
 - [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev) - The frontend, backend, and content source code for web.dev
+
+## OCaml 
+
+- [mirage/mirage](https://github.com/mirage/mirage) - MirageOS is a library operating system that constructs unikernels
 
 ## Objective-C 
 
@@ -686,6 +692,7 @@
 
 ## TypeScript 
 
+- [revertinc/revert](https://github.com/revertinc/revert) - Revert makes it incredibly easy to build integrations with any third party API
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [pockethost/pockethost](https://github.com/pockethost/pockethost) - PocketBase hosting
