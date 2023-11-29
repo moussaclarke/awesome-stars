@@ -99,6 +99,7 @@
 ## CSS 
 
 - [aprietof/every-layout](https://github.com/aprietof/every-layout) - Minimum HTML/CSS/JS needed for recreating Heydon Pickering & Andy Bell's Every Layouts.
+- [hedyorg/hedy](https://github.com/hedyorg/hedy) - Hedy is a gradual programming language to teach children programming. Gradual languages use different language levels, where each level adds new concepts and syntactic complexity. At the end of the He
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [jfbrennan/m-](https://github.com/jfbrennan/m-) - The modern web's design system.
 - [SonarSource/sonarlint-vscode](https://github.com/SonarSource/sonarlint-vscode) - SonarLint for Visual Studio Code
@@ -370,6 +371,7 @@
 
 ## PHP 
 
+- [spatie/mjml-php](https://github.com/spatie/mjml-php) - Convert MJML to HTML using PHP
 - [stevebauman/purify](https://github.com/stevebauman/purify) - An HTML Purifier / Sanitizer for Laravel
 - [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - HTMLPurifier for Laravel 5/6/7/8/9/10
 - [ralphjsmit/laravel-seo](https://github.com/ralphjsmit/laravel-seo) - A package to handle the SEO in any Laravel application, big or small.
@@ -612,7 +614,6 @@
 - [WordOps/WordOps](https://github.com/WordOps/WordOps) - Install and manage a high performance WordPress stack with a few keystrokes
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments Management with Git
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [hedyorg/hedy](https://github.com/hedyorg/hedy) - Hedy is a gradual programming language to teach children programming. Gradual languages use different language levels, where each level adds new concepts and syntactic complexity. At the end of the He
 - [alexmojaki/futurecoder](https://github.com/alexmojaki/futurecoder) - 100% free and interactive Python course for beginners
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 
@@ -633,6 +634,7 @@
 
 ## Rust 
 
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
 - [lnx-search/lnx](https://github.com/lnx-search/lnx) - ⚡ Insanely fast, 🌟 Feature-rich searching. lnx is the adaptable, typo tollerant deployment of the tantivy search engine.
 - [dredozubov/polyrhythmix](https://github.com/dredozubov/polyrhythmix) - Polyrhythmically-inclinded Midi Drum generator
