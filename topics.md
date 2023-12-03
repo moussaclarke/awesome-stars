@@ -504,6 +504,7 @@
 
 ## docker 
 
+- [unjs/ipx](https://github.com/unjs/ipx) - 🖼️ High performance, secure and easy-to-use image optimizer.
 - [tighten/takeout](https://github.com/tighten/takeout) - Docker-based development-only dependency manager. macOS, Linux, and WSL2-only and installs via PHP's Composer... for now.
 - [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) - WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGu
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
@@ -1279,6 +1280,7 @@
 
 ## mongodb 
 
+- [PHPSocialNetwork/phpfastcache](https://github.com/PHPSocialNetwork/phpfastcache) - A high-performance backend cache system.  It is intended for use in speeding up dynamic web applications by alleviating database load.  Well implemented, it can drops the database load to almost nothi
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - The free & Open Source Alternative to DocuSign
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.
@@ -1705,6 +1707,8 @@
 
 ## php 
 
+- [matthiasmullie/scrapbook](https://github.com/matthiasmullie/scrapbook) - PHP cache library, with adapters for e.g. Memcached, Redis, Couchbase, APC(u), SQL and additional capabilities (e.g. transactions, stampede protection) built on top.
+- [PHPSocialNetwork/phpfastcache](https://github.com/PHPSocialNetwork/phpfastcache) - A high-performance backend cache system.  It is intended for use in speeding up dynamic web applications by alleviating database load.  Well implemented, it can drops the database load to almost nothi
 - [jokkedk/webgrind](https://github.com/jokkedk/webgrind) - Xdebug Profiling Web Frontend in PHP
 - [spatie/mjml-php](https://github.com/spatie/mjml-php) - Convert MJML to HTML using PHP
 - [stevebauman/purify](https://github.com/stevebauman/purify) - An HTML Purifier / Sanitizer for Laravel
@@ -2387,6 +2391,7 @@
 
 ## website 
 
+- [PHPSocialNetwork/phpfastcache](https://github.com/PHPSocialNetwork/phpfastcache) - A high-performance backend cache system.  It is intended for use in speeding up dynamic web applications by alleviating database load.  Well implemented, it can drops the database load to almost nothi
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from website
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
