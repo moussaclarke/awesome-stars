@@ -54,6 +54,7 @@
 - [emoji](#emoji)
 - [emulator](#emulator)
 - [es6](#es6)
+- [eslint](#eslint)
 - [express](#express)
 - [finance](#finance)
 - [firebase](#firebase)
@@ -248,6 +249,7 @@
 
 ## automation 
 
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
 - [bespoke-surf/bespoke](https://github.com/bespoke-surf/bespoke) - The open source Mailchimp alternative.
 - [WordOps/WordOps](https://github.com/WordOps/WordOps) - Install and manage a high performance WordPress stack with a few keystrokes
 - [captainhookphp/captainhook](https://github.com/captainhookphp/captainhook) - CaptainHook is a very flexible git hook manager for software developers that makes sharing git hooks with your team a breeze.
@@ -339,6 +341,7 @@
 
 ## cli 
 
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
 - [s3tools/s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
 - [yamafaktory/jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
@@ -580,6 +583,10 @@
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
+
+## eslint 
+
+- [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic) - Monorepo for ESLint Stylistic plugins and configs
 
 ## express 
 
@@ -1710,6 +1717,7 @@
 
 ## php 
 
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
 - [matthiasmullie/scrapbook](https://github.com/matthiasmullie/scrapbook) - PHP cache library, with adapters for e.g. Memcached, Redis, Couchbase, APC(u), SQL and additional capabilities (e.g. transactions, stampede protection) built on top.
 - [PHPSocialNetwork/phpfastcache](https://github.com/PHPSocialNetwork/phpfastcache) - A high-performance backend cache system.  It is intended for use in speeding up dynamic web applications by alleviating database load.  Well implemented, it can drops the database load to almost nothi
 - [jokkedk/webgrind](https://github.com/jokkedk/webgrind) - Xdebug Profiling Web Frontend in PHP
