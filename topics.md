@@ -129,6 +129,7 @@
 - [php](#php)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
+- [privacy](#privacy)
 - [programming](#programming)
 - [project-management](#project-management)
 - [publishing](#publishing)
@@ -1264,6 +1265,7 @@
 
 ## markdown 
 
+- [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [haiwen/seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [thephpleague/commonmark](https://github.com/thephpleague/commonmark) - Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
@@ -1889,6 +1891,13 @@
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 
+## privacy 
+
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from website
+- [Open-Web-Analytics/Open-Web-Analytics](https://github.com/Open-Web-Analytics/Open-Web-Analytics) - Official repository for Open Web Analytics which is an open source alternative to commercial tools such as Google Analytics. Stay in control of the data you collect about the use of your website or ap
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [umputun/remark42](https://github.com/umputun/remark42) - comment engine
+
 ## programming 
 
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
@@ -2029,6 +2038,7 @@
 
 ## rust 
 
+- [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [yamafaktory/jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
