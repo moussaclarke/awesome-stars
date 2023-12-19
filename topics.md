@@ -782,7 +782,7 @@
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go.
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - ***ON HOLIDAY UNTIL 2nd JAN 2023! https://github.com/superseriousbusiness/gotosocial/issues/2477 Happy new year!*** Fast, fun, ActivityPub server, powered by Go.
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
@@ -823,6 +823,7 @@
 
 ## hacktoberfest 
 
+- [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
 - [Astrotomic/laravel-translatable](https://github.com/Astrotomic/laravel-translatable) - A Laravel package for multilingual models
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [s3tools/s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
@@ -1160,6 +1161,9 @@
 
 ## laravel 
 
+- [laravel/valet](https://github.com/laravel/valet) - A more enjoyable local development experience for Mac.
+- [zacksmash/fortify-ui](https://github.com/zacksmash/fortify-ui) - Laravel Fortify driven replacement to the Laravel UI package
+- [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
 - [Astrotomic/laravel-translatable](https://github.com/Astrotomic/laravel-translatable) - A Laravel package for multilingual models
 - [spatie/laravel-translatable](https://github.com/spatie/laravel-translatable) - Making Eloquent models translatable
 - [stevebauman/purify](https://github.com/stevebauman/purify) - An HTML Purifier / Sanitizer for Laravel
@@ -1259,6 +1263,7 @@
 
 ## macos 
 
+- [laravel/valet](https://github.com/laravel/valet) - A more enjoyable local development experience for Mac.
 - [godly-devotion/MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - Run Stable Diffusion on Mac natively
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
@@ -1313,7 +1318,7 @@
 - [rugk/mastodon-simplified-federation](https://github.com/rugk/mastodon-simplified-federation) - Simplifies following and interacting with remote users on other Mastodon instances.
 - [neet/masto.js](https://github.com/neet/masto.js) - 🐘 Universal Mastodon API client for JavaScript
 - [nextcloud/social](https://github.com/nextcloud/social) - 🎉 Social can be used for work, or to connect to the fediverse!
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go.
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - ***ON HOLIDAY UNTIL 2nd JAN 2023! https://github.com/superseriousbusiness/gotosocial/issues/2477 Happy new year!*** Fast, fun, ActivityPub server, powered by Go.
 - [h3poteto/megalodon](https://github.com/h3poteto/megalodon) - Fediverse API client library for node.js and browser
 - [ihabunek/toot](https://github.com/ihabunek/toot) - toot - Mastodon CLI & TUI
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
@@ -1768,6 +1773,7 @@
 
 ## php 
 
+- [laravel/valet](https://github.com/laravel/valet) - A more enjoyable local development experience for Mac.
 - [Astrotomic/laravel-translatable](https://github.com/Astrotomic/laravel-translatable) - A Laravel package for multilingual models
 - [spatie/laravel-translatable](https://github.com/spatie/laravel-translatable) - Making Eloquent models translatable
 - [facebook/hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
