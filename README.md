@@ -229,6 +229,7 @@
 
 ## JavaScript 
 
+- [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
 - [cheeaun/phanpy](https://github.com/cheeaun/phanpy) - A minimalistic opinionated Mastodon web client
@@ -762,7 +763,7 @@
 - [pockethost/pockethost](https://github.com/pockethost/pockethost) - PocketBase hosting
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
-- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Toolbox
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands into code
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
