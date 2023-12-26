@@ -1164,6 +1164,8 @@
 
 ## laravel 
 
+- [protonemedia/laravel-splade](https://github.com/protonemedia/laravel-splade) - 💫 The magic of Inertia.js with the simplicity of Blade 💫 - Splade provides a super easy way to build Single Page Applications (SPA) using standard Laravel Blade templates, and sparkle it to make it in
+- [area17/blast](https://github.com/area17/blast) - Storybook for Laravel Blade 🚀
 - [corcel/corcel](https://github.com/corcel/corcel) - Use WordPress backend with Laravel or any PHP application
 - [laravel/valet](https://github.com/laravel/valet) - A more enjoyable local development experience for Mac.
 - [zacksmash/fortify-ui](https://github.com/zacksmash/fortify-ui) - Laravel Fortify driven replacement to the Laravel UI package
@@ -2215,6 +2217,7 @@
 
 ## storybook 
 
+- [area17/blast](https://github.com/area17/blast) - Storybook for Laravel Blade 🚀
 - [storybook-vue/storybook-nuxt](https://github.com/storybook-vue/storybook-nuxt) - Storybook integration for Nuxt Framework - Unleashing the power of Storybook in Nuxt/Vue Land!"
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 
