@@ -171,7 +171,7 @@
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟
 - [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
-- [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
+- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - ***ON HOLIDAY UNTIL 2nd JAN 2023! https://github.com/superseriousbusiness/gotosocial/issues/2477 Happy new year!*** Fast, fun, ActivityPub server, powered by Go.
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -229,6 +229,7 @@
 
 ## JavaScript 
 
+- [SassDoc/sassdoc](https://github.com/SassDoc/sassdoc) - Release the docs!
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
@@ -582,7 +583,7 @@
 - [qferr/mjml-php](https://github.com/qferr/mjml-php) - A simple PHP library to render MJML to HTML.
 - [bobthecow/psysh](https://github.com/bobthecow/psysh) - A REPL for PHP
 - [staudenmeir/eloquent-json-relations](https://github.com/staudenmeir/eloquent-json-relations) - Laravel Eloquent relationships with JSON keys
-- [Intervention/image](https://github.com/Intervention/image) - PHP Image Manipulation
+- [Intervention/image](https://github.com/Intervention/image) - PHP Image Processing
 - [PHP-DI/PHP-DI](https://github.com/PHP-DI/PHP-DI) - The dependency injection container for humans
 - [thephpleague/plates](https://github.com/thephpleague/plates) - Native PHP template system
 - [thephpleague/csv](https://github.com/thephpleague/csv) - CSV data manipulation made easy in PHP
@@ -760,6 +761,7 @@
 
 ## TypeScript 
 
+- [oddbird/popover-polyfill](https://github.com/oddbird/popover-polyfill) - 
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic) - Monorepo for ESLint Stylistic plugins and configs
 - [unjs/ipx](https://github.com/unjs/ipx) - 🖼️ High performance, secure and easy-to-use image optimizer.
