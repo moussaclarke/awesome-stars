@@ -1540,6 +1540,7 @@
 
 ## others 
 
+- [Andy-set-studio/CUBE-with-tailwind](https://github.com/Andy-set-studio/CUBE-with-tailwind) - 
 - [oddbird/popover-polyfill](https://github.com/oddbird/popover-polyfill) - 
 - [Exafunction/codeium.nvim](https://github.com/Exafunction/codeium.nvim) - A native neovim extension for Codeium
 - [Exafunction/codeium](https://github.com/Exafunction/codeium) - 
