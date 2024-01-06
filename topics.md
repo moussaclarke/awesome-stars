@@ -1365,7 +1365,6 @@
 
 ## music 
 
-- [chavinlo/musicgen_trainer](https://github.com/chavinlo/musicgen_trainer) - simple trainer for musicgen/audiocraft
 - [1aienthusiast/audiocraft-infinity-webui](https://github.com/1aienthusiast/audiocraft-infinity-webui) - 
 - [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
 - [dredozubov/polyrhythmix](https://github.com/dredozubov/polyrhythmix) - Polyrhythmically-inclinded Midi Drum generator
@@ -1590,7 +1589,7 @@
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing
 - [fumeapp/tailvue](https://github.com/fumeapp/tailvue) - Vue components built for Nuxt3|Vue3 powered by Windi CSS|tailwindcss
 - [f3oall/awesome-notifications](https://github.com/f3oall/awesome-notifications) - Lightweight JavaScript Notifications Library
-- [harlan-zw/nuxt-simple-sitemap](https://github.com/harlan-zw/nuxt-simple-sitemap) - Powerfully flexible XML Sitemaps that integrate seamlessly, for Nuxt.
+- [nuxt-modules/sitemap](https://github.com/nuxt-modules/sitemap) - Powerfully flexible XML Sitemaps that integrate seamlessly, for Nuxt.
 - [EthanRutherford/fast-fuzzy](https://github.com/EthanRutherford/fast-fuzzy) - Fast fuzzy search utility
 - [d8ahazard/FlexTV](https://github.com/d8ahazard/FlexTV) - 
 - [d8ahazard/FlexTV.bundle](https://github.com/d8ahazard/FlexTV.bundle) - Cast media, fetch stats...do more with less. :D
