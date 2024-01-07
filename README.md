@@ -93,6 +93,7 @@
 
 ## C++ 
 
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
 - [facebook/hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [mtytel/helm](https://github.com/mtytel/helm) - Helm - a free polyphonic synth with lots of modulation
@@ -234,13 +235,14 @@
 
 ## JavaScript 
 
+- [brix/crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
 - [SassDoc/sassdoc](https://github.com/SassDoc/sassdoc) - Release the docs!
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
 - [cheeaun/phanpy](https://github.com/cheeaun/phanpy) - A minimalistic opinionated Mastodon web client
 - [postcss/autoprefixer](https://github.com/postcss/autoprefixer) - Parse CSS and add vendor prefixes to rules by Can I Use
-- [ayoayco/web-component-base](https://github.com/ayoayco/web-component-base) - Web components in Easy Mode 🧱
+- [ayoayco/web-component-base](https://github.com/ayoayco/web-component-base) - Web Components in Easy Mode 🧱
 - [hound-search/hound](https://github.com/hound-search/hound) - Lightning fast code searching made easy
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [ayoayco/McFly](https://github.com/ayoayco/McFly) - Back to the Basics. Into the Future. 😱
@@ -410,6 +412,9 @@
 
 ## PHP 
 
+- [hotwired-laravel/stimulus-laravel](https://github.com/hotwired-laravel/stimulus-laravel) - Use Stimulus in your Laravel app
+- [tonysm/importmap-laravel](https://github.com/tonysm/importmap-laravel) - Use ESM with import maps to manage modern JavaScript in Laravel without transpiling or bundling.
+- [hotwired-laravel/turbo-laravel](https://github.com/hotwired-laravel/turbo-laravel) - This package gives you a set of conventions to make the most out of Hotwire in Laravel.
 - [protonemedia/laravel-splade](https://github.com/protonemedia/laravel-splade) - 💫 The magic of Inertia.js with the simplicity of Blade 💫 - Splade provides a super easy way to build Single Page Applications (SPA) using standard Laravel Blade templates, and sparkle it to make it in
 - [area17/blast](https://github.com/area17/blast) - Storybook for Laravel Blade 🚀
 - [corcel/corcel](https://github.com/corcel/corcel) - Use WordPress backend with Laravel or any PHP application
@@ -637,7 +642,7 @@
 
 ## Python 
 
-- [davep/oshit](https://github.com/davep/oshit) - OSHit - Get your hit of HackerNews in the terminal
+- [davep/oshit](https://github.com/davep/oshit) - OSHit - Get your hit of the Orange Site in the terminal
 - [TailorDev/Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time!
 - [arefmalek/airdraw](https://github.com/arefmalek/airdraw) - A vision-based drawing application
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
@@ -694,6 +699,7 @@
 
 ## Rust 
 
+- [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
 - [aome510/hackernews-TUI](https://github.com/aome510/hackernews-TUI) - A Terminal UI to browse Hacker News
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [yamafaktory/jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool
@@ -768,6 +774,7 @@
 
 ## TypeScript 
 
+- [antonycourtney/tad](https://github.com/antonycourtney/tad) - A desktop application for viewing and analyzing tabular data
 - [oddbird/popover-polyfill](https://github.com/oddbird/popover-polyfill) - 
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic) - Monorepo for ESLint Stylistic plugins and configs
