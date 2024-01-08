@@ -93,6 +93,9 @@
 
 ## C++ 
 
+- [drowaudio/drowaudio](https://github.com/drowaudio/drowaudio) - dRowAudio applications and plugins
+- [Tracktion/tracktion_engine](https://github.com/Tracktion/tracktion_engine) - Tracktion Engine module
+- [xsco/libdjinterop](https://github.com/xsco/libdjinterop) - C++ library for access to DJ record libraries
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
 - [facebook/hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
@@ -148,6 +151,7 @@
 
 ## Go 
 
+- [kimtore/rex](https://github.com/kimtore/rex) - Rekordbox exporter
 - [imthaghost/goclone](https://github.com/imthaghost/goclone) - Website Cloner - Utilizes powerful Go routines to clone websites to your computer within seconds.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
@@ -235,6 +239,7 @@
 
 ## JavaScript 
 
+- [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.
 - [brix/crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
 - [SassDoc/sassdoc](https://github.com/SassDoc/sassdoc) - Release the docs!
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
@@ -395,6 +400,8 @@
 
 ## Others 
 
+- [MeadowlarkDAW/Dropseed](https://github.com/MeadowlarkDAW/Dropseed) - A modular DAW (Digital Audio Workstation) engine written in Rust
+- [MeadowlarkDAW/Meadowlark](https://github.com/MeadowlarkDAW/Meadowlark) - A (currently incomplete) open-source Digital Audio Workstation
 - [Exafunction/codeium](https://github.com/Exafunction/codeium) - 
 - [TablePlus/DBngin](https://github.com/TablePlus/DBngin) - DB Engine
 - [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) - WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGu
