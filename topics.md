@@ -426,6 +426,7 @@
 
 ## cpp 
 
+- [Tracktion/tracktion_engine](https://github.com/Tracktion/tracktion_engine) - Tracktion Engine module
 - [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis
@@ -659,6 +660,7 @@
 
 ## framework 
 
+- [Tracktion/tracktion_engine](https://github.com/Tracktion/tracktion_engine) - Tracktion Engine module
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - A fully-fledged functional effect system for TypeScript with a rich standard library
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
@@ -1380,6 +1382,7 @@
 
 ## music 
 
+- [MeadowlarkDAW/Meadowlark](https://github.com/MeadowlarkDAW/Meadowlark) - A (currently incomplete) open-source Digital Audio Workstation
 - [1aienthusiast/audiocraft-infinity-webui](https://github.com/1aienthusiast/audiocraft-infinity-webui) - 
 - [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
 - [dredozubov/polyrhythmix](https://github.com/dredozubov/polyrhythmix) - Polyrhythmically-inclinded Midi Drum generator
@@ -1554,6 +1557,11 @@
 
 ## others 
 
+- [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.
+- [drowaudio/drowaudio](https://github.com/drowaudio/drowaudio) - dRowAudio applications and plugins
+- [MeadowlarkDAW/Dropseed](https://github.com/MeadowlarkDAW/Dropseed) - A modular DAW (Digital Audio Workstation) engine written in Rust
+- [kimtore/rex](https://github.com/kimtore/rex) - Rekordbox exporter
+- [xsco/libdjinterop](https://github.com/xsco/libdjinterop) - C++ library for access to DJ record libraries
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
 - [brix/crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
 - [Andy-set-studio/CUBE-with-tailwind](https://github.com/Andy-set-studio/CUBE-with-tailwind) - 
@@ -2119,6 +2127,7 @@
 
 ## rust 
 
+- [MeadowlarkDAW/Meadowlark](https://github.com/MeadowlarkDAW/Meadowlark) - A (currently incomplete) open-source Digital Audio Workstation
 - [aome510/hackernews-TUI](https://github.com/aome510/hackernews-TUI) - A Terminal UI to browse Hacker News
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
