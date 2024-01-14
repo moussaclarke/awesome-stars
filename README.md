@@ -420,6 +420,7 @@
 
 ## PHP 
 
+- [cwsdigital/twill-metadata](https://github.com/cwsdigital/twill-metadata) - SEO Metadata Package for Twill CMS
 - [PrinsFrank/standards](https://github.com/PrinsFrank/standards) - A collection of standards as PHP Enums: ISO3166, ISO4217, ISO639...
 - [hotwired-laravel/stimulus-laravel](https://github.com/hotwired-laravel/stimulus-laravel) - Use Stimulus in your Laravel app
 - [tonysm/importmap-laravel](https://github.com/tonysm/importmap-laravel) - Use ESM with import maps to manage modern JavaScript in Laravel without transpiling or bundling.
@@ -651,6 +652,7 @@
 
 ## Python 
 
+- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, 
 - [davep/oshit](https://github.com/davep/oshit) - OSHit - Get your hit of the Orange Site in the terminal
 - [TailorDev/Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time!
@@ -678,7 +680,7 @@
 - [karrioapi/karrio](https://github.com/karrioapi/karrio) - The universal shipping API (self-hosted)
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [yasyf/gpt-do](https://github.com/yasyf/gpt-do) - GPT-powered bash commands.
-- [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by GPT-3 and GPT-4, will help you accomplish your tasks faster and more efficiently.
+- [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
 - [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
