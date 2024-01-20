@@ -1609,6 +1609,7 @@
 
 ## others 
 
+- [laravel/prompts](https://github.com/laravel/prompts) - Beautiful and user-friendly forms for your command-line PHP applications.
 - [NatronGitHub/natron-plugins](https://github.com/NatronGitHub/natron-plugins) - Natron Community Plugins
 - [GreycLab/gmic](https://github.com/GreycLab/gmic) - GREYC's Magic for Image Computing: A Full-Featured Open-Source Framework for Image Processing
 - [AcademySoftwareFoundation/openfx](https://github.com/AcademySoftwareFoundation/openfx) - OpenFX effects API
