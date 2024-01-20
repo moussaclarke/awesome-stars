@@ -428,6 +428,7 @@
 
 ## PHP 
 
+- [laravel/prompts](https://github.com/laravel/prompts) - Beautiful and user-friendly forms for your command-line PHP applications.
 - [formewp/forme-framework](https://github.com/formewp/forme-framework) - The Forme core framework - knocking WordPress into shape
 - [cwsdigital/twill-metadata](https://github.com/cwsdigital/twill-metadata) - SEO Metadata Package for Twill CMS
 - [PrinsFrank/standards](https://github.com/PrinsFrank/standards) - A collection of standards as PHP Enums: ISO3166, ISO4217, ISO639...
