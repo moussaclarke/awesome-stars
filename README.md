@@ -158,6 +158,7 @@
 
 ## Go 
 
+- [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️
 - [kimtore/rex](https://github.com/kimtore/rex) - Rekordbox exporter
 - [imthaghost/goclone](https://github.com/imthaghost/goclone) - Website Cloner - Utilizes powerful Go routines to clone websites to your computer within seconds.
@@ -247,6 +248,7 @@
 
 ## JavaScript 
 
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.
@@ -428,6 +430,13 @@
 
 ## PHP 
 
+- [yohang/Finite](https://github.com/yohang/Finite) - A Simple PHP Finite State Machine
+- [winzou/state-machine](https://github.com/winzou/state-machine) - 
+- [spatie/laravel-model-states](https://github.com/spatie/laravel-model-states) - State support for models
+- [symfony/workflow](https://github.com/symfony/workflow) - Provides tools for managing a workflow or finite state machine
+- [bobthecow/Ruler](https://github.com/bobthecow/Ruler) - A simple stateless production rules engine for modern PHP
+- [schmittjoh/php-option](https://github.com/schmittjoh/php-option) - Option Type for PHP
+- [ircmaxell/monad-php](https://github.com/ircmaxell/monad-php) - A simple Monad library for PHP
 - [laravel/prompts](https://github.com/laravel/prompts) - Beautiful and user-friendly forms for your command-line PHP applications.
 - [formewp/forme-framework](https://github.com/formewp/forme-framework) - The Forme core framework - knocking WordPress into shape
 - [cwsdigital/twill-metadata](https://github.com/cwsdigital/twill-metadata) - SEO Metadata Package for Twill CMS
@@ -818,7 +827,7 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert curl commands into code
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 26 other languages
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
