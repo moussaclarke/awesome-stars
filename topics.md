@@ -104,6 +104,7 @@
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
+- [low-code](#low-code)
 - [lua](#lua)
 - [mac](#mac)
 - [machine-learning](#machine-learning)
@@ -1337,6 +1338,10 @@
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
+
+## low-code 
+
+- [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 
 ## lua 
 
