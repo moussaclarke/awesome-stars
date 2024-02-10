@@ -256,6 +256,7 @@
 
 ## JavaScript 
 
+- [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [balderdashy/sails](https://github.com/balderdashy/sails) - Realtime MVC Framework for Node.js
 - [bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript) - a small scripting language for the web
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -842,6 +843,7 @@
 
 ## TypeScript 
 
+- [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [volarjs/volar.js](https://github.com/volarjs/volar.js) - 💙🌊
 - [webxdc/webxdc-dev](https://github.com/webxdc/webxdc-dev) - A development server for webxdc apps
 - [deltachat/deltachat-desktop](https://github.com/deltachat/deltachat-desktop) - Email-based instant messaging for Desktop.
