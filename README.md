@@ -25,6 +25,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Max](#max)
@@ -259,6 +260,7 @@
 
 ## JavaScript 
 
+- [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 - [Kalabasa/htmz](https://github.com/Kalabasa/htmz) - html with targeted manipulation zones
 - [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [balderdashy/sails](https://github.com/balderdashy/sails) - Realtime MVC Framework for Node.js
@@ -395,6 +397,10 @@
 - [Exafunction/codeium.nvim](https://github.com/Exafunction/codeium.nvim) - A native neovim extension for Codeium
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
+
+## MDX 
+
+- [openui/open-ui](https://github.com/openui/open-ui) - Maintain an open standard for UI and promote its adherence and adoption.
 
 ## Makefile 
 
