@@ -570,7 +570,7 @@
 
 ## design 
 
-- [ossuminc/riddl](https://github.com/ossuminc/riddl) - A compiler for the opinionated DDD-based design language RIDDL
+- [ossuminc/riddl](https://github.com/ossuminc/riddl) - A compiler for the DDD-based design language RIDDL
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
 
 ## devops 
@@ -2390,7 +2390,7 @@
 
 ## scala 
 
-- [ossuminc/riddl](https://github.com/ossuminc/riddl) - A compiler for the opinionated DDD-based design language RIDDL
+- [ossuminc/riddl](https://github.com/ossuminc/riddl) - A compiler for the DDD-based design language RIDDL
 
 ## security 
 
