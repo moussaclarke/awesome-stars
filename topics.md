@@ -815,6 +815,7 @@
 
 ## go 
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [imthaghost/goclone](https://github.com/imthaghost/goclone) - Website Cloner - Utilizes powerful Go routines to clone websites to your computer within seconds.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
@@ -850,6 +851,7 @@
 
 ## golang 
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [imthaghost/goclone](https://github.com/imthaghost/goclone) - Website Cloner - Utilizes powerful Go routines to clone websites to your computer within seconds.
