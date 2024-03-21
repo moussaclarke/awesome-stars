@@ -1308,7 +1308,7 @@
 - [Astrotomic/laravel-translatable](https://github.com/Astrotomic/laravel-translatable) - A Laravel package for multilingual models
 - [spatie/laravel-translatable](https://github.com/spatie/laravel-translatable) - Making Eloquent models translatable
 - [stevebauman/purify](https://github.com/stevebauman/purify) - A Laravel wrapper for HTMLPurifier by ezyang
-- [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - HTMLPurifier for Laravel 5/6/7/8/9/10
+- [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - HTMLPurifier for Laravel 5/6/7/8/9/10/11
 - [archtechx/tenancy](https://github.com/archtechx/tenancy) - Automatic multi-tenancy for Laravel. No code changes needed.
 - [spatie/laravel-analytics](https://github.com/spatie/laravel-analytics) - A Laravel package to retrieve pageviews and other data from Google Analytics
 - [spatie/laravel-data](https://github.com/spatie/laravel-data) - Powerful data objects for Laravel
@@ -2030,7 +2030,7 @@
 - [jokkedk/webgrind](https://github.com/jokkedk/webgrind) - Xdebug Profiling Web Frontend in PHP
 - [spatie/mjml-php](https://github.com/spatie/mjml-php) - Convert MJML to HTML using PHP
 - [stevebauman/purify](https://github.com/stevebauman/purify) - A Laravel wrapper for HTMLPurifier by ezyang
-- [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - HTMLPurifier for Laravel 5/6/7/8/9/10
+- [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - HTMLPurifier for Laravel 5/6/7/8/9/10/11
 - [spatie/once](https://github.com/spatie/once) - A magic memoization function
 - [jhofm/ph-puml](https://github.com/jhofm/ph-puml) - PlantUML class diagram generator for PHP code
 - [smeghead/php-class-diagram](https://github.com/smeghead/php-class-diagram) - A CLI tool that parses the PHP source directory and outputs PlantUML class diagram scripts.
