@@ -1037,7 +1037,6 @@
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
 - [Sylius/AdminOrderCreationPlugin](https://github.com/Sylius/AdminOrderCreationPlugin) - Create orders in Sylius as an Administrator
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
-- [project-satisfy/satisfy](https://github.com/project-satisfy/satisfy) - Satis composer repository manager with a Web UI
 - [buttercup/buttercup-browser-extension](https://github.com/buttercup/buttercup-browser-extension) - :earth_asia: Buttercup browser extension
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Framework on Symfony
 - [vanilophp/framework](https://github.com/vanilophp/framework) - The truly Laravel E-commerce Framework
@@ -1716,6 +1715,8 @@
 
 ## others 
 
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
+- [codymikol/git-down](https://github.com/codymikol/git-down) - A rewrite of the popular project GitUp that works in Linux, Mac, and Windows.
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [neatnik/typo](https://github.com/neatnik/typo) - Typo is a more natural web typing thing
@@ -1969,6 +1970,7 @@
 - [SonarSource/sonarlint-vscode](https://github.com/SonarSource/sonarlint-vscode) - SonarLint for Visual Studio Code
 - [Upstatement/routes](https://github.com/Upstatement/routes) - Simple routing for WordPress
 - [knuckleswtf/scribe](https://github.com/knuckleswtf/scribe) - Generate API documentation for humans from your Laravel codebase.✍
+- [project-satisfy/satisfy](https://github.com/project-satisfy/satisfy) - Satis composer repository manager with a Web UI
 - [francisrstokes/super-expressive](https://github.com/francisrstokes/super-expressive) - 🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language
 - [FLUX-SE/SyliusPayumStripePlugin](https://github.com/FLUX-SE/SyliusPayumStripePlugin) - Sylius Payum Stripe gateway plugin (with SCA support)
 - [Brille24/SyliusCustomOptionsPlugin](https://github.com/Brille24/SyliusCustomOptionsPlugin) - A Sylius plugin that adds customer options
