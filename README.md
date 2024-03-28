@@ -162,6 +162,7 @@
 
 ## Go 
 
+- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
 - [omriharel/deej](https://github.com/omriharel/deej) - Set app volumes with real sliders! deej is an Arduino & Go project to let you build your own hardware mixer for Windows and Linux
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, hea
@@ -227,6 +228,7 @@
 
 ## HTML 
 
+- [formkit/drag-and-drop](https://github.com/formkit/drag-and-drop) - 
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
 - [konstantin-lukas/intl-currency-input](https://github.com/konstantin-lukas/intl-currency-input) - This library allows you to have currency inputs with custom formatting in your HTML forms!
 - [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web
@@ -879,6 +881,8 @@
 
 ## TypeScript 
 
+- [formkit/tempo](https://github.com/formkit/tempo) - 📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript.
+- [AnatolyUss/nmig](https://github.com/AnatolyUss/nmig) - NMIG is a database migration tool, written in Node.js and highly inspired by FromMySqlToPostgreSql.
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
