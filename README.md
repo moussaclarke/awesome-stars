@@ -422,7 +422,7 @@
 
 ## Makefile 
 
-- [nojhan/lp-dotmatrix](https://github.com/nojhan/lp-dotmatrix) - A carefully designed theme for Liquid Prompt, that will change the way you think about your prompt.
+- [nojhan/lp-jolly](https://github.com/nojhan/lp-jolly) - A carefully designed theme for Liquid Prompt, that will change the way you think about your prompt.
 - [libretro/Lakka-LibreELEC](https://github.com/libretro/Lakka-LibreELEC) - Lakka is a lightweight Linux distribution that transforms a small computer into a full blown game console.
 
 ## Markdown 
@@ -870,6 +870,7 @@
 
 ## Swift 
 
+- [MrKai77/Loop](https://github.com/MrKai77/Loop) - MacOS window management made elegant.
 - [MochiDiffusion/MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion) - Run Stable Diffusion on Mac natively
 - [ninxsoft/Mist](https://github.com/ninxsoft/Mist) - A Mac utility that automatically downloads macOS Firmwares / Installers.
 - [ninxsoft/mist-cli](https://github.com/ninxsoft/mist-cli) - A Mac command-line tool that automatically downloads macOS Firmwares / Installers.
@@ -884,6 +885,7 @@
 
 ## TypeScript 
 
+- [proposal-signals/proposal-signals](https://github.com/proposal-signals/proposal-signals) - A proposal to add signals to JavaScript.
 - [squirrellyjs/squirrelly](https://github.com/squirrellyjs/squirrelly) - Semi-embedded JS template engine that supports helpers, filters, partials, and template inheritance. 4KB minzipped, written in TypeScript ⛺
 - [formkit/tempo](https://github.com/formkit/tempo) - 📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript.
 - [AnatolyUss/nmig](https://github.com/AnatolyUss/nmig) - NMIG is a database migration tool, written in Node.js and highly inspired by FromMySqlToPostgreSql.
