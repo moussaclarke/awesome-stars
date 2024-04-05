@@ -1057,6 +1057,7 @@
 
 ## haskell 
 
+- [tidalcycles/Tidal](https://github.com/tidalcycles/Tidal) - Pattern language
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
@@ -1122,6 +1123,9 @@
 
 ## javascript 
 
+- [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music/audio DSP library written in Rust
+- [tidalcycles/strudel](https://github.com/tidalcycles/strudel) - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
+- [tonaljs/tonal](https://github.com/tonaljs/tonal) - A functional music theory library for Javascript
 - [squirrellyjs/squirrelly](https://github.com/squirrellyjs/squirrelly) - Semi-embedded JS template engine that supports helpers, filters, partials, and template inheritance. 4KB minzipped, written in TypeScript ⛺
 - [formkit/tempo](https://github.com/formkit/tempo) - 📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript.
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
@@ -1297,6 +1301,7 @@
 
 ## language 
 
+- [tidalcycles/Tidal](https://github.com/tidalcycles/Tidal) - Pattern language
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [Astrotomic/laravel-translatable](https://github.com/Astrotomic/laravel-translatable) - A Laravel package for multilingual models
 - [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - Phel is a functional programming language that compiles to PHP. A Lisp dialect inspired by Clojure and Janet.
@@ -1534,6 +1539,9 @@
 
 ## music 
 
+- [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music/audio DSP library written in Rust
+- [tidalcycles/strudel](https://github.com/tidalcycles/strudel) - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
+- [tonaljs/tonal](https://github.com/tonaljs/tonal) - A functional music theory library for Javascript
 - [funmusicplace/mirlo](https://github.com/funmusicplace/mirlo) - An open source audio distribution and patronage platform
 - [MeadowlarkDAW/Meadowlark](https://github.com/MeadowlarkDAW/Meadowlark) - A (currently incomplete) open-source Digital Audio Workstation
 - [chavinlo/musicgen_trainer](https://github.com/chavinlo/musicgen_trainer) - simple trainer for musicgen/audiocraft
@@ -1805,7 +1813,7 @@
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [mtytel/helm](https://github.com/mtytel/helm) - Helm - a free polyphonic synth with lots of modulation
 - [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
-- [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-lice
+- [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - Pretrain, finetune and deploy over 20 LLMs. Uses state-of-the-art techniques like flash attention, 4-bit, LoRA, and more.
 - [facebookresearch/flashy](https://github.com/facebookresearch/flashy) - Framework for writing deep learning training loops. Lightweight, and retaining full freedom to design as you see fits. It handles checkpointing, logging, distributed, compatibility with Dora, and more
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [luikore/stimulus-bind](https://github.com/luikore/stimulus-bind) - Enable simple data binding for stimulusjs
@@ -2384,6 +2392,7 @@
 
 ## rust 
 
+- [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music/audio DSP library written in Rust
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
@@ -2645,6 +2654,7 @@
 
 ## typescript 
 
+- [tonaljs/tonal](https://github.com/tonaljs/tonal) - A functional music theory library for Javascript
 - [squirrellyjs/squirrelly](https://github.com/squirrellyjs/squirrelly) - Semi-embedded JS template engine that supports helpers, filters, partials, and template inheritance. 4KB minzipped, written in TypeScript ⛺
 - [formkit/tempo](https://github.com/formkit/tempo) - 📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript.
 - [tk04/Marker](https://github.com/tk04/Marker) - A Desktop App for Easily Viewing and Editing Markdown Files
