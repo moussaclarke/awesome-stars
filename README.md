@@ -186,7 +186,7 @@
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
-- [jetpack-io/typeid](https://github.com/jetpack-io/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs
+- [jetify-com/typeid](https://github.com/jetify-com/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs
 - [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
@@ -460,6 +460,7 @@
 
 ## Others 
 
+- [bvdzynski/jsfx_mastering_suite](https://github.com/bvdzynski/jsfx_mastering_suite) - Open-source collection of JSFX (JesuSonic plugins) for Reaper. Plugins are made for use in mastering stage of music production.
 - [micro-editor/plugin-channel](https://github.com/micro-editor/plugin-channel) - Official plugin channel for micro
 - [joplin-vieweb/joplin-vieweb](https://github.com/joplin-vieweb/joplin-vieweb) - A web viewer for Joplin app
 - [MeadowlarkDAW/Dropseed](https://github.com/MeadowlarkDAW/Dropseed) - A modular DAW (Digital Audio Workstation) engine written in Rust
@@ -731,6 +732,8 @@
 
 ## Python 
 
+- [sergree/matchering-cli](https://github.com/sergree/matchering-cli) - 🎚️ Simple Matchering 2.0 Command Line Application
+- [sergree/matchering](https://github.com/sergree/matchering) - 🎚️ Open Source Audio Matching and Mastering
 - [chrisdonahue/wavegan](https://github.com/chrisdonahue/wavegan) - WaveGAN: Learn to synthesize raw audio with generative adversarial networks
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
@@ -921,7 +924,7 @@
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. CURRENTLY LIVE ON KICKSTARTER! 👇👇👇
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME. WE ARE LIVE ON KICKSTARTER! 👇👇👇
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [antonycourtney/tad](https://github.com/antonycourtney/tad) - A desktop application for viewing and analyzing tabular data
 - [oddbird/popover-polyfill](https://github.com/oddbird/popover-polyfill) - Polyfills the HTML popover attribute and showPopover/hidePopover/togglePopover methods onto HTMLElement, as well as the popovertarget and popovertargetaction attributes on &lt;button&gt; elements.
@@ -989,7 +992,7 @@
 - [nuxt/image](https://github.com/nuxt/image) - Plug-and-play image optimization for Nuxt applications.
 - [xoidlabs/xoid](https://github.com/xoidlabs/xoid) - Framework-agnostic state management library designed for simplicity and scalability ⚛
 - [Choices-js/Choices](https://github.com/Choices-js/Choices) - A vanilla JS customisable select box/text input plugin ⚡️
-- [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.
+- [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [mohammed-bahumaish/prisma-editor](https://github.com/mohammed-bahumaish/prisma-editor) - Prisma Editor - A powerful tool to visualize and edit Prisma Schema.
 - [yaegassy/coc-volar](https://github.com/yaegassy/coc-volar) - Volar (Fast Vue Language Support) extension for coc.nvim
@@ -1041,7 +1044,7 @@
 - [h3poteto/megalodon](https://github.com/h3poteto/megalodon) - Fediverse API client library for node.js and browser
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [yaegassy/coc-intelephense](https://github.com/yaegassy/coc-intelephense) - intelephense (PHP language server) extension for coc.nvim. intelephense’s various LSP features and this extension's additional features are available.
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
+- [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [dracula/dracula-ui](https://github.com/dracula/dracula-ui) - :vampire: A dark-first collection of UI patterns and components.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
