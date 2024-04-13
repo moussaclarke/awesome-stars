@@ -394,6 +394,8 @@
 
 ## cli 
 
+- [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
+- [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [sergree/matchering-cli](https://github.com/sergree/matchering-cli) - 🎚️ Simple Matchering 2.0 Command Line Application
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [buttercup/buttercup-cli](https://github.com/buttercup/buttercup-cli) - Buttercup password manager for the command line
@@ -685,6 +687,7 @@
 
 ## es6 
 
+- [jonobr1/two.js](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web.
 - [seanmorris/php-wasm](https://github.com/seanmorris/php-wasm) - PHP in Browser, powered by WebAssembly.
 - [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
@@ -834,6 +837,7 @@
 
 ## go 
 
+- [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [omriharel/deej](https://github.com/omriharel/deej) - Set app volumes with real sliders! deej is an Arduino & Go project to let you build your own hardware mixer for Windows and Linux
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
@@ -872,6 +876,7 @@
 
 ## golang 
 
+- [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
@@ -1100,6 +1105,7 @@
 
 ## html5 
 
+- [jonobr1/two.js](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [serversideup/amplitudejs](https://github.com/serversideup/amplitudejs) - AmplitudeJS: Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
@@ -1134,6 +1140,7 @@
 
 ## javascript 
 
+- [jonobr1/two.js](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music/audio DSP library written in Rust
 - [tidalcycles/strudel](https://github.com/tidalcycles/strudel) - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
@@ -2432,6 +2439,7 @@
 
 ## rust 
 
+- [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [volllly/rotz](https://github.com/volllly/rotz) - Fully cross platform dotfile manager and dev environment bootstrapper written in Rust.
 - [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music/audio DSP library written in Rust
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
@@ -2647,6 +2655,8 @@
 
 ## terminal 
 
+- [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
+- [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
 - [aome510/hackernews-TUI](https://github.com/aome510/hackernews-TUI) - A Terminal UI to browse Hacker News
 - [davep/oshit](https://github.com/davep/oshit) - OSHit - Get your hit of the Orange Site in the terminal
