@@ -95,6 +95,7 @@
 - [java](#java)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
+- [jquery](#jquery)
 - [js](#js)
 - [json](#json)
 - [julia](#julia)
@@ -1085,6 +1086,7 @@
 
 ## html 
 
+- [vstelmakh/url-highlight](https://github.com/vstelmakh/url-highlight) - PHP library to parse urls from string input
 - [Kalabasa/htmz](https://github.com/Kalabasa/htmz) - html with targeted manipulation zones
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME. WE ARE LIVE ON KICKSTARTER! 👇👇👇
 - [spatie/mjml-php](https://github.com/spatie/mjml-php) - Convert MJML to HTML using PHP
@@ -1274,6 +1276,10 @@
 ## jekyll 
 
 - [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - A user-friendly CMS for static site generators.
+
+## jquery 
+
+- [geosigno/simpleParallax.js](https://github.com/geosigno/simpleParallax.js) - Simple and tiny JavaScript library that adds parallax animations on any images
 
 ## js 
 
@@ -1777,6 +1783,7 @@
 
 ## others 
 
+- [nk-o/jarallax](https://github.com/nk-o/jarallax) - Parallax scrolling for modern browsers
 - [zengm-games/facesjs](https://github.com/zengm-games/facesjs) - A JavaScript library for generating vector-based cartoon faces
 - [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
 - [tc39/proposal-signals](https://github.com/tc39/proposal-signals) - A proposal to add signals to JavaScript.
@@ -2093,6 +2100,7 @@
 
 ## php 
 
+- [vstelmakh/url-highlight](https://github.com/vstelmakh/url-highlight) - PHP library to parse urls from string input
 - [spatie/laravel-feed](https://github.com/spatie/laravel-feed) - Easily generate RSS feeds
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers
 - [symfony/workflow](https://github.com/symfony/workflow) - Provides tools for managing a workflow or finite state machine
