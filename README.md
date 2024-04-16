@@ -62,6 +62,7 @@
 
 ## C 
 
+- [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
 - [NoiseByNorthwest/php-spx](https://github.com/NoiseByNorthwest/php-spx) - A simple & straight-to-the-point PHP profiling extension with its built-in web UI
@@ -96,6 +97,7 @@
 
 ## C++ 
 
+- [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [tidalcycles/Tidal](https://github.com/tidalcycles/Tidal) - Pattern language
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [GreycLab/gmic](https://github.com/GreycLab/gmic) - GREYC's Magic for Image Computing: A Full-Featured Open-Source Framework for Image Processing
@@ -127,6 +129,7 @@
 
 ## CSS 
 
+- [brainsum/cookieconsent](https://github.com/brainsum/cookieconsent) - A Javascript based solution for blocking/allowing even 3rd party cookies to comply with GDPR
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [webxdc/webxdc_docs](https://github.com/webxdc/webxdc_docs) - Documentation for Webxdc
 - [Andy-set-studio/CUBE-with-tailwind](https://github.com/Andy-set-studio/CUBE-with-tailwind) - 
@@ -272,6 +275,9 @@
 
 ## JavaScript 
 
+- [klaro-org/klaro-js](https://github.com/klaro-org/klaro-js) - Klaro Privacy Manager. An open-source, privacy-friendly & compliant consent manager for your website.
+- [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js
+- [osano/cookieconsent](https://github.com/osano/cookieconsent) - A free solution to the EU, GDPR, and California Cookie Laws
 - [geosigno/simpleParallax.js](https://github.com/geosigno/simpleParallax.js) - Simple and tiny JavaScript library that adds parallax animations on any images
 - [nk-o/jarallax](https://github.com/nk-o/jarallax) - Parallax scrolling for modern browsers
 - [jonobr1/two.js](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web.
@@ -422,6 +428,7 @@
 
 ## Lua 
 
+- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [NicolaiSoeborg/filemanager-plugin](https://github.com/NicolaiSoeborg/filemanager-plugin) - A file manager plugin for the editor "Micro"
 - [AndCake/micro-plugin-lsp](https://github.com/AndCake/micro-plugin-lsp) - An LSP Client implementation for the Micro Editor
 - [Exafunction/codeium.nvim](https://github.com/Exafunction/codeium.nvim) - A native neovim extension for Codeium
@@ -739,6 +746,7 @@
 
 ## Python 
 
+- [wee-slack/wee-slack](https://github.com/wee-slack/wee-slack) - A WeeChat script for Slack.com. Supports threads and reactions, synchronizes read markers, provides typing notification, etc..
 - [sergree/matchering-cli](https://github.com/sergree/matchering-cli) - 🎚️ Simple Matchering 2.0 Command Line Application
 - [sergree/matchering](https://github.com/sergree/matchering) - 🎚️ Open Source Audio Matching and Mastering
 - [chrisdonahue/wavegan](https://github.com/chrisdonahue/wavegan) - WaveGAN: Learn to synthesize raw audio with generative adversarial networks
@@ -904,6 +912,7 @@
 
 ## TypeScript 
 
+- [antonk52/coc-cssmodules](https://github.com/antonk52/coc-cssmodules) - css modules autocompletion and go to definition coc.nvim plugin
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A functional music theory library for Javascript
 - [tc39/proposal-signals](https://github.com/tc39/proposal-signals) - A proposal to add signals to JavaScript.
