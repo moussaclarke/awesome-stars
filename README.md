@@ -173,7 +173,7 @@
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
 - [omriharel/deej](https://github.com/omriharel/deej) - Set app volumes with real sliders! deej is an Arduino & Go project to let you build your own hardware mixer for Windows and Linux
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, hea
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [boringproxy/boringproxy](https://github.com/boringproxy/boringproxy) - Simple tunneling reverse proxy with a fast web UI and auto HTTPS. Designed for self-hosters.
