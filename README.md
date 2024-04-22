@@ -63,6 +63,7 @@
 
 ## C 
 
+- [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
@@ -297,7 +298,7 @@
 - [css/csso](https://github.com/css/csso) - CSS minifier with structural optimizations
 - [neatnik/typo](https://github.com/neatnik/typo) - Typo is a more natural web typing thing
 - [insin/control-panel-for-youtube](https://github.com/insin/control-panel-for-youtube) - Browser extension which gives you more control over YouTube by adding missing options and UI improvements - for desktop & mobile browsers
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable!
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [nuejs/nue](https://github.com/nuejs/nue) - The Content First Web Framework
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 - [Kalabasa/htmz](https://github.com/Kalabasa/htmz) - html with targeted manipulation zones
