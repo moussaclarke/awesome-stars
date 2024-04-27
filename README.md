@@ -99,6 +99,7 @@
 
 ## C++ 
 
+- [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C++ Terminal Emulator
 - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [tidalcycles/Tidal](https://github.com/tidalcycles/Tidal) - Pattern language
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
