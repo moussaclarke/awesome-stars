@@ -1051,7 +1051,7 @@
 - [ealush/vest](https://github.com/ealush/vest) - Vest ✅ Declarative validations framework
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
-- [alondmnt/joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) - Joplin (note-taking) assistant running a very intelligent system (OpenAI/GPT, Hugging Face, PaLM, GPT4All, Universal Sentence Encoder)
+- [alondmnt/joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) - Joplin (note-taking) assistant running a very intelligent system (OpenAI/GPT, Hugging Face, Gemini, Llama, Universal Sentence Encoder, etc.)
 - [agerardin/joplin-plugin-knowledge-graph](https://github.com/agerardin/joplin-plugin-knowledge-graph) - Notes as nodes. Explore your Joplin knowledge graph.
 - [personalizedrefrigerator/joplin-plugin-freehand-drawing](https://github.com/personalizedrefrigerator/joplin-plugin-freehand-drawing) - JS-draw integration for Joplin — a plugin for creating and editing freehand drawings.
 - [Retr0ve/joplin-plugin-emoji](https://github.com/Retr0ve/joplin-plugin-emoji) - Better way to input emoji in Joplin.
