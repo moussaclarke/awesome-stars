@@ -1493,6 +1493,7 @@
 
 ## lua 
 
+- [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim.
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
 - [luukvbaal/nnn.nvim](https://github.com/luukvbaal/nnn.nvim) - File manager for Neovim powered by nnn.
 - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) - A snazzy bufferline for Neovim
@@ -1673,6 +1674,7 @@
 
 ## neovim 
 
+- [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim.
 - [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
 - [luukvbaal/nnn.nvim](https://github.com/luukvbaal/nnn.nvim) - File manager for Neovim powered by nnn.
@@ -1860,6 +1862,8 @@
 
 ## others 
 
+- [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim) - The superior project management solution for neovim.
+- [V13Axel/neotest-pest](https://github.com/V13Axel/neotest-pest) - Neotest adapter for Pest 2.0
 - [ldelossa/nvim-ide](https://github.com/ldelossa/nvim-ide) - A full featured IDE layer for Neovim. Heavily inspired by VSCode.
 - [tj/n](https://github.com/tj/n) - Node version management
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
