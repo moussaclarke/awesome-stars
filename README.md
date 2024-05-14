@@ -438,6 +438,7 @@
 
 ## Lua 
 
+- [james1236/backseat.nvim](https://github.com/james1236/backseat.nvim) - A neovim plugin that uses GPT to highlight and explain code readability issues
 - [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim) - The superior project management solution for neovim.
 - [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim.
 - [V13Axel/neotest-pest](https://github.com/V13Axel/neotest-pest) - Neotest adapter for Pest 2.0
@@ -496,6 +497,7 @@
 ## Others 
 
 - [bvdzynski/jsfx_mastering_suite](https://github.com/bvdzynski/jsfx_mastering_suite) - Open-source collection of JSFX (JesuSonic plugins) for Reaper. Plugins are made for use in mastering stage of music production.
+- [tc39/proposal-signals](https://github.com/tc39/proposal-signals) - A proposal to add signals to JavaScript.
 - [micro-editor/plugin-channel](https://github.com/micro-editor/plugin-channel) - Official plugin channel for micro
 - [joplin-vieweb/joplin-vieweb](https://github.com/joplin-vieweb/joplin-vieweb) - A web viewer for Joplin app
 - [MeadowlarkDAW/Dropseed](https://github.com/MeadowlarkDAW/Dropseed) - A modular DAW (Digital Audio Workstation) engine written in Rust
@@ -946,11 +948,11 @@
 
 ## TypeScript 
 
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Effortless, instant screen sharing. Open-source and cross-platform.
 - [antonk52/coc-cssmodules](https://github.com/antonk52/coc-cssmodules) - css modules autocompletion and go to definition coc.nvim plugin
 - [zengm-games/facesjs](https://github.com/zengm-games/facesjs) - A JavaScript library for generating vector-based cartoon faces
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A functional music theory library for Javascript
-- [tc39/proposal-signals](https://github.com/tc39/proposal-signals) - A proposal to add signals to JavaScript.
 - [squirrellyjs/squirrelly](https://github.com/squirrellyjs/squirrelly) - Semi-embedded JS template engine that supports helpers, filters, partials, and template inheritance. 4KB minzipped, written in TypeScript ⛺
 - [formkit/tempo](https://github.com/formkit/tempo) - 📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript.
 - [AnatolyUss/nmig](https://github.com/AnatolyUss/nmig) - NMIG is a database migration tool, written in Node.js and highly inspired by FromMySqlToPostgreSql.
