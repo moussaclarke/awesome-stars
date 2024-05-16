@@ -519,6 +519,7 @@
 
 ## PHP 
 
+- [phpactor/phpactor](https://github.com/phpactor/phpactor) - Mainly a PHP Language Server with more features than you can shake a stick at
 - [vstelmakh/url-highlight](https://github.com/vstelmakh/url-highlight) - PHP library to parse urls from string input
 - [area17/twill-image](https://github.com/area17/twill-image) - Twill Image is a package designed to work with Twill. It leverages Twill image processing with modern lazy-loading techniques and art-directed responsive images.
 - [cpriego/valet-linux](https://github.com/cpriego/valet-linux) - A fork of Laravel Valet to work in Linux.
@@ -905,6 +906,7 @@
 
 ## SCSS 
 
+- [nielsVoogt/nice-forms.css](https://github.com/nielsVoogt/nice-forms.css) - Nice forms - CSS base for forms and inputs
 - [julianrubisch/better-stimulus](https://github.com/julianrubisch/better-stimulus) - An opinionated collection of StimulusJS best practices
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 
@@ -949,7 +951,8 @@
 
 ## TypeScript 
 
-- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Effortless, instant screen sharing. Open-source and cross-platform.
+- [yaegassy/coc-phpstan](https://github.com/yaegassy/coc-phpstan) - PHPStan (PHP Static Analysis tool) extension for coc.nvim
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Effortless, instant screen sharing.
 - [antonk52/coc-cssmodules](https://github.com/antonk52/coc-cssmodules) - css modules autocompletion and go to definition coc.nvim plugin
 - [zengm-games/facesjs](https://github.com/zengm-games/facesjs) - A JavaScript library for generating vector-based cartoon faces
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
@@ -1106,7 +1109,7 @@
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [archtechx/alpine-typescript](https://github.com/archtechx/alpine-typescript) - TypeScript support for Alpine.js
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [neoclide/coc-tabnine](https://github.com/neoclide/coc-tabnine) - Tabnine integration of coc.nvim
