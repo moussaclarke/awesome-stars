@@ -100,6 +100,7 @@
 
 ## C++ 
 
+- [audacious-media-player/audacious](https://github.com/audacious-media-player/audacious) - A lightweight and versatile audio player
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C++ Terminal Emulator
 - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
@@ -170,6 +171,7 @@
 
 ## Go 
 
+- [jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go.
 - [hybridgroup/gobot](https://github.com/hybridgroup/gobot) - Golang framework for robotics, drones, and the Internet of Things (IoT)
 - [diamondburned/dissent](https://github.com/diamondburned/dissent) - Tiny Discord app
 - [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
@@ -519,6 +521,7 @@
 
 ## PHP 
 
+- [dfridrich/PhpMimeType](https://github.com/dfridrich/PhpMimeType) - Simple PHP class for guessing file mime type based on file extension with ability to use in Symfony project.
 - [phpactor/phpactor](https://github.com/phpactor/phpactor) - Mainly a PHP Language Server with more features than you can shake a stick at
 - [vstelmakh/url-highlight](https://github.com/vstelmakh/url-highlight) - PHP library to parse urls from string input
 - [area17/twill-image](https://github.com/area17/twill-image) - Twill Image is a package designed to work with Twill. It leverages Twill image processing with modern lazy-loading techniques and art-directed responsive images.
@@ -771,6 +774,7 @@
 
 ## Python 
 
+- [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [wee-slack/wee-slack](https://github.com/wee-slack/wee-slack) - A WeeChat script for Slack.com. Supports threads and reactions, synchronizes read markers, provides typing notification, etc..
@@ -844,6 +848,8 @@
 
 ## Rust 
 
+- [quarylabs/quary](https://github.com/quarylabs/quary) - Open-source BI for engineers
+- [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - An opinionated Lua code formatter
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [lapce/lapdev](https://github.com/lapce/lapdev) - Self-Hosted Remote Dev Environment
@@ -916,6 +922,7 @@
 
 ## Shell 
 
+- [hykilpikonna/hyfetch](https://github.com/hykilpikonna/hyfetch) - 🏳️‍🌈 🏳️‍⚧️ Neofetch with LGBTQ+ pride flags!
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [tj/n](https://github.com/tj/n) - Node version management
