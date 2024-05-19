@@ -1879,6 +1879,9 @@
 
 ## others 
 
+- [xna00/unocss-language-server](https://github.com/xna00/unocss-language-server) - 
+- [auvred/coc-unocss](https://github.com/auvred/coc-unocss) - UnoCSS extension for coc.nvim
+- [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 - [audacious-media-player/audacious](https://github.com/audacious-media-player/audacious) - A lightweight and versatile audio player
 - [hykilpikonna/hyfetch](https://github.com/hykilpikonna/hyfetch) - 🏳️‍🌈 🏳️‍⚧️ Neofetch with LGBTQ+ pride flags!
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
