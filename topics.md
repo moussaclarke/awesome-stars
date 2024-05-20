@@ -1879,6 +1879,7 @@
 
 ## others 
 
+- [Vinermy/astray](https://github.com/Vinermy/astray) - 
 - [xna00/unocss-language-server](https://github.com/xna00/unocss-language-server) - 
 - [auvred/coc-unocss](https://github.com/auvred/coc-unocss) - UnoCSS extension for coc.nvim
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
