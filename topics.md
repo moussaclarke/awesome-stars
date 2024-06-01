@@ -1902,6 +1902,8 @@
 
 ## others 
 
+- [Kukei-eu/spider](https://github.com/Kukei-eu/spider) - 
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [dracula/ulauncher](https://github.com/dracula/ulauncher) - 🧛🏻‍♂️ Dark theme for Ulauncher
 - [frolickingpotato/waybar-gammastep](https://github.com/frolickingpotato/waybar-gammastep) - A gammastep control module for waybar
 - [Ubuntu-Sway/Ubuntu-Sway-Remix](https://github.com/Ubuntu-Sway/Ubuntu-Sway-Remix) - Ubuntu with Sway wayland compositor
