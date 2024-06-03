@@ -63,6 +63,7 @@
 
 ## C 
 
+- [swaywm/swaylock](https://github.com/swaywm/swaylock) - Screen locker for Wayland
 - [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
