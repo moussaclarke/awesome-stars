@@ -1904,6 +1904,7 @@
 
 ## others 
 
+- [swaywm/swaylock](https://github.com/swaywm/swaylock) - Screen locker for Wayland
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [Kukei-eu/spider](https://github.com/Kukei-eu/spider) - 
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
