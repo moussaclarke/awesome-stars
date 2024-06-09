@@ -1935,6 +1935,7 @@
 
 ## others 
 
+- [meatfighter/ascii-silhouettify](https://github.com/meatfighter/ascii-silhouettify) - 
 - [unjs/changelogen](https://github.com/unjs/changelogen) - 💅 Beautiful Changelogs using Conventional Commits
 - [unjs/ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works on node, browser and workers.
 - [unjs/unbuild](https://github.com/unjs/unbuild) - 📦 An unified javascript build system
