@@ -1160,7 +1160,7 @@
 
 ## html 
 
-- [vstelmakh/url-highlight](https://github.com/vstelmakh/url-highlight) - PHP library to parse urls from string input
+- [vstelmakh/url-highlight](https://github.com/vstelmakh/url-highlight) - PHP library to parse URLs from string input
 - [Kalabasa/htmz](https://github.com/Kalabasa/htmz) - html with targeted manipulation zones
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
 - [spatie/mjml-php](https://github.com/spatie/mjml-php) - Convert MJML to HTML using PHP
@@ -2310,7 +2310,7 @@
 - [yaegassy/coc-phpstan](https://github.com/yaegassy/coc-phpstan) - PHPStan (PHP Static Analysis tool) extension for coc.nvim
 - [phpactor/phpactor](https://github.com/phpactor/phpactor) - Mainly a PHP Language Server with more features than you can shake a stick at
 - [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
-- [vstelmakh/url-highlight](https://github.com/vstelmakh/url-highlight) - PHP library to parse urls from string input
+- [vstelmakh/url-highlight](https://github.com/vstelmakh/url-highlight) - PHP library to parse URLs from string input
 - [spatie/laravel-feed](https://github.com/spatie/laravel-feed) - Easily generate RSS feeds
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers
 - [symfony/workflow](https://github.com/symfony/workflow) - Provides tools for managing a workflow or finite state machine
