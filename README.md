@@ -39,6 +39,7 @@
 - [Perl](#perl)
 - [Python](#python)
 - [QML](#qml)
+- [R](#r)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -864,6 +865,10 @@
 ## QML 
 
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
+
+## R 
+
+- [JohannesNE/literature-clock](https://github.com/JohannesNE/literature-clock) - Clock using time quotes from the literature, based on the work of Jaap Meijers
 
 ## Ruby 
 
