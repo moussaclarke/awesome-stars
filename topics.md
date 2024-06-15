@@ -216,6 +216,7 @@
 - [wordplate](#wordplate)
 - [wordpress](#wordpress)
 - [xml](#xml)
+- [zig](#zig)
 
 ## 3d 
 
@@ -645,7 +646,7 @@
 
 ## discord 
 
-- [diamondburned/dissent](https://github.com/diamondburned/dissent) - Tiny Discord app
+- [diamondburned/dissent](https://github.com/diamondburned/dissent) - Tiny native Discord app
 
 ## django 
 
@@ -725,6 +726,7 @@
 
 ## elixir 
 
+- [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) - Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level.
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [zoonk/zoonk](https://github.com/zoonk/zoonk) - Platform for creating interactive courses.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
@@ -807,6 +809,7 @@
 
 ## framework 
 
+- [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) - Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [bikeshaving/crank](https://github.com/bikeshaving/crank) - The Just JavaScript Framework
 - [observablehq/framework](https://github.com/observablehq/framework) - A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data anal
@@ -1023,6 +1026,7 @@
 
 ## hacktoberfest 
 
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
@@ -1505,6 +1509,7 @@
 
 ## linux 
 
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
 - [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
@@ -1949,6 +1954,8 @@
 
 ## others 
 
+- [bluesabre/menulibre](https://github.com/bluesabre/menulibre) - MenuLibre is an advanced menu editor that provides modern features in a clean, easy-to-use interface.
+- [Manager-io/Manager](https://github.com/Manager-io/Manager) - Accounting software. Available for Windows, Mac and Linux.
 - [bouncepaw/mycorrhiza](https://github.com/bouncepaw/mycorrhiza) - 🍄📑 Filesystem and git-based wiki engine for the independent web written in Go using Mycomarkup as its primary markup language.
 - [bouncepaw/betula](https://github.com/bouncepaw/betula) - Federated bookmarking software. Mirror of https://sr.ht/~bouncepaw/betula. Contribute on Sourcehut
 - [yanthomasdev/lunaria](https://github.com/yanthomasdev/lunaria) - The missing localization management toolchain for open-source projects
@@ -2289,6 +2296,7 @@
 
 ## package-manager 
 
+- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
@@ -2488,6 +2496,7 @@
 
 ## privacy 
 
+- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
@@ -2770,6 +2779,7 @@
 
 ## self-hosted 
 
+- [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) - Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level.
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
@@ -2908,6 +2918,7 @@
 
 ## symfony 
 
+- [Monofony/Monofony](https://github.com/Monofony/Monofony) - Main repository for all Monofony bundles
 - [dfridrich/PhpMimeType](https://github.com/dfridrich/PhpMimeType) - Simple PHP class for guessing file mime type based on file extension with ability to use in Symfony project.
 - [symfony/workflow](https://github.com/symfony/workflow) - Provides tools for managing a workflow or finite state machine
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony
@@ -3300,6 +3311,11 @@
 ## xml 
 
 - [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) - Create and generate sitemaps with ease
+
+## zig 
+
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 
 ## License
