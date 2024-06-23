@@ -900,6 +900,7 @@
 
 ## Rust 
 
+- [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash
@@ -1018,6 +1019,7 @@
 
 ## TypeScript 
 
+- [mayneyao/eidos](https://github.com/mayneyao/eidos) - Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place.
 - [Mick2nd/CsvImport](https://github.com/Mick2nd/CsvImport) - 
 - [oswida/joplin-csv-tables](https://github.com/oswida/joplin-csv-tables) - CSV tables support for Joplin editor
 - [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
