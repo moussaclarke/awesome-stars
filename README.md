@@ -180,6 +180,7 @@
 
 ## Go 
 
+- [EmissarySocial/emissary](https://github.com/EmissarySocial/emissary) - The Social Web Toolkit
 - [bouncepaw/mycorrhiza](https://github.com/bouncepaw/mycorrhiza) - 🍄📑 Filesystem and git-based wiki engine for the independent web written in Go using Mycomarkup as its primary markup language.
 - [bouncepaw/betula](https://github.com/bouncepaw/betula) - Federated bookmarking software. Mirror of https://sr.ht/~bouncepaw/betula. Contribute on Sourcehut
 - [sanity-io/mendoza](https://github.com/sanity-io/mendoza) - Differ for structured documents (JSON)
@@ -259,6 +260,7 @@
 
 ## HTML 
 
+- [EmissarySocial/app-bandwagon](https://github.com/EmissarySocial/app-bandwagon) - An open community for bands and musicians
 - [meatfighter/ascii-silhouettify](https://github.com/meatfighter/ascii-silhouettify) - 
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [formkit/drag-and-drop](https://github.com/formkit/drag-and-drop) - 
