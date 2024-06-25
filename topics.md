@@ -1712,6 +1712,7 @@
 
 ## music 
 
+- [EmissarySocial/app-bandwagon](https://github.com/EmissarySocial/app-bandwagon) - An open community for bands and musicians
 - [bvdzynski/jsfx_mastering_suite](https://github.com/bvdzynski/jsfx_mastering_suite) - Open-source collection of JSFX (JesuSonic plugins) for Reaper. Plugins are made for use in mastering stage of music production.
 - [sergree/matchering-cli](https://github.com/sergree/matchering-cli) - 🎚️ Simple Matchering 2.0 Command Line Application
 - [sergree/matchering](https://github.com/sergree/matchering) - 🎚️ Open Source Audio Matching and Mastering
@@ -1965,6 +1966,7 @@
 
 ## others 
 
+- [EmissarySocial/emissary](https://github.com/EmissarySocial/emissary) - The Social Web Toolkit
 - [lukeraymonddowning/honey](https://github.com/lukeraymonddowning/honey) - A spam prevention package for Laravel, providing honeypot techniques, ip blocking and beautifully simple Recaptcha integration. Stop spam. Use Honey.
 - [Mick2nd/CsvImport](https://github.com/Mick2nd/CsvImport) - 
 - [oswida/joplin-csv-tables](https://github.com/oswida/joplin-csv-tables) - CSV tables support for Joplin editor
