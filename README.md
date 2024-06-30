@@ -15,6 +15,7 @@
 - [CoffeeScript](#coffeescript)
 - [Common Lisp](#common-lisp)
 - [Crystal](#crystal)
+- [Dart](#dart)
 - [Elixir](#elixir)
 - [Go](#go)
 - [HTML](#html)
@@ -65,6 +66,7 @@
 
 ## C 
 
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
 - [GNOME/gimp](https://github.com/GNOME/gimp) - Read-only mirror of https://gitlab.gnome.org/GNOME/gimp
 - [swaywm/swaylock](https://github.com/swaywm/swaylock) - Screen locker for Wayland
 - [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
@@ -104,6 +106,8 @@
 
 ## C++ 
 
+- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland (sort of), and other things, too
+- [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
@@ -173,6 +177,10 @@
 
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 
+## Dart 
+
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
+
 ## Elixir 
 
 - [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) - Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level.
@@ -181,6 +189,8 @@
 
 ## Go 
 
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [EmissarySocial/emissary](https://github.com/EmissarySocial/emissary) - The Social Web Toolkit
 - [bouncepaw/mycorrhiza](https://github.com/bouncepaw/mycorrhiza) - 🍄📑 Filesystem and git-based wiki engine for the independent web written in Go using Mycomarkup as its primary markup language.
 - [bouncepaw/betula](https://github.com/bouncepaw/betula) - Federated bookmarking software. Mirror of https://sr.ht/~bouncepaw/betula. Contribute on Sourcehut
@@ -466,6 +476,7 @@
 
 ## Lua 
 
+- [rmagatti/auto-session](https://github.com/rmagatti/auto-session) - A small automated session manager for Neovim
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 - [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) - Prismatic line decorations for the adventurous vim user
@@ -987,6 +998,9 @@
 
 ## Shell 
 
+- [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
+- [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
+- [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 - [frolickingpotato/waybar-gammastep](https://github.com/frolickingpotato/waybar-gammastep) - A gammastep control module for waybar
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
@@ -1031,7 +1045,7 @@
 - [Mick2nd/CsvImport](https://github.com/Mick2nd/CsvImport) - 
 - [oswida/joplin-csv-tables](https://github.com/oswida/joplin-csv-tables) - CSV tables support for Joplin editor
 - [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Fullstack TypeScript toolkit supercharges Prisma ORM with a fine-grained Authorization layer for RBAC/ABAC/PBAC/ReBAC, offering auto-generated type-safe APIs and frontend hooks.
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Fullstack TypeScript toolkit enhances Prisma ORM with flexible Authorization layer for RBAC/ABAC/PBAC/ReBAC, offering auto-generated type-safe APIs and frontend hooks.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [yanthomasdev/lunaria](https://github.com/yanthomasdev/lunaria) - The missing localization management toolchain for open-source projects
@@ -1264,6 +1278,7 @@
 
 ## Vim Script 
 
+- [tpope/vim-obsession](https://github.com/tpope/vim-obsession) - obsession.vim: continuously updated session files
 - [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
 - [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
 - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim
