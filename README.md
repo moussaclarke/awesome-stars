@@ -189,6 +189,7 @@
 
 ## Go 
 
+- [poundifdef/SmoothMQ](https://github.com/poundifdef/SmoothMQ) - A drop-in replacement for SQS designed for great developer experience and efficiency.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [EmissarySocial/emissary](https://github.com/EmissarySocial/emissary) - The Social Web Toolkit
@@ -918,6 +919,7 @@
 
 ## Rust 
 
+- [ammgws/autotiling-rs](https://github.com/ammgws/autotiling-rs) - Autotiling for sway (and possibly i3)
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
@@ -998,6 +1000,7 @@
 
 ## Shell 
 
+- [evgvs/turboarch](https://github.com/evgvs/turboarch) - TurboArch - Seamlessly Replace Your Current OS with Arch Linux NOW!
 - [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
 - [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
@@ -1041,6 +1044,7 @@
 
 ## TypeScript 
 
+- [CoderLine/alphaTab](https://github.com/CoderLine/alphaTab) - alphaTab is a cross platform music notation and guitar tablature rendering library.
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place.
 - [Mick2nd/CsvImport](https://github.com/Mick2nd/CsvImport) - 
 - [oswida/joplin-csv-tables](https://github.com/oswida/joplin-csv-tables) - CSV tables support for Joplin editor
