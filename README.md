@@ -318,6 +318,8 @@
 
 ## JavaScript 
 
+- [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema specification
+- [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) - JSON Schema Validation, Annotation, and Bundling. Supports Draft 04, 06, 07, 2019-09, 2020-12, OpenAPI 3.0, and OpenAPI 3.1
 - [wopian/kitsu](https://github.com/wopian/kitsu) - 🦊 A simple, lightweight & framework agnostic JSON:API client
 - [patrickcate/nuxt-jsonapi](https://github.com/patrickcate/nuxt-jsonapi) - JSON:API client for Nuxt.js
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
@@ -576,6 +578,7 @@
 
 ## PHP 
 
+- [swaggest/php-json-schema](https://github.com/swaggest/php-json-schema) - High definition PHP structures with JSON-schema based validation
 - [BinarCode/laravel-restify](https://github.com/BinarCode/laravel-restify) - The fastest way to make a powerful JSON:API compatible Rest API with Laravel.
 - [lukeraymonddowning/honey](https://github.com/lukeraymonddowning/honey) - A spam prevention package for Laravel, providing honeypot techniques, ip blocking and beautifully simple Recaptcha integration. Stop spam. Use Honey.
 - [coderflexx/laravel-presenter](https://github.com/coderflexx/laravel-presenter) - Decorate Your Models and Write Clean/Reusable Code with Presenters.
