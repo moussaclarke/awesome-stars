@@ -146,6 +146,7 @@
 
 ## CSS 
 
+- [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look from Windows to Firefox. No waitlist, no registration needed ✨
 - [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
 - [pipes-digital/pipes](https://github.com/pipes-digital/pipes) - Repository for Pipes
 - [dracula/ulauncher](https://github.com/dracula/ulauncher) - 🧛🏻‍♂️ Dark theme for Ulauncher
@@ -275,6 +276,7 @@
 
 ## HTML 
 
+- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [EmissarySocial/bandwagon](https://github.com/EmissarySocial/bandwagon) - An open community for bands and musicians
 - [meatfighter/ascii-silhouettify](https://github.com/meatfighter/ascii-silhouettify) - 
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
@@ -349,7 +351,7 @@
 - [css/csso](https://github.com/css/csso) - CSS minifier with structural optimizations
 - [neatnik/typo](https://github.com/neatnik/typo) - Typo is a more natural web typing thing
 - [insin/control-panel-for-youtube](https://github.com/insin/control-panel-for-youtube) - Browser extension which gives you more control over YouTube by adding missing options and UI improvements - for desktop & mobile browsers
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Web OS! Free, Open-Source, and Self-Hostable.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [nuejs/nue](https://github.com/nuejs/nue) - A content first web framework. Perfect for UX developers.
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 - [Kalabasa/htmz](https://github.com/Kalabasa/htmz) - html with targeted manipulation zones
@@ -552,6 +554,7 @@
 
 ## Others 
 
+- [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 - [inkscape/inkscape](https://github.com/inkscape/inkscape) - Project Website: https://inkscape.org - Code Repository: https://gitlab.com/inkscape/inkscape - Draw freely. 🖌
 - [Manager-io/Manager](https://github.com/Manager-io/Manager) - Accounting software. Available for Windows, Mac and Linux.
 - [Ubuntu-Sway/Ubuntu-Sway-Remix](https://github.com/Ubuntu-Sway/Ubuntu-Sway-Remix) - Ubuntu with Sway wayland compositor
@@ -1059,6 +1062,7 @@
 
 ## TypeScript 
 
+- [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [TryGhost/ActivityPub](https://github.com/TryGhost/ActivityPub) - A full-featured ActivityPub server for networked publishing with Ghost
 - [prisma/nuxt-prisma](https://github.com/prisma/nuxt-prisma) - Prisma ORM integration for Nuxt
