@@ -1305,7 +1305,7 @@
 
 ## Vala 
 
-- [GeopJr/Tuba](https://github.com/GeopJr/Tuba) - [On break until 2024-07-15] Browse the Fediverse
+- [GeopJr/Tuba](https://github.com/GeopJr/Tuba) - Browse the Fediverse
 
 ## Vim Script 
 
