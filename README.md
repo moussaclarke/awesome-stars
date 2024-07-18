@@ -940,6 +940,7 @@
 
 ## Rust 
 
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [ammgws/autotiling-rs](https://github.com/ammgws/autotiling-rs) - Autotiling for sway (and possibly i3)
@@ -1088,7 +1089,7 @@
 - [unjs/ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works on node, browser and workers.
 - [unjs/destr](https://github.com/unjs/destr) - 🚀 Faster, secure and convenient alternative for JSON.parse
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
-- [unjs/unbuild](https://github.com/unjs/unbuild) - 📦 An unified javascript build system
+- [unjs/unbuild](https://github.com/unjs/unbuild) - 📦 A unified JavaScript build system
 - [hexh250786313/coc-pretty-ts-errors](https://github.com/hexh250786313/coc-pretty-ts-errors) - A coc.nvim extension for displaying pretty ts diagnostic info.
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [resend/resend-node](https://github.com/resend/resend-node) - Resend's Official Node.js SDK
