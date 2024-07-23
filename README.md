@@ -200,7 +200,7 @@
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
 - [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
-- [poundifdef/smoothmq](https://github.com/poundifdef/smoothmq) - A drop-in replacement for SQS designed for great developer experience and efficiency.
+- [poundifdef/smoothmq](https://github.com/poundifdef/smoothmq) - An improved drop-in replacement for SQS
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [EmissarySocial/emissary](https://github.com/EmissarySocial/emissary) - The Social Web Toolkit
@@ -283,6 +283,7 @@
 
 ## HTML 
 
+- [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
 - [superiorlu/jsonapi-swagger](https://github.com/superiorlu/jsonapi-swagger) - Create a JSONAPI Swagger.
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [EmissarySocial/bandwagon](https://github.com/EmissarySocial/bandwagon) - An open community for bands and musicians
@@ -877,7 +878,6 @@
 - [sergree/matchering](https://github.com/sergree/matchering) - 🎚️ Open Source Audio Matching and Mastering
 - [chrisdonahue/wavegan](https://github.com/chrisdonahue/wavegan) - WaveGAN: Learn to synthesize raw audio with generative adversarial networks
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
-- [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [anderspitman/SirTunnel](https://github.com/anderspitman/SirTunnel) - Minimal, self-hosted, 0-config alternative to ngrok. Caddy+OpenSSH+50 lines of Python.
 - [NatronGitHub/natron-plugins](https://github.com/NatronGitHub/natron-plugins) - Natron Community Plugins
 - [jliljebl/flowblade](https://github.com/jliljebl/flowblade) - Video Editor for Linux
@@ -948,6 +948,7 @@
 
 ## Rust 
 
+- [obi1kenobi/trustfall](https://github.com/obi1kenobi/trustfall) - A query engine for any combination of data sources. Query your files and APIs as if they were databases!
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
@@ -974,6 +975,7 @@
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
+- [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
@@ -1077,6 +1079,7 @@
 
 ## TypeScript 
 
+- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [unscatty/unocss-preset-daisy](https://github.com/unscatty/unocss-preset-daisy) - UnoCSS preset for daisyUI
 - [kidonng/unocss-preset-daisy](https://github.com/kidonng/unocss-preset-daisy) - UnoCSS preset for daisyUI
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
