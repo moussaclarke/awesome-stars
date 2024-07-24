@@ -590,6 +590,7 @@
 
 ## PHP 
 
+- [Honeystone/Context](https://github.com/Honeystone/Context) - Application Context Manager for Laravel
 - [swaggest/php-json-schema](https://github.com/swaggest/php-json-schema) - High definition PHP structures with JSON-schema based validation
 - [BinarCode/laravel-restify](https://github.com/BinarCode/laravel-restify) - The fastest way to make a powerful JSON:API compatible Rest API with Laravel.
 - [lukeraymonddowning/honey](https://github.com/lukeraymonddowning/honey) - A spam prevention package for Laravel, providing honeypot techniques, ip blocking and beautifully simple Recaptcha integration. Stop spam. Use Honey.
