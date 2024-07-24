@@ -2023,6 +2023,7 @@
 
 ## others 
 
+- [Honeystone/Context](https://github.com/Honeystone/Context) - Application Context Manager for Laravel
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [commandprompt/pgmanage](https://github.com/commandprompt/pgmanage) - Web tool for database management
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
