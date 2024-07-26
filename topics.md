@@ -2023,7 +2023,7 @@
 
 ## others 
 
-- [Honeystone/Context](https://github.com/Honeystone/Context) - Application Context Manager for Laravel
+- [Honeystone/context](https://github.com/Honeystone/context) - Application Context Manager for Laravel
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [commandprompt/pgmanage](https://github.com/commandprompt/pgmanage) - Web tool for database management
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
@@ -2298,7 +2298,7 @@
 - [landrok/activitypub](https://github.com/landrok/activitypub) - A PHP implementation of ActivityPub protocol based upon the ActivityStreams 2.0 data format.
 - [w3c/activitypub](https://github.com/w3c/activitypub) - 
 - [Ardour/ardour](https://github.com/Ardour/ardour) - Mirror of Ardour Source Code
-- [helio-fm/helio-sequencer](https://github.com/helio-fm/helio-sequencer) - One music sequencer for all major platforms, desktop and mobile
+- [helio-fm/helio-sequencer](https://github.com/helio-fm/helio-sequencer) - Libre music sequencer for desktop and mobile platforms
 - [stripe/stripe-php](https://github.com/stripe/stripe-php) - PHP library for the Stripe API.
 - [aaemnnosttv/wp-sqlite-db](https://github.com/aaemnnosttv/wp-sqlite-db) - A single file drop-in for using a SQLite database with WordPress. Based on the original SQLite Integration plugin.
 - [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
