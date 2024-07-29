@@ -196,6 +196,7 @@
 
 ## Go 
 
+- [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
 - [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
@@ -204,7 +205,7 @@
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [EmissarySocial/emissary](https://github.com/EmissarySocial/emissary) - The Social Web Toolkit
-- [bouncepaw/mycorrhiza](https://github.com/bouncepaw/mycorrhiza) - 🍄📑 Filesystem and git-based wiki engine for the independent web written in Go using Mycomarkup as its primary markup language.
+- [bouncepaw/mycorrhiza](https://github.com/bouncepaw/mycorrhiza) - 🍄📑 Filesystem and git-based wiki engine for the independent web written in Go and using Mycomarkup as its primary markup language.
 - [bouncepaw/betula](https://github.com/bouncepaw/betula) - Federated bookmarking software. Mirror of https://sr.ht/~bouncepaw/betula. Contribute on Sourcehut
 - [sanity-io/mendoza](https://github.com/sanity-io/mendoza) - Differ for structured documents (JSON)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
@@ -590,7 +591,7 @@
 
 ## PHP 
 
-- [Honeystone/context](https://github.com/Honeystone/context) - Application Context Manager for Laravel
+- [Honeystone/context](https://github.com/Honeystone/context) - Application Context Manager for Laravel.
 - [swaggest/php-json-schema](https://github.com/swaggest/php-json-schema) - High definition PHP structures with JSON-schema based validation
 - [BinarCode/laravel-restify](https://github.com/BinarCode/laravel-restify) - The fastest way to make a powerful JSON:API compatible Rest API with Laravel.
 - [lukeraymonddowning/honey](https://github.com/lukeraymonddowning/honey) - A spam prevention package for Laravel, providing honeypot techniques, ip blocking and beautifully simple Recaptcha integration. Stop spam. Use Honey.
@@ -859,6 +860,7 @@
 
 ## Python 
 
+- [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [LordAmit/Brightness](https://github.com/LordAmit/Brightness) - Using Brightness Controller, you can control brightness of both primary and external displays in Linux. Check it out!
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works
@@ -949,6 +951,9 @@
 
 ## Rust 
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [obi1kenobi/trustfall](https://github.com/obi1kenobi/trustfall) - A query engine for any combination of data sources. Query your files and APIs as if they were databases!
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
@@ -1036,6 +1041,7 @@
 
 ## Shell 
 
+- [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [evgvs/turboarch](https://github.com/evgvs/turboarch) - TurboArch - Seamlessly Replace Your Current OS with Arch Linux NOW!
 - [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
 - [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
