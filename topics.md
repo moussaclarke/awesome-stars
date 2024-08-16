@@ -57,7 +57,6 @@
 - [education](#education)
 - [electron](#electron)
 - [elixir](#elixir)
-- [ember](#ember)
 - [emoji](#emoji)
 - [emulator](#emulator)
 - [es6](#es6)
@@ -710,7 +709,6 @@
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source developer content platform
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 
@@ -761,10 +759,6 @@
 - [zoonk/zoonk](https://github.com/zoonk/zoonk) - Platform for creating interactive courses.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
-
-## ember 
-
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 
 ## emoji 
 
