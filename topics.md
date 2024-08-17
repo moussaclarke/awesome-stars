@@ -709,6 +709,7 @@
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source developer content platform
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 
@@ -1216,6 +1217,7 @@
 
 ## html 
 
+- [spatie/laravel-html](https://github.com/spatie/laravel-html) - Painless html generation
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
 - [rtfpessoa/diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Pretty diff to html javascript cli (diff2html-cli)
 - [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
@@ -1500,6 +1502,7 @@
 
 ## laravel 
 
+- [spatie/laravel-html](https://github.com/spatie/laravel-html) - Painless html generation
 - [BinarCode/laravel-restify](https://github.com/BinarCode/laravel-restify) - The fastest way to make a powerful JSON:API compatible Rest API with Laravel.
 - [coderflexx/laravel-presenter](https://github.com/coderflexx/laravel-presenter) - Decorate Your Models and Write Clean/Reusable Code with Presenters.
 - [spatie/laravel-honeypot](https://github.com/spatie/laravel-honeypot) - Preventing spam submitted through forms
@@ -2051,6 +2054,8 @@
 
 ## others 
 
+- [BrianHenryIE/strauss](https://github.com/BrianHenryIE/strauss) - Prefix PHP namespaces and classnames to allow multiple versions of libraries to exist without conflict.
+- [php-stubs/wp-cli-stubs](https://github.com/php-stubs/wp-cli-stubs) - WP-CLI function and class declaration stubs for static analysis.
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
 - [hundredrabbits/Orca](https://github.com/hundredrabbits/Orca) - Esoteric Programming Language
 - [Crell/AttributeUtils](https://github.com/Crell/AttributeUtils) - Utilities to help ease parsing and manging of attributes
@@ -2463,6 +2468,7 @@
 
 ## php 
 
+- [spatie/laravel-html](https://github.com/spatie/laravel-html) - Painless html generation
 - [Crell/Serde](https://github.com/Crell/Serde) - Robust Serde (serialization/deserialization) library for PHP 8.
 - [swaggest/php-json-schema](https://github.com/swaggest/php-json-schema) - High definition PHP structures with JSON-schema based validation
 - [coderflexx/laravel-presenter](https://github.com/coderflexx/laravel-presenter) - Decorate Your Models and Write Clean/Reusable Code with Presenters.
@@ -3492,6 +3498,9 @@
 
 ## wordpress 
 
+- [php-stubs/woocommerce-stubs](https://github.com/php-stubs/woocommerce-stubs) - WooCommerce function and class declaration stubs for static analysis
+- [php-stubs/wordpress-stubs](https://github.com/php-stubs/wordpress-stubs) - Up-to-date WordPress function and class declaration stubs for static analysis by PHPStan
+- [php-stubs/acf-pro-stubs](https://github.com/php-stubs/acf-pro-stubs) - ACF PRO stubs for static analysis
 - [Yoast/wp-test-utils](https://github.com/Yoast/wp-test-utils) - PHPUnit and WordPress cross-version compatibility layer for testing plugins and themes build for WordPress
 - [formewp/forme-framework](https://github.com/formewp/forme-framework) - The Forme core framework - knocking WordPress into shape
 - [corcel/corcel](https://github.com/corcel/corcel) - Use WordPress backend with Laravel or any PHP application
