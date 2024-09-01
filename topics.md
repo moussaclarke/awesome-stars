@@ -457,6 +457,7 @@
 
 ## cli 
 
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [UnkwUsr/ticked](https://github.com/UnkwUsr/ticked) - Edit your ticktick.com tasks from any text editor you want (like vim/neovim)
 - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [rtfpessoa/diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Pretty diff to html javascript cli (diff2html-cli)
@@ -3209,6 +3210,7 @@
 
 ## terminal 
 
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [UnkwUsr/ticked](https://github.com/UnkwUsr/ticked) - Edit your ticktick.com tasks from any text editor you want (like vim/neovim)
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
