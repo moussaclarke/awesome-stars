@@ -156,7 +156,7 @@
 ## CSS 
 
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
-- [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with all processor generation, even if yours doesn't support BMI2 instruction set  ✨
+- [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with Windows, Linux and macOS ✨
 - [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
 - [pipes-digital/pipes](https://github.com/pipes-digital/pipes) - Repository for Pipes
 - [dracula/ulauncher](https://github.com/dracula/ulauncher) - 🧛🏻‍♂️ Dark theme for Ulauncher
