@@ -2175,7 +2175,7 @@
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
-- [Vinermy/astray](https://github.com/Vinermy/astray) - 
+- [ekosachev/astray](https://github.com/ekosachev/astray) - 
 - [xna00/unocss-language-server](https://github.com/xna00/unocss-language-server) - 
 - [auvred/coc-unocss](https://github.com/auvred/coc-unocss) - UnoCSS extension for coc.nvim
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
@@ -2321,7 +2321,7 @@
 - [aprietof/every-layout](https://github.com/aprietof/every-layout) - Minimum HTML/CSS/JS needed for recreating Heydon Pickering & Andy Bell's Every Layouts.
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
 - [lautr/initium-nuxt](https://github.com/lautr/initium-nuxt) - An opinionated starter for using Nuxt, Tailwind & Storybook.
-- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
+- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive user's focus across the page
 - [pure-data/pure-data](https://github.com/pure-data/pure-data) - Pure Data -  a free real-time computer music system
 - [hugofloresgarcia/unloop](https://github.com/hugofloresgarcia/unloop) - a co-creative looper that uses generative modeling to **not** repeat itself.
 - [aschmelyun/diode](https://github.com/aschmelyun/diode) - A WASM-powered local development environment for Laravel
