@@ -19,7 +19,6 @@
 - [Elixir](#elixir)
 - [Go](#go)
 - [HTML](#html)
-- [Hack](#hack)
 - [Handlebars](#handlebars)
 - [Haskell](#haskell)
 - [Java](#java)
@@ -135,6 +134,7 @@
 - [Tracktion/tracktion_engine](https://github.com/Tracktion/tracktion_engine) - Tracktion Engine module
 - [xsco/libdjinterop](https://github.com/xsco/libdjinterop) - C++ library for access to DJ record libraries
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
+- [facebook/hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [mtytel/helm](https://github.com/mtytel/helm) - Helm - a free polyphonic synth with lots of modulation
 - [robbert-vdh/yabridge](https://github.com/robbert-vdh/yabridge) - A modern and transparent way to use Windows VST2, VST3 and CLAP plugins on Linux
@@ -314,10 +314,6 @@
 - [project-lovelace/lovelace-website](https://github.com/project-lovelace/lovelace-website) - 📜 Back end and front end code for the Project Lovelace website.
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [voidlabs/mosaico](https://github.com/voidlabs/mosaico) - Mosaico - Responsive Email Template Editor
-
-## Hack 
-
-- [facebook/hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
 
 ## Handlebars 
 
