@@ -77,7 +77,7 @@
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
-- [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
+- [curl/trurl](https://github.com/curl/trurl) - a command line tool for URL parsing and manipulation.
 - [NoiseByNorthwest/php-spx](https://github.com/NoiseByNorthwest/php-spx) - A simple & straight-to-the-point PHP profiling extension with its built-in web UI
 - [ArdenButterfield/Maim](https://github.com/ArdenButterfield/Maim) - Audio plugin for custom MP3 distortion and digital glitches
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
@@ -1129,6 +1129,7 @@
 
 ## TypeScript 
 
+- [shufo/blade-formatter](https://github.com/shufo/blade-formatter) - An opinionated blade template formatter for Laravel that respects readability
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
 - [rtfpessoa/diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Pretty diff to html javascript cli (diff2html-cli)
@@ -1242,7 +1243,7 @@
 - [storybook-vue/storybook-nuxt](https://github.com/storybook-vue/storybook-nuxt) - Deprecated in favor of https://github.com/nuxt-modules/storybook/
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive user's focus across the page
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [containers/podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop - A graphical tool for developing on containers and Kubernetes
+- [containers/podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
 - [bespoke-surf/bespoke](https://github.com/bespoke-surf/bespoke) - The open source Mailchimp alternative.
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
@@ -1339,7 +1340,7 @@
 - [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [nuxt/content](https://github.com/nuxt/content) - The file-based CMS for your Nuxt application, powered by Markdown and Vue components.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [bootstrap-vue-next/bootstrap-vue-next](https://github.com/bootstrap-vue-next/bootstrap-vue-next) - Early (but lovely) implementation of Vue 3, Bootstrap 5 and Typescript
