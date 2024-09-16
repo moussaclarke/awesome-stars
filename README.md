@@ -606,6 +606,7 @@
 
 ## PHP 
 
+- [artesaos/seotools](https://github.com/artesaos/seotools) - SEO Tools for Laravel
 - [filamentphp/filament](https://github.com/filamentphp/filament) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
 - [halaxa/json-machine](https://github.com/halaxa/json-machine) - Efficient, easy-to-use, and fast PHP JSON stream parser
 - [BrianHenryIE/strauss](https://github.com/BrianHenryIE/strauss) - Prefix PHP namespaces and classnames to allow multiple versions of libraries to exist without conflict.
