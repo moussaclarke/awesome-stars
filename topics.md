@@ -1552,6 +1552,7 @@
 
 ## laravel 
 
+- [artesaos/seotools](https://github.com/artesaos/seotools) - SEO Tools for Laravel
 - [shufo/blade-formatter](https://github.com/shufo/blade-formatter) - An opinionated blade template formatter for Laravel that respects readability
 - [filamentphp/filament](https://github.com/filamentphp/filament) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
 - [spatie/laravel-html](https://github.com/spatie/laravel-html) - Painless html generation
@@ -2537,6 +2538,7 @@
 
 ## php 
 
+- [artesaos/seotools](https://github.com/artesaos/seotools) - SEO Tools for Laravel
 - [halaxa/json-machine](https://github.com/halaxa/json-machine) - Efficient, easy-to-use, and fast PHP JSON stream parser
 - [spatie/laravel-html](https://github.com/spatie/laravel-html) - Painless html generation
 - [Crell/Serde](https://github.com/Crell/Serde) - Robust Serde (serialization/deserialization) library for PHP 8.
@@ -3299,6 +3301,7 @@
 
 ## twitter 
 
+- [artesaos/seotools](https://github.com/artesaos/seotools) - SEO Tools for Laravel
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back
 - [lucyllewy/twitodon](https://github.com/lucyllewy/twitodon) - Twitter to Mastodon account mapping service to aid migration away from Twitter without losing all your followed friends
