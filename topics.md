@@ -2135,6 +2135,7 @@
 
 ## others 
 
+- [mysql2sqlite/mysql2sqlite](https://github.com/mysql2sqlite/mysql2sqlite) - Converts MySQL dump to SQLite3 compatible dump
 - [statikbe/laravel-cookie-consent](https://github.com/statikbe/laravel-cookie-consent) - The package includes a script & styling for a cookie banner and a modal where the visitor can select his/her cookie preferences.
 - [whitecube/laravel-cookie-consent](https://github.com/whitecube/laravel-cookie-consent) - Register, configure and ask for cookies consent in a EU-compliant way
 - [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
