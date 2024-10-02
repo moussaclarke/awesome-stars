@@ -111,7 +111,6 @@
 ## C# # 
 
 - [NickvisionApps/Tagger](https://github.com/NickvisionApps/Tagger) - Tag your music
-- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 
 ## C++ 
