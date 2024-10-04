@@ -579,6 +579,7 @@
 
 ## css 
 
+- [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [timmywil/panzoom](https://github.com/timmywil/panzoom) - A library for panning and zooming elements using CSS transforms :mag:
 - [zumerlab/orbit](https://github.com/zumerlab/orbit) - 💫 Orbit is the first CSS framework designed specifically for building radial user interfaces!
 - [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
@@ -1272,6 +1273,7 @@
 
 ## html 
 
+- [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [spatie/laravel-html](https://github.com/spatie/laravel-html) - Painless html generation
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
 - [rtfpessoa/diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Pretty diff to html javascript cli (diff2html-cli)
@@ -1352,6 +1354,7 @@
 
 ## javascript 
 
+- [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [spatie/laravel-cookie-consent](https://github.com/spatie/laravel-cookie-consent) - Make your Laravel app comply with the crazy EU cookie law
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
@@ -3264,6 +3267,7 @@
 
 ## tailwindcss 
 
+- [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) - Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
@@ -3365,6 +3369,7 @@
 
 ## typescript 
 
+- [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [timmywil/panzoom](https://github.com/timmywil/panzoom) - A library for panning and zooming elements using CSS transforms :mag:
 - [line/ts-remove-unused](https://github.com/line/ts-remove-unused) - Remove unused code from your TypeScript project
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
@@ -3615,6 +3620,7 @@
 
 ## webpack 
 
+- [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, Rolldown, and more
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [symfony/webpack-encore](https://github.com/symfony/webpack-encore) - A simple but powerful API for processing & compiling assets built around Webpack
