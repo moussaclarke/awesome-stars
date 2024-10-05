@@ -900,6 +900,8 @@
 
 ## Python 
 
+- [NastuzziSamy/ulauncher-custom-scripts](https://github.com/NastuzziSamy/ulauncher-custom-scripts) - Extension to execute custom scripts in Ulauncher
+- [matheusfillipe/joplin-snippets](https://github.com/matheusfillipe/joplin-snippets) - Ulauncher plugin that copies notes from joplin to clipboard, creates notes from the clipboard and parses code markdown.
 - [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
@@ -1099,6 +1101,7 @@
 
 ## Shell 
 
+- [b0o/swaynagmode](https://github.com/b0o/swaynagmode) - ⌨ swaynag wrapper for the love of keybindings
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
