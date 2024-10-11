@@ -72,6 +72,7 @@
 
 ## C 
 
+- [EmranMR/tree-sitter-blade](https://github.com/EmranMR/tree-sitter-blade) - tree-sitter grammar for Laravel blade files
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
@@ -164,6 +165,7 @@
 
 ## CSS 
 
+- [blakewatson/htmlforpeople](https://github.com/blakewatson/htmlforpeople) - Web book about how to make a website with HTML.
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with Windows, Linux and macOS ✨
@@ -596,6 +598,7 @@
 
 ## Others 
 
+- [pilcrowOnPaper/copenhagen](https://github.com/pilcrowOnPaper/copenhagen) - A basic guideline on implementing auth for the web
 - [apiaryio/api-blueprint](https://github.com/apiaryio/api-blueprint) - API Blueprint
 - [inkscape/inkscape](https://github.com/inkscape/inkscape) - Project Website: https://inkscape.org - Code Repository: https://gitlab.com/inkscape/inkscape - Draw freely. 🖌
 - [Manager-io/Manager](https://github.com/Manager-io/Manager) - Accounting software. Available for Windows, Mac and Linux.
@@ -1008,7 +1011,7 @@
 
 ## Rust 
 
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Works with Ollama. Llama3.2 control your computer. Alternative to Rewind.ai & Zapier. Open. Secure. You own your data. Rust.
 - [elijah-potter/harper](https://github.com/elijah-potter/harper) - The Grammar Checker for Developers
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui for postgres
 - [grampelberg/kty](https://github.com/grampelberg/kty) - The terminal for Kubernetes
