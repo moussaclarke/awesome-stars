@@ -601,7 +601,7 @@
 
 ## Others 
 
-- [pilcrowOnPaper/copenhagen](https://github.com/pilcrowOnPaper/copenhagen) - A basic guideline on implementing auth for the web
+- [pilcrowonpaper/copenhagen](https://github.com/pilcrowonpaper/copenhagen) - A basic guideline on implementing auth for the web
 - [apiaryio/api-blueprint](https://github.com/apiaryio/api-blueprint) - API Blueprint
 - [inkscape/inkscape](https://github.com/inkscape/inkscape) - Project Website: https://inkscape.org - Code Repository: https://gitlab.com/inkscape/inkscape - Draw freely. 🖌
 - [Manager-io/Manager](https://github.com/Manager-io/Manager) - Accounting software. Available for Windows, Mac and Linux.
@@ -628,6 +628,7 @@
 
 ## PHP 
 
+- [spatie/laravel-backup](https://github.com/spatie/laravel-backup) - A package to backup your Laravel app
 - [lhapaipai/vite-bundle](https://github.com/lhapaipai/vite-bundle) - Integration with your Symfony app & Vite
 - [spatie/laravel-newsletter](https://github.com/spatie/laravel-newsletter) - Manage Mailcoach and MailChimp newsletters in Laravel
 - [statikbe/laravel-cookie-consent](https://github.com/statikbe/laravel-cookie-consent) - The package includes a script & styling for a cookie banner and a modal where the visitor can select his/her cookie preferences.
