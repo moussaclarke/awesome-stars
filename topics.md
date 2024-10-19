@@ -2223,6 +2223,9 @@
 
 ## others 
 
+- [frap129/layman](https://github.com/frap129/layman) - a layout management framework for sway/i3
+- [nwg-piotr/autotiling](https://github.com/nwg-piotr/autotiling) - Script for sway and i3 to automatically switch the horizontal / vertical window split orientation
+- [quantum5/wayland-recorder](https://github.com/quantum5/wayland-recorder) - Scripts to use with wf-recorder and waybar for screen recording
 - [boronine/h2tunnel](https://github.com/boronine/h2tunnel) - Simple ngrok alternative for Node.js
 - [Keloran/dracula-swaync](https://github.com/Keloran/dracula-swaync) - 
 - [unjs/unwasm](https://github.com/unjs/unwasm) - 🇼 WebAssembly tools for JavaScript
