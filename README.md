@@ -684,6 +684,8 @@
 
 ## PHP 
 
+- [blade-ui-kit/blade-icons](https://github.com/blade-ui-kit/blade-icons) - A package to easily make use of SVG icons in your Laravel Blade views.
+- [laravel/horizon](https://github.com/laravel/horizon) - Dashboard and code-driven configuration for Laravel queues.
 - [SebKay/wp-queued-jobs](https://github.com/SebKay/wp-queued-jobs) - A Laravel-like queue system for WordPress.
 - [openswoole/openswoole](https://github.com/openswoole/openswoole) - Openswoole: powering the next-generation micro-services and application
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - The PHP framework that gets out of your way 🌊
@@ -981,6 +983,7 @@
 
 ## Python 
 
+- [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [ics-py/ics-py](https://github.com/ics-py/ics-py) - Pythonic and easy iCalendar library (rfc5545)
 - [mrvladus/Errands](https://github.com/mrvladus/Errands) - Todo application for those who prefer simplicity.
 - [pimutils/todoman](https://github.com/pimutils/todoman) - ✅ Simple, standards-based, command line todo (aka: task) manager.
@@ -1567,7 +1570,7 @@
 - [Vibrant-Colors/node-vibrant](https://github.com/Vibrant-Colors/node-vibrant) - 🎨 Extract prominent colors from an image
 - [inertiajs/inertia](https://github.com/inertiajs/inertia) - Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
 - [buttercup/buttercup-browser-extension](https://github.com/buttercup/buttercup-browser-extension) - :earth_asia: Buttercup browser extension
 - [SoftwareBrothers/adminjs-expressjs](https://github.com/SoftwareBrothers/adminjs-expressjs) - This is an official AdminJS plugin which integrates it to expressjs framework.
