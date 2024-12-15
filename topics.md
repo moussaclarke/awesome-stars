@@ -243,7 +243,7 @@
 
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - one API to get all user desktop data  (local, cross platform, 24/7, screen, voice, keyboard, mouse, camera recording). sandboxed js plugin system. keyboard and mouse control
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - Rust API to get all user desktop data  (local, cross platform, 24/7, screen, voice, keyboard, mouse, camera recording). sandboxed js plugin system. keyboard and mouse control
 - [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [james1236/backseat.nvim](https://github.com/james1236/backseat.nvim) - A neovim plugin that uses GPT to highlight and explain code readability issues
@@ -619,7 +619,7 @@
 
 ## computer-vision 
 
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - one API to get all user desktop data  (local, cross platform, 24/7, screen, voice, keyboard, mouse, camera recording). sandboxed js plugin system. keyboard and mouse control
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - Rust API to get all user desktop data  (local, cross platform, 24/7, screen, voice, keyboard, mouse, camera recording). sandboxed js plugin system. keyboard and mouse control
 - [arefmalek/airdraw](https://github.com/arefmalek/airdraw) - A vision-based drawing application
 
 ## cpp 
@@ -1559,6 +1559,7 @@
 - [CoderLine/alphaTab](https://github.com/CoderLine/alphaTab) - alphaTab is a cross platform music notation and guitar tablature rendering library.
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Fullstack TypeScript toolkit that enhances Prisma ORM with flexible Authorization layer for RBAC/ABAC/PBAC/ReBAC, offering auto-generated type-safe APIs and frontend hooks.
 - [JohannesNE/literature-clock](https://github.com/JohannesNE/literature-clock) - Clock using time quotes from the literature, based on the work of Jaap Meijers
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [hybridgroup/cylon](https://github.com/hybridgroup/cylon) - JavaScript framework for robotics, drones, and the Internet of Things (IoT)
@@ -1916,7 +1917,7 @@
 
 ## llm 
 
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - one API to get all user desktop data  (local, cross platform, 24/7, screen, voice, keyboard, mouse, camera recording). sandboxed js plugin system. keyboard and mouse control
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - Rust API to get all user desktop data  (local, cross platform, 24/7, screen, voice, keyboard, mouse, camera recording). sandboxed js plugin system. keyboard and mouse control
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place.
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
@@ -1971,7 +1972,7 @@
 
 ## machine-learning 
 
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - one API to get all user desktop data  (local, cross platform, 24/7, screen, voice, keyboard, mouse, camera recording). sandboxed js plugin system. keyboard and mouse control
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - Rust API to get all user desktop data  (local, cross platform, 24/7, screen, voice, keyboard, mouse, camera recording). sandboxed js plugin system. keyboard and mouse control
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [1aienthusiast/audiocraft-infinity-webui](https://github.com/1aienthusiast/audiocraft-infinity-webui) - 
@@ -2233,6 +2234,7 @@
 
 ## node 
 
+- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Like Next.js & Nuxt but with unprecedented flexibility, dependability, and control.
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Fullstack TypeScript toolkit that enhances Prisma ORM with flexible Authorization layer for RBAC/ABAC/PBAC/ReBAC, offering auto-generated type-safe APIs and frontend hooks.
@@ -2411,6 +2413,8 @@
 
 ## others 
 
+- [atinux/nitro-cloudflare-crons](https://github.com/atinux/nitro-cloudflare-crons) - Example of using Cloudflare Workers Crons Triggers with Nitro.
+- [funkhaus/fuxt](https://github.com/funkhaus/fuxt) - A complete Headless WordPress tech stack built on Nuxt.
 - [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) - Official repository of the AWS SDK for PHP (@awsforphp)
 - [unjs/undocs](https://github.com/unjs/undocs) - Minimal Documentation theme and CLI for shared usage across UnJS projects.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
@@ -3257,6 +3261,7 @@
 
 ## react 
 
+- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Like Next.js & Nuxt but with unprecedented flexibility, dependability, and control.
 - [fireproof-storage/fireproof](https://github.com/fireproof-storage/fireproof) - Realtime database, runs anywhere. Install Fireproof in your front-end app or edge function, and sync data via any backend.
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [cardo-podcast/cardo](https://github.com/cardo-podcast/cardo) - Podcast client
@@ -3946,6 +3951,7 @@
 
 ## vue 
 
+- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Like Next.js & Nuxt but with unprecedented flexibility, dependability, and control.
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
 - [posva/pinia-colada](https://github.com/posva/pinia-colada) - 🍹 The smart data fetching layer for Pinia
