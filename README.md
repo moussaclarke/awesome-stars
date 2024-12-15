@@ -1329,6 +1329,8 @@
 
 ## TypeScript 
 
+- [atinux/nitro-cloudflare-crons](https://github.com/atinux/nitro-cloudflare-crons) - Example of using Cloudflare Workers Crons Triggers with Nitro.
+- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Like Next.js & Nuxt but with unprecedented flexibility, dependability, and control.
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
 - [tonghohin/screen-sharing](https://github.com/tonghohin/screen-sharing) - Share your screen with one simple room code. No downloads or sign-ups required.
 - [fireproof-storage/fireproof](https://github.com/fireproof-storage/fireproof) - Realtime database, runs anywhere. Install Fireproof in your front-end app or edge function, and sync data via any backend.
@@ -1361,7 +1363,7 @@
 - [vue-reactivity/watch](https://github.com/vue-reactivity/watch) - The missing `watch` for @vue/reactivity
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [muxinc/media-chrome](https://github.com/muxinc/media-chrome) - Custom elements (web components) for making audio and video player controls that look great in your website or app.
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - one API to get all user desktop data  (local, cross platform, 24/7, screen, voice, keyboard, mouse, camera recording). sandboxed js plugin system. keyboard and mouse control
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - Rust API to get all user desktop data  (local, cross platform, 24/7, screen, voice, keyboard, mouse, camera recording). sandboxed js plugin system. keyboard and mouse control
 - [nuxt/scripts](https://github.com/nuxt/scripts) - Third-Party Scripts Meets Nuxt Developer Experience.
 - [lucafalasco/scroll-snap](https://github.com/lucafalasco/scroll-snap) - ↯ Snap page when user stops scrolling, with a customizable configuration and a consistent cross browser behaviour
 - [timmywil/panzoom](https://github.com/timmywil/panzoom) - A library for panning and zooming elements using CSS transforms :mag:
@@ -1640,6 +1642,7 @@
 
 ## Vue 
 
+- [funkhaus/fuxt](https://github.com/funkhaus/fuxt) - A complete Headless WordPress tech stack built on Nuxt.
 - [unjs/undocs](https://github.com/unjs/undocs) - Minimal Documentation theme and CLI for shared usage across UnJS projects.
 - [Derkyela/pert-calculator](https://github.com/Derkyela/pert-calculator) - PERT Calculator is a simple tool for project evaluation and review technique (PERT).
 - [logchimp/logchimp](https://github.com/logchimp/logchimp) - Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work!
