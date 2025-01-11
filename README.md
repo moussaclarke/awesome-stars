@@ -228,7 +228,7 @@
 
 - [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
-- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End to End Encrypted alternative to Google Photos and Apple Photos
+- [ente-io/ente](https://github.com/ente-io/ente) - Fully Open Source, End-to-End Encrypted Cloud
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 
 ## Elixir 
@@ -1275,6 +1275,7 @@
 
 ## SCSS 
 
+- [moussaclarke/hobbes](https://github.com/moussaclarke/hobbes) - Client collaboration hub for solo devs, based on CalDAV VTODO
 - [zumerlab/orbit](https://github.com/zumerlab/orbit) - 💫 Orbit is the first general-purpose CSS framework designed for building any kind of radial or circular UI!
 - [nielsVoogt/nice-forms.css](https://github.com/nielsVoogt/nice-forms.css) - Nice forms - CSS base for forms and inputs
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
