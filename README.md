@@ -132,6 +132,7 @@
 
 ## C++ 
 
+- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [jackaudio/jack2](https://github.com/jackaudio/jack2) - jack2 codebase
 - [davidmoreno/rtpmidid](https://github.com/davidmoreno/rtpmidid) - RTP MIDI (AppleMIDI) daemon for Linux
 - [apohl79/audiogridder](https://github.com/apohl79/audiogridder) - DSP servers using general purpose computers and networks
@@ -251,6 +252,7 @@
 
 ## Go 
 
+- [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries.
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens.
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
@@ -427,6 +429,7 @@
 
 ## JavaScript 
 
+- [locutusjs/locutus](https://github.com/locutusjs/locutus) - Bringing stdlibs of other programming languages to JavaScript for educational purposes
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
 - [liabru/matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web ▲● ■
@@ -723,7 +726,7 @@
 - [inkscape/inkscape](https://github.com/inkscape/inkscape) - Project Website: https://inkscape.org - Code Repository: https://gitlab.com/inkscape/inkscape - Draw freely. 🖌
 - [Manager-io/Manager](https://github.com/Manager-io/Manager) - Accounting software. Available for Windows, Mac and Linux.
 - [Ubuntu-Sway/Ubuntu-Sway-Remix](https://github.com/Ubuntu-Sway/Ubuntu-Sway-Remix) - Ubuntu with Sway wayland compositor
-- [bvdzynski/jsfx_mastering_suite](https://github.com/bvdzynski/jsfx_mastering_suite) - Open-source collection of JSFX (JesuSonic plugins) for Reaper. Plugins are made for use in mastering stage of music production.
+- [maciejbudzowski/jsfx_mastering_suite](https://github.com/maciejbudzowski/jsfx_mastering_suite) - Open-source collection of JSFX (JesuSonic plugins) for Reaper. Plugins are made for use in mastering stage of music production.
 - [tc39/proposal-signals](https://github.com/tc39/proposal-signals) - A proposal to add signals to JavaScript.
 - [micro-editor/plugin-channel](https://github.com/micro-editor/plugin-channel) - Official plugin channel for micro
 - [joplin-vieweb/joplin-vieweb](https://github.com/joplin-vieweb/joplin-vieweb) - A web viewer for Joplin app
@@ -746,6 +749,7 @@
 
 ## PHP 
 
+- [phpmetrics/PhpMetrics](https://github.com/phpmetrics/PhpMetrics) - Beautiful and understandable static analysis tool for PHP
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 - [tigitz/php-spellchecker](https://github.com/tigitz/php-spellchecker) - 🐘🎓📝 PHP Library providing an easy way to spellcheck multiple sources of text by many spellcheckers
 - [ezyang/htmlpurifier](https://github.com/ezyang/htmlpurifier) - Standards compliant HTML filter written in PHP
@@ -1328,7 +1332,7 @@
 
 ## Shell 
 
-- [mkasberg/ghostty-ubuntu](https://github.com/mkasberg/ghostty-ubuntu) - Ubuntu (.deb) packages for Ghostty
+- [mkasberg/ghostty-ubuntu](https://github.com/mkasberg/ghostty-ubuntu) - Ubuntu/Debian (.deb) packages for Ghostty
 - [formewp/forme-base](https://github.com/formewp/forme-base) - Forme base installation
 - [UnkwUsr/ticktask](https://github.com/UnkwUsr/ticktask) - Simple cli for creating tasks on ticktick.com
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
@@ -1395,6 +1399,7 @@
 
 ## TypeScript 
 
+- [dlants/magenta.nvim](https://github.com/dlants/magenta.nvim) - A tool-use-focused LLM plugin for neovim.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management 
 - [kaitai-io/kaitai_struct_webide](https://github.com/kaitai-io/kaitai_struct_webide) - Online editor / visualizer for Kaitai Struct .ksy files
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
@@ -1450,7 +1455,7 @@
 - [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Blazingly fast code search 🏎️  Deployed as a single Docker image 📦 Search million+ lines of code in your GitHub, GitLab, Gitea, and Gerrit repositories 🪄 MIT licensed ✅
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
 - [voideditor/void](https://github.com/voideditor/void) - 
-- [tsrorg/tsr](https://github.com/tsrorg/tsr) - TypeScript Remove (tsr) is a utility that removes unused code from TypeScript projects – It's like tree shaking, but for source files
+- [line/tsr](https://github.com/line/tsr) - TypeScript Remove (tsr) is a utility that removes unused code from TypeScript projects – It's like tree shaking, but for source files
 - [shufo/blade-formatter](https://github.com/shufo/blade-formatter) - An opinionated blade template formatter for Laravel that respects readability
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
