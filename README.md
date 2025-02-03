@@ -18,6 +18,7 @@
 - [Crystal](#crystal)
 - [Dart](#dart)
 - [Elixir](#elixir)
+- [Fennel](#fennel)
 - [Go](#go)
 - [HTML](#html)
 - [Handlebars](#handlebars)
@@ -133,6 +134,7 @@
 
 ## C++ 
 
+- [squid-cache/squid](https://github.com/squid-cache/squid) - Squid Web Proxy Cache
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [jackaudio/jack2](https://github.com/jackaudio/jack2) - jack2 codebase
 - [davidmoreno/rtpmidid](https://github.com/davidmoreno/rtpmidid) - RTP MIDI (AppleMIDI) daemon for Linux
@@ -195,6 +197,7 @@
 
 ## CSS 
 
+- [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [nwg-piotr/nwg-shell](https://github.com/nwg-piotr/nwg-shell) - Installer & meta-package for the nwg-shell project: a GTK3-based shell for sway and Hyprland Wayland compositors
 - [heroku/12factor](https://github.com/heroku/12factor) - 
@@ -250,8 +253,14 @@
 - [zoonk/uneebee](https://github.com/zoonk/uneebee) - Platform for creating interactive courses.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
+## Fennel 
+
+- [esbudylin/modest](https://github.com/esbudylin/modest) - musical harmony library for Lua
+
 ## Go 
 
+- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries.
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens.
@@ -374,6 +383,7 @@
 
 ## HTML 
 
+- [tnylea/php-ext](https://github.com/tnylea/php-ext) - A chrome extension to show PHP (Laravel) devtools console
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [MaxwellBo/celine](https://github.com/MaxwellBo/celine) - 🐌 A suite of libraries for building reactive HTML notebooks with inline contenteditable &lt;script&gt;s
 - [apankrat/nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
@@ -430,6 +440,10 @@
 
 ## JavaScript 
 
+- [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
+- [gochev/utext](https://github.com/gochev/utext) - UteXt which is UX by code.. a Markdown to UI/UX editor.
+- [vasanthv/ahey](https://github.com/vasanthv/ahey) - a simple pub-sub over web push
+- [spatie/laravel-web-tinker](https://github.com/spatie/laravel-web-tinker) - Tinker in your browser
 - [locutusjs/locutus](https://github.com/locutusjs/locutus) - Bringing stdlibs of other programming languages to JavaScript for educational purposes
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
@@ -751,6 +765,10 @@
 
 ## PHP 
 
+- [opentape/opentape](https://github.com/opentape/opentape) - a free way to make and host your own web mixtape
+- [coduo/php-humanizer](https://github.com/coduo/php-humanizer) - Humanize values that are readable only for developers.
+- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
+- [loupe-php/loupe](https://github.com/loupe-php/loupe) - A full text search engine with tokenization, stemming, typo tolerance, filters and geo support based on only PHP and SQLite.
 - [phpmetrics/PhpMetrics](https://github.com/phpmetrics/PhpMetrics) - Beautiful and understandable static analysis tool for PHP
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 - [tigitz/php-spellchecker](https://github.com/tigitz/php-spellchecker) - 🐘🎓📝 PHP Library providing an easy way to spellcheck multiple sources of text by many spellcheckers
@@ -1062,7 +1080,7 @@
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
-- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by o1, GPT-4, GPT-4 Vision, Gemini, Claude, Llama 3, Bielik, DALL-E, LangChain, LlamaIndex, chat, vision, voice control, image generation and analysis, agents, command exe
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by o1, GPT-4, GPT-4 Vision, Gemini, Claude, Llama 3, DeepSeek, Bielik, DALL-E, LangChain, LlamaIndex, chat, vision, voice control, image generation and analysis, agents, c
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [huggingface/smollm](https://github.com/huggingface/smollm) - Everything about the SmolLM2 and SmolVLM family of models
@@ -1193,6 +1211,7 @@
 
 ## Rust 
 
+- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.
 - [Holzhaus/rekordcrate](https://github.com/Holzhaus/rekordcrate) - Library for parsing Pioneer Rekordbox device exports
 - [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
@@ -1335,6 +1354,8 @@
 
 ## Shell 
 
+- [containers/ramalama](https://github.com/containers/ramalama) - The goal of RamaLama is to make working with AI boring.
+- [smoqadam/pvm](https://github.com/smoqadam/pvm) - php version manager
 - [egurapha/Shunpo](https://github.com/egurapha/Shunpo) - A minimalist bash tool that makes directory navigation just a little bit faster.
 - [mkasberg/ghostty-ubuntu](https://github.com/mkasberg/ghostty-ubuntu) - Ubuntu/Debian (.deb) packages for Ghostty
 - [formewp/forme-base](https://github.com/formewp/forme-base) - Forme base installation
@@ -1343,7 +1364,7 @@
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [arzzen/pert](https://github.com/arzzen/pert) - A simple command line (bash/shell) utility to estimate tasks using PERT [Program Evaluation and Review Technique]
 - [makedeb/makedeb](https://github.com/makedeb/makedeb) - A simplicity-focused packaging tool for Debian archives
-- [ivan-hc/AM](https://github.com/ivan-hc/AM) - AppImage package manager to install, update, sandbox and manage ALL of them, system-wide or locally, thanks to its ever-growing AUR-inspired database listing 2500+ portable apps and programs for GNU/L
+- [ivan-hc/AM](https://github.com/ivan-hc/AM) - AppImage Package Manager: Install, update and sandbox all AppImages, system-wide or locally. Use over 2500 AppImages and portable apps for GNU/Linux from its extensible and ever-growing AUR-inspired d
 - [quantum5/wayland-recorder](https://github.com/quantum5/wayland-recorder) - Scripts to use with wf-recorder and waybar for screen recording
 - [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [b0o/swaynagmode](https://github.com/b0o/swaynagmode) - ⌨ swaynag wrapper for the love of keybindings
@@ -1373,6 +1394,7 @@
 
 ## Svelte 
 
+- [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgre
 - [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
@@ -1403,6 +1425,9 @@
 
 ## TypeScript 
 
+- [joinloops/loops-app](https://github.com/joinloops/loops-app) - Mobile app for Loops
+- [earthstar-project/earthstar](https://github.com/earthstar-project/earthstar) - Storage for private, distributed, offline-first applications.
+- [stackblitz/alien-signals](https://github.com/stackblitz/alien-signals) - 👾 The lightest signal library
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [dlants/magenta.nvim](https://github.com/dlants/magenta.nvim) - A tool-use-focused LLM plugin for neovim.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management 
@@ -1570,7 +1595,7 @@
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [vue-email/vue-email](https://github.com/vue-email/vue-email) - 💌 Write email templates with vue
 - [lautr/initium-nuxt](https://github.com/lautr/initium-nuxt) - An opinionated starter for using Nuxt, Tailwind & Storybook.
 - [storybook-vue/storybook-nuxt](https://github.com/storybook-vue/storybook-nuxt) - Deprecated in favor of https://github.com/nuxt-modules/storybook/
