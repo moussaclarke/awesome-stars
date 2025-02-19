@@ -265,6 +265,7 @@
 
 ## Go 
 
+- [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
 - [NimbleMarkets/ntcharts](https://github.com/NimbleMarkets/ntcharts) - Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs
 - [emprcl/signls](https://github.com/emprcl/signls) - a non-linear, generative midi sequencer in the terminal :infinity:
 - [yunginnanet/HellPot](https://github.com/yunginnanet/HellPot) - HellPot is a cross-platform portal to endless suffering meant to punish unruly HTTP bots.
@@ -465,7 +466,7 @@
 - [ml5js/ml5-next-gen](https://github.com/ml5js/ml5-next-gen) - Repo for next generation of ml5.js: friendly machine learning for the web! 🤖
 - [citation-js/citation-js](https://github.com/citation-js/citation-js) - Core functionality of Citation.js, as well as the original plugins (CSL, BibTeX, RIS, DOI, Wikidata, and BibJSON)
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
 - [farzher/fuzzysort](https://github.com/farzher/fuzzysort) - Fast SublimeText-like fuzzy search for JavaScript.
 - [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans
 - [micromark/micromark](https://github.com/micromark/micromark) - small, safe, and great commonmark (optionally gfm) compliant markdown parser
