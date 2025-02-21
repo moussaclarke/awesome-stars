@@ -250,7 +250,7 @@
 
 - [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
-- [ente-io/ente](https://github.com/ente-io/ente) - Fully Open Source, End-to-End Encrypted Cloud
+- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End-to-End Encrypted Cloud
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 
 ## Elixir 
@@ -492,7 +492,7 @@
 - [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
 - [verlok/vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) - LazyLoad is a lightweight, flexible script that speeds up your website by deferring the loading of your below-the-fold images, backgrounds, videos, iframes and scripts to when they will enter the view
 - [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks.
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
 - [hundredrabbits/Marabu](https://github.com/hundredrabbits/Marabu) - Music Synthetiser
 - [hundredrabbits/Orca](https://github.com/hundredrabbits/Orca) - Esoteric Programming Language
@@ -1228,7 +1228,7 @@
 
 ## Rust 
 
-- [jdx/hk](https://github.com/jdx/hk) - git hook and pre-commit lint manager
+- [jdx/hk](https://github.com/jdx/hk) - git hooks and project lints
 - [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud is an open source Cloud Native Computing Foundation (CNCF) project that enables teams to build, manage, and scale polyglot apps across any cloud, K8s, or edge.
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
