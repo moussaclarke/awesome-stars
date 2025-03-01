@@ -91,7 +91,6 @@
 - [xapp-project/gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk) - A GTK Frontend for GNOME Online Accounts
 - [asterisk/asterisk](https://github.com/asterisk/asterisk) - The official Asterisk Project repository.
 - [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.
-- [EmranMR/tree-sitter-blade](https://github.com/EmranMR/tree-sitter-blade) - tree-sitter grammar for Laravel blade files
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
@@ -453,6 +452,7 @@
 
 ## JavaScript 
 
+- [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
 - [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
 - [stucco-software/octothorp.es](https://github.com/stucco-software/octothorp.es) - Hashtags for Websites
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
@@ -485,6 +485,7 @@
 - [josdejong/mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS, Linux & Windows
 - [unjs/unwasm](https://github.com/unjs/unwasm) - 🇼 WebAssembly tools for JavaScript
+- [EmranMR/tree-sitter-blade](https://github.com/EmranMR/tree-sitter-blade) - tree-sitter grammar for Laravel blade files
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
@@ -781,6 +782,7 @@
 
 ## PHP 
 
+- [wibyweb/wiby](https://github.com/wibyweb/wiby) - Wiby Search Engine
 - [valet-linux-plus/valet-linux-plus](https://github.com/valet-linux-plus/valet-linux-plus) - Advanced local development experience for Linux.
 - [firefly-iii/data-importer](https://github.com/firefly-iii/data-importer) - The Firefly III Data Importer can import data into Firefly III
 - [opentape/opentape](https://github.com/opentape/opentape) - a free way to make and host your own web mixtape
@@ -1092,6 +1094,8 @@
 
 ## Python 
 
+- [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
+- [kamilstanuch/codebase-digest](https://github.com/kamilstanuch/codebase-digest) - 🗜️ Codebase-digest is your AI-friendly codebase packer and analyzer. Features 60+ coding prompts and generates structured overviews with metrics. Ideal for feeding projects to LLMs like GPT-4, Claude,
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
 - [Stability-AI/stable-audio-tools](https://github.com/Stability-AI/stable-audio-tools) - Generative models for conditional audio generation
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
@@ -1708,7 +1712,7 @@
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [dracula/dracula-ui](https://github.com/dracula/dracula-ui) - :vampire: A dark-first collection of UI patterns and components.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
-- [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
+- [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 3
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [archtechx/alpine-typescript](https://github.com/archtechx/alpine-typescript) - TypeScript support for Alpine.js
