@@ -250,7 +250,7 @@
 
 - [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
-- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End-to-End Encrypted Cloud
+- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted, FOSS cloud for Photos, 2FA secrets and more!
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 
 ## Elixir 
@@ -265,6 +265,7 @@
 
 ## Go 
 
+- [traggo/server](https://github.com/traggo/server) - self-hosted tag-based time tracking
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
 - [NimbleMarkets/ntcharts](https://github.com/NimbleMarkets/ntcharts) - Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs
 - [emprcl/signls](https://github.com/emprcl/signls) - a non-linear, generative midi sequencer in the terminal :infinity:
@@ -551,7 +552,7 @@
 - [ayoayco/wcb](https://github.com/ayoayco/wcb) - Web Components in Easy Mode 🧱
 - [hound-search/hound](https://github.com/hound-search/hound) - Lightning fast code searching made easy
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
-- [ayoayco/McFly](https://github.com/ayoayco/McFly) - Back to the basics. Into the future.
+- [ayoayco/McFly](https://github.com/ayoayco/McFly) - Contribute to McFly - [mirror] of https://ayco.io/sh/mcfly
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [atomiks/tippyjs](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library
@@ -782,6 +783,7 @@
 
 ## PHP 
 
+- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) - Associate files with Eloquent models
 - [wibyweb/wiby](https://github.com/wibyweb/wiby) - Wiby Search Engine
 - [valet-linux-plus/valet-linux-plus](https://github.com/valet-linux-plus/valet-linux-plus) - Advanced local development experience for Linux.
 - [firefly-iii/data-importer](https://github.com/firefly-iii/data-importer) - The Firefly III Data Importer can import data into Firefly III
@@ -941,7 +943,7 @@
 - [vinkla/extended-acf](https://github.com/vinkla/extended-acf) - Register advanced custom fields with object-oriented PHP
 - [nextcloud/social](https://github.com/nextcloud/social) - 🎉 Social can be used for work, or to connect to the fediverse!
 - [friendica/friendica](https://github.com/friendica/friendica) - Friendica Communications Platform
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - Advanced rules for PHPStan
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - Advanced rules for PHPStan that watch your back - whether you use Symfony, Doctrine, PHPUnit or other OOP PHP
 - [landrok/activitypub](https://github.com/landrok/activitypub) - A PHP implementation of ActivityPub protocol based upon the ActivityStreams 2.0 data format.
 - [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - Phel is a functional programming language that transpiles to PHP. A Lisp dialect inspired by Clojure and Janet.
 - [reactphp/reactphp](https://github.com/reactphp/reactphp) - Event-driven, non-blocking I/O with PHP.
@@ -1323,7 +1325,7 @@
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [StractOrg/stract](https://github.com/StractOrg/stract) - web search done right
-- [deltachat/deltachat-core-rust](https://github.com/deltachat/deltachat-core-rust) - Delta Chat Rust Core library, used by Android/iOS/desktop apps, bindings and bots 📧
+- [chatmail/core](https://github.com/chatmail/core) - Delta Chat Rust Core library, used by Android/iOS/desktop apps, bindings and bots 📧
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
 - [aome510/hackernews-TUI](https://github.com/aome510/hackernews-TUI) - A Terminal UI to browse Hacker News
@@ -1453,6 +1455,9 @@
 
 ## TypeScript 
 
+- [ascorbic/unpic-img](https://github.com/ascorbic/unpic-img) - Multi-framework responsive image component
+- [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) - A standard interface for TypeScript schema validation libraries
+- [SkipLabs/skip](https://github.com/SkipLabs/skip) - Skip is a framework for building reactive services
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
