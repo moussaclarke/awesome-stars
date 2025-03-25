@@ -11,6 +11,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [CMake](#cmake)
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
@@ -77,6 +78,7 @@
 
 ## C 
 
+- [ImVexed/muon](https://github.com/ImVexed/muon) - GPU based Electron on a diet
 - [ClassicOldSong/moonlight-android](https://github.com/ClassicOldSong/moonlight-android) - GameStream client for Android
 - [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
 - [elemaudio/elementary](https://github.com/elemaudio/elementary) - Elementary is a JavaScript library for digital audio signal processing.
@@ -134,6 +136,7 @@
 
 ## C++ 
 
+- [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [directvt/vtm](https://github.com/directvt/vtm) - Text-based desktop environment
 - [ClassicOldSong/Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork - The easiest way to stream with the native resolution of your client device
 - [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
@@ -199,8 +202,13 @@
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 
+## CMake 
+
+- [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Lightweight, high-performance HTML renderer for game and app developers.
+
 ## CSS 
 
+- [kognise/water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
 - [nexsol-technologies/pgassistant](https://github.com/nexsol-technologies/pgassistant) - PgAssistant is an open-source tool designed to help developers understand and optimize their PostgreSQL database performance.
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
@@ -208,7 +216,6 @@
 - [heroku/12factor](https://github.com/heroku/12factor) - 
 - [indieweb/indiewebify-me](https://github.com/indieweb/indiewebify-me) - Tools to help you get the best out of your indieweb site
 - [blakewatson/htmlforpeople](https://github.com/blakewatson/htmlforpeople) - Web book about how to make a website with HTML.
-- [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with Windows, Linux and macOS ✨
 - [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
 - [pipes-digital/pipes](https://github.com/pipes-digital/pipes) - Repository for Pipes
@@ -264,6 +271,10 @@
 
 ## Go 
 
+- [jesseduffield/gocui](https://github.com/jesseduffield/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
+- [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
+- [tdewolff/argp](https://github.com/tdewolff/argp) - GNU command line argument parser
+- [uniplaces/carbon](https://github.com/uniplaces/carbon) - Carbon for Golang, an extension for Time
 - [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
 - [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
@@ -464,6 +475,8 @@
 
 ## JavaScript 
 
+- [chjj/blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
+- [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
 - [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
 - [stucco-software/octothorp.es](https://github.com/stucco-software/octothorp.es) - Hashtags for Websites
@@ -816,7 +829,7 @@
 - [laravel/horizon](https://github.com/laravel/horizon) - Dashboard and code-driven configuration for Laravel queues.
 - [SebKay/wp-queued-jobs](https://github.com/SebKay/wp-queued-jobs) - A Laravel-like queue system for WordPress.
 - [openswoole/openswoole](https://github.com/openswoole/openswoole) - Openswoole: powering the next-generation micro-services and application
-- [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - The PHP framework that gets out of your way 🌊
+- [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - The PHP framework that gets out of your way  🌊
 - [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI
 - [laravel/reverb](https://github.com/laravel/reverb) - Laravel Reverb provides a real-time WebSocket communication backend for Laravel applications.
 - [sabre-io/dav](https://github.com/sabre-io/dav) - sabre/dav is a CalDAV, CardDAV and WebDAV framework for PHP
@@ -1251,6 +1264,7 @@
 
 ## Rust 
 
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [jnsgruk/oxidizr](https://github.com/jnsgruk/oxidizr) - 🦀 Install modern Rust-based replacements of packages such as coreutils, findutils, diffutils and sudo,  making them the default on an Ubuntu system 🦀
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [giacomo-b/rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder) - Generate impressive-looking terminal output to look busy when stakeholders walk by
@@ -1472,6 +1486,10 @@
 
 ## TypeScript 
 
+- [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+- [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
+- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, 
+- [szimek/signature_pad](https://github.com/szimek/signature_pad) - HTML5 canvas based smooth signature drawing
 - [Tusflow/tusflow-api](https://github.com/Tusflow/tusflow-api) - A serverless file upload service implementing the TUS resumable upload protocol using Cloudflare Workers
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source alternative to Google Meet and Zoom powered by LiveKit: HD video calls, screen sharing, and chat features. Built with Django and React.
@@ -1541,6 +1559,7 @@
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
 - [nuxt/scripts](https://github.com/nuxt/scripts) - Third-Party Scripts Meets Nuxt Developer Experience.
 - [lucafalasco/scroll-snap](https://github.com/lucafalasco/scroll-snap) - ↯ Snap page when user stops scrolling, with a customizable configuration and a consistent cross browser behaviour
+- [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [timmywil/panzoom](https://github.com/timmywil/panzoom) - A library for panning and zooming elements using CSS transforms :mag:
 - [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Blazingly fast code search 🏎️  Deployed as a single Docker image 📦 Search million+ lines of code in your GitHub, GitLab, Gitea, and Gerrit repositories 🪄 MIT licensed ✅
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
