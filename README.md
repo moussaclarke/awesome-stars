@@ -502,7 +502,7 @@
 
 - [corbindavenport/share-to-mastodon](https://github.com/corbindavenport/share-to-mastodon) - Browser extension for sharing links and tabs to Mastodon (and other Fediverse platforms)
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
-- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - snapDOM captures DOM nodes as images with exceptional speed avoiding bottlenecks and long tasks.
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - snapDOM captures DOM nodes as images with exceptional speed and accuracy.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [chjj/blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
@@ -842,6 +842,7 @@
 
 ## PHP 
 
+- [SleekDB/SleekDB](https://github.com/SleekDB/SleekDB) - Pure PHP NoSQL database with no dependency. Flat file, JSON based document database.
 - [formewp/forme-theme](https://github.com/formewp/forme-theme) - Forme starter theme
 - [brick/math](https://github.com/brick/math) - Arbitrary-precision arithmetic library for PHP
 - [FabienO/LuceneQueryBuilder](https://github.com/FabienO/LuceneQueryBuilder) - Lucene Query Builder for your easy lucene searching needs
@@ -1603,7 +1604,7 @@
 - [nuxt-hub/core](https://github.com/nuxt-hub/core) - Build full-stack applications with Nuxt on CloudFlare, with zero configuration.
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [atinux/nitro-cloudflare-crons](https://github.com/atinux/nitro-cloudflare-crons) - Example of using Cloudflare Workers Crons Triggers with Nitro.
-- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 The Framework *You* Control – Next.js & Nuxt alternative for unprecedented flexibility and dependability.
+- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 The Framework *You* Control – Next.js & Nuxt alternative for unprecedented flexibility and stability.
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
 - [tonghohin/screen-sharing](https://github.com/tonghohin/screen-sharing) - Share your screen with one simple room code. No downloads or sign-ups required.
 - [fireproof-storage/fireproof](https://github.com/fireproof-storage/fireproof) - The vibe coding database runs in the browser, fits in the context window, and syncs anywhere.
