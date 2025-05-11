@@ -171,6 +171,7 @@
 - [diyPresso/diyPresso-One](https://github.com/diyPresso/diyPresso-One) - diyPresso One - first espresso machine build kit
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [DISTRHO/Cardinal](https://github.com/DISTRHO/Cardinal) - Virtual modular synthesizer plugin
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
@@ -284,6 +285,7 @@
 
 ## Go 
 
+- [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [ianlewis/todos](https://github.com/ianlewis/todos) - Parse TODO and FIXME comments from code
 - [Evertras/code-todos](https://github.com/Evertras/code-todos) - Programmatically find and track TODO statements in codebases
 - [RasmusLindroth/tut](https://github.com/RasmusLindroth/tut) - TUI for Mastodon with vim inspired keys
@@ -497,7 +499,7 @@
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Advanced player for set-top boxes and tvs running Android OS
 - [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [hyphanet/fred](https://github.com/hyphanet/fred) - Freenet REference Daemon
-- [deltachat/deltachat-android](https://github.com/deltachat/deltachat-android) - Email-based instant messaging for Android.
+- [deltachat/deltachat-android](https://github.com/deltachat/deltachat-android) - Decentralized private messenger with chat-shared tools and games for Android
 - [ContextMapper/context-mapper-dsl](https://github.com/ContextMapper/context-mapper-dsl) - ContextMapper DSL: A Domain-specific Language for Context Mapping & Service Decomposition
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
@@ -510,7 +512,7 @@
 
 - [corbindavenport/share-to-mastodon](https://github.com/corbindavenport/share-to-mastodon) - Browser extension for sharing links and tabs to Mastodon (and other Fediverse platforms)
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
-- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - snapDOM captures DOM nodes as images with exceptional speed and accuracy.
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - snapDOM captures HTML elements as images with exceptional speed and accuracy.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [chjj/blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
@@ -555,7 +557,6 @@
 - [zumerlab/orbit](https://github.com/zumerlab/orbit) - 💫 Orbit is a general-purpose CSS framework designed for building any kind of radial UI.
 - [verlok/vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) - LazyLoad is a lightweight, flexible script that speeds up your website by deferring the loading of your below-the-fold images, backgrounds, videos, iframes and scripts to when they will enter the view
 - [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
 - [hundredrabbits/Marabu](https://github.com/hundredrabbits/Marabu) - Music Synthetiser
 - [hundredrabbits/Orca](https://github.com/hundredrabbits/Orca) - Esoteric Programming Language
@@ -587,7 +588,7 @@
 - [mde/ejs](https://github.com/mde/ejs) - Embedded JavaScript templates -- http://ejs.co
 - [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Minimal templating on steroids.
 - [pugjs/pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js
-- [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
+- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone
 - [Leleat/Tiling-Assistant](https://github.com/Leleat/Tiling-Assistant) - An extension which adds a Windows-like snap assist to GNOME. It also expands GNOME's 2 column tiling layout.
 - [css/csso](https://github.com/css/csso) - CSS minifier with structural optimizations
 - [neatnik/typo](https://github.com/neatnik/typo) - Typo is a more natural web typing thing
@@ -851,6 +852,7 @@
 
 ## PHP 
 
+- [zolex/vom](https://github.com/zolex/vom) - Versatile Object Mapper for PHP. Map arbitrary data to strictly typed models using attributes.
 - [SleekDB/SleekDB](https://github.com/SleekDB/SleekDB) - Pure PHP NoSQL database with no dependency. Flat file, JSON based document database.
 - [formewp/forme-theme](https://github.com/formewp/forme-theme) - Forme starter theme
 - [brick/math](https://github.com/brick/math) - Arbitrary-precision arithmetic library for PHP
@@ -1562,6 +1564,7 @@
 
 ## TypeScript 
 
+- [vanviegen/aberdeen](https://github.com/vanviegen/aberdeen) - A TypeScript/JavaScript library for quickly building performant declarative user interfaces without the use of a virtual DOM.
 - [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
@@ -1635,7 +1638,7 @@
 - [natelindev/tsdav](https://github.com/natelindev/tsdav) - WebDAV, CALDAV, and CARDDAV client for Nodejs and the Browser
 - [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
 - [justin-schroeder/arrow-js](https://github.com/justin-schroeder/arrow-js) - Reactivity without the framework
-- [posva/pinia-colada](https://github.com/posva/pinia-colada) - 🍹 The smart data fetching layer for Pinia
+- [posva/pinia-colada](https://github.com/posva/pinia-colada) - 🍹 The smart data fetching layer for Vue.js
 - [harlan-zw/nuxt-seo](https://github.com/harlan-zw/nuxt-seo) - The complete SEO solution for Nuxt.
 - [harlan-zw/nuxt-schema-org](https://github.com/harlan-zw/nuxt-schema-org) - The quickest and easiest way to build Schema.org graphs for Nuxt.
 - [CalebJohn/joplin-math-mode](https://github.com/CalebJohn/joplin-math-mode) - Turn your notes into a powerful calculator with inline math.
@@ -1721,7 +1724,7 @@
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [volarjs/volar.js](https://github.com/volarjs/volar.js) - 💙🌊
 - [webxdc/webxdc-dev](https://github.com/webxdc/webxdc-dev) - A development server for webxdc apps
-- [deltachat/deltachat-desktop](https://github.com/deltachat/deltachat-desktop) - Email-based instant messaging for Desktop.
+- [deltachat/deltachat-desktop](https://github.com/deltachat/deltachat-desktop) - Decentralized private messenger with chat-shared tools and games for Desktop
 - [funmusicplace/mirlo](https://github.com/funmusicplace/mirlo) - An open source audio distribution and patronage platform
 - [github/catalyst](https://github.com/github/catalyst) - Catalyst is a set of patterns and techniques for developing components within a complex application.
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
