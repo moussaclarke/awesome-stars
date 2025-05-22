@@ -270,7 +270,7 @@
 - [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible.
 - [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - ✨ End-to-end encrypted cloud for photos, videos and 2FA secrets.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 
 ## Elixir 
@@ -1405,7 +1405,7 @@
 - [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - A radically modular HTML/CSS rendering engine
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-- [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
+- [versotile-org/verso](https://github.com/versotile-org/verso) - Mirror of https://gitlab.com/verso-browser/verso
 - [UnkwUsr/ticked](https://github.com/UnkwUsr/ticked) - Edit your ticktick.com tasks from any text editor you want (like vim/neovim)
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
@@ -1452,7 +1452,7 @@
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
-- [lnx-search/lnx](https://github.com/lnx-search/lnx) - ⚡ Insanely fast, 🌟 Feature-rich searching. lnx is the adaptable, typo tollerant deployment of the tantivy search engine.
+- [lnx-search/lnx](https://github.com/lnx-search/lnx) - An insanely fast search engine for scaling to the stars 🌠
 - [dredozubov/polyrhythmix](https://github.com/dredozubov/polyrhythmix) - Polyrhythmically-inclinded Midi Drum generator
 - [terhechte/Ebou](https://github.com/terhechte/Ebou) - A cross platform Mastodon Client written in Rust
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
@@ -1571,6 +1571,9 @@
 
 ## TypeScript 
 
+- [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
+- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
+- [alondmnt/joplin-plugin-space-indenter](https://github.com/alondmnt/joplin-plugin-space-indenter) - Indent paragraphs with spaces instead of tabs
 - [vanviegen/aberdeen](https://github.com/vanviegen/aberdeen) - A TypeScript/JavaScript library for quickly building performant declarative user interfaces without the use of a virtual DOM.
 - [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
