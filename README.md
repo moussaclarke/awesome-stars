@@ -519,6 +519,7 @@
 
 ## JavaScript 
 
+- [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [google/site-kit-wp](https://github.com/google/site-kit-wp) - Site Kit is a one-stop solution for WordPress users to use everything Google has to offer to make them successful on the web.
 - [corbindavenport/share-to-mastodon](https://github.com/corbindavenport/share-to-mastodon) - Browser extension for sharing links and tabs to Mastodon (and other Fediverse platforms)
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
@@ -621,10 +622,10 @@
 - [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
 - [cheeaun/phanpy](https://github.com/cheeaun/phanpy) - A minimalistic opinionated Mastodon web client
 - [postcss/autoprefixer](https://github.com/postcss/autoprefixer) - Parse CSS and add vendor prefixes to rules by Can I Use
-- [ayoayco/wcb](https://github.com/ayoayco/wcb) - [mirror] of https://ayco.io/sh/wcb
+- [ayoayco/wcb](https://github.com/ayoayco/wcb) - Web Components in Easy Mode
 - [hound-search/hound](https://github.com/hound-search/hound) - Lightning fast code searching made easy
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
-- [ayoayco/McFly](https://github.com/ayoayco/McFly) - [mirror] of https://ayco.io/sh/mcfly
+- [ayoayco/McFly](https://github.com/ayoayco/McFly) - Back to the Basics. Into the Future.
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [atomiks/tippyjs](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library
@@ -862,6 +863,9 @@
 
 ## PHP 
 
+- [aspirepress/aspireupdate](https://github.com/aspirepress/aspireupdate) - A plugin that allows for rewriting the URLs used to fetch updates from WordPress.org to some other endpoint
+- [fairpm/fair-plugin](https://github.com/fairpm/fair-plugin) - FAIR plugin
+- [saleem-hadad/larecipe](https://github.com/saleem-hadad/larecipe) - ✏️ Write and ship beautiful documentation with your Laravel applications using MarkDown
 - [dystcz/dystore-api](https://github.com/dystcz/dystore-api) - [READ ONLY] API layer for Lunar headless e-commerce package based on JSON:API
 - [Simply-Static/simply-static](https://github.com/Simply-Static/simply-static) - Convert your WordPress site into a static one with the free WordPress static site generator plugin, Simply Static.
 - [smalot/pdfparser](https://github.com/smalot/pdfparser) - PdfParser, a standalone PHP library, provides various tools to extract data from a PDF file.
@@ -1345,6 +1349,7 @@
 
 ## Rust 
 
+- [tattoy-org/tattoy](https://github.com/tattoy-org/tattoy) - A text-based compositor for modern terminals
 - [theopfr/somo](https://github.com/theopfr/somo) - A human-friendly alternative to netstat for socket and port monitoring on Linux.
 - [platformatic/php-node](https://github.com/platformatic/php-node) - PHP HTTP Request handler for Node.js
 - [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
