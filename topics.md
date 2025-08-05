@@ -496,7 +496,7 @@
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
-- [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
+- [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 
@@ -685,7 +685,7 @@
 - [symfony/console](https://github.com/symfony/console) - Eases the creation of beautiful and testable command line interfaces
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
-- [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
+- [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
 - [bobthecow/psysh](https://github.com/bobthecow/psysh) - A REPL for PHP
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 
@@ -1045,7 +1045,7 @@
 - [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
 - [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
 - [Swetrix/swetrix](https://github.com/Swetrix/swetrix) - 📈 Swetrix is a cookie-less, open source, privacy-first web analytics, website speed monitoring and error tracking service that you can host yourself or use in the cloud. Get started for free!
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
@@ -1880,7 +1880,7 @@
 
 ## iot 
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [hybridgroup/gobot](https://github.com/hybridgroup/gobot) - Golang framework for robotics, drones, and the Internet of Things (IoT)
@@ -2958,6 +2958,7 @@
 
 ## others 
 
+- [seeyebe/gmap](https://github.com/seeyebe/gmap) - Command-line tool for visualizing Git activity
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [n0-computer/dumbpipe](https://github.com/n0-computer/dumbpipe) - Unix pipes between devices
@@ -4139,12 +4140,13 @@
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line.
-- [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
+- [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 
 ## rust 
 
+- [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
@@ -4302,7 +4304,7 @@
 - [dimonomid/nerdlog](https://github.com/dimonomid/nerdlog) - Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server
 - [asciimoo/omnom](https://github.com/asciimoo/omnom) - A web content preservation service
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [mCaptcha/mCaptcha](https://github.com/mCaptcha/mCaptcha) - A no-nonsense CAPTCHA system with seamless UX | Backend component
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
@@ -4590,6 +4592,7 @@
 
 ## terminal 
 
+- [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [pomdtr/tweety](https://github.com/pomdtr/tweety) - An integrated terminal for your browser
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
@@ -4868,6 +4871,7 @@
 
 ## vim 
 
+- [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
