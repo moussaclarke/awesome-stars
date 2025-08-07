@@ -410,7 +410,7 @@
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
 - [omriharel/deej](https://github.com/omriharel/deej) - Set app volumes with real sliders! deej is an Arduino & Go project to let you build your own hardware mixer for Windows and Linux
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, 
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [boringproxy/boringproxy](https://github.com/boringproxy/boringproxy) - Simple tunneling reverse proxy with a fast web UI and auto HTTPS. Designed for self-hosters.
@@ -1151,7 +1151,7 @@
 - [consolidation/cgr](https://github.com/consolidation/cgr) - Safe replacement for `composer global require`
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [vlucas/valitron](https://github.com/vlucas/valitron) - Valitron is a simple, elegant, stand-alone validation library with NO dependencies
-- [nette/php-generator](https://github.com/nette/php-generator) - 🐘 Generates neat PHP code for you. Supports new PHP 8.4 features.
+- [nette/php-generator](https://github.com/nette/php-generator) - 🐘 Generates neat PHP code for you. Supports new PHP 8.5 features.
 - [qferr/mjml-twig](https://github.com/qferr/mjml-twig) - MJML extension for Twig
 - [qferr/mjml-php](https://github.com/qferr/mjml-php) - A simple PHP library to render MJML to HTML.
 - [bobthecow/psysh](https://github.com/bobthecow/psysh) - A REPL for PHP
@@ -1211,6 +1211,7 @@
 
 ## Python 
 
+- [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [luigi311/JellyPlex-Watched](https://github.com/luigi311/JellyPlex-Watched) - Sync watched status between jellyfin, plex and emby locally
 - [svenssonaxel/pdf-sign](https://github.com/svenssonaxel/pdf-sign) - A tool to sign PDF files. With Linux support.
@@ -1717,7 +1718,7 @@
 - [natelindev/tsdav](https://github.com/natelindev/tsdav) - WebDAV, CALDAV, and CARDDAV client for Nodejs and the Browser
 - [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
 - [justin-schroeder/arrow-js](https://github.com/justin-schroeder/arrow-js) - Reactivity without the framework
-- [posva/pinia-colada](https://github.com/posva/pinia-colada) - 🍹 The smart data fetching layer for Vue.js
+- [posva/pinia-colada](https://github.com/posva/pinia-colada) - 🍹 The smart data fetching layer for Vue
 - [harlan-zw/nuxt-seo](https://github.com/harlan-zw/nuxt-seo) - The complete SEO solution for Nuxt.
 - [harlan-zw/nuxt-schema-org](https://github.com/harlan-zw/nuxt-schema-org) - The quickest and easiest way to build Schema.org graphs for Nuxt.
 - [CalebJohn/joplin-math-mode](https://github.com/CalebJohn/joplin-math-mode) - Turn your notes into a powerful calculator with inline math.
