@@ -62,6 +62,7 @@
 - [Vala](#vala)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+- [YAML](#yaml)
 - [Zig](#zig)
 
 ## Awk 
@@ -117,7 +118,7 @@
 - [NoiseByNorthwest/php-spx](https://github.com/NoiseByNorthwest/php-spx) - A simple & straight-to-the-point PHP profiling extension with its built-in web UI
 - [ArdenButterfield/Maim](https://github.com/ArdenButterfield/Maim) - Audio plugin for custom MP3 distortion and digital glitches
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
-- [haiwen/seafile](https://github.com/haiwen/seafile) - Beyong file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
+- [haiwen/seafile](https://github.com/haiwen/seafile) - Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
 - [nginx/unit](https://github.com/nginx/unit) - NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming l
 - [pure-data/pure-data](https://github.com/pure-data/pure-data) - Pure Data -  a free real-time computer music system
 - [NetHack/NetHack](https://github.com/NetHack/NetHack) - Official NetHack Git Repository
@@ -184,7 +185,6 @@
 - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
-- [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
@@ -237,6 +237,7 @@
 - [indieweb/indiewebify-me](https://github.com/indieweb/indiewebify-me) - Tools to help you get the best out of your indieweb site
 - [blakewatson/htmlforpeople](https://github.com/blakewatson/htmlforpeople) - Web book about how to make a website with HTML.
 - [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with Windows, Linux and macOS ✨
+- [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 - [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
 - [dracula/ulauncher](https://github.com/dracula/ulauncher) - 🧛🏻‍♂️ Dark theme for Ulauncher
 - [brainsum/cookieconsent](https://github.com/brainsum/cookieconsent) - A Javascript based solution for blocking/allowing even 3rd party cookies to comply with GDPR
@@ -472,6 +473,7 @@
 
 ## HTML 
 
+- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [eladg/ffmpeg-by-example](https://github.com/eladg/ffmpeg-by-example) - 
 - [stucco-software/octothorp.es](https://github.com/stucco-software/octothorp.es) - Hashtags for Websites
@@ -529,6 +531,7 @@
 
 ## JavaScript 
 
+- [panphora/overtype](https://github.com/panphora/overtype) - The markdown editor that's just a textarea https://overtype.dev
 - [free-icons/free-icons](https://github.com/free-icons/free-icons) - A collection of over 23,000 freely available icons for various design projects.
 - [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
@@ -1214,7 +1217,7 @@
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [luigi311/JellyPlex-Watched](https://github.com/luigi311/JellyPlex-Watched) - Sync watched status between jellyfin, plex and emby locally
 - [svenssonaxel/pdf-sign](https://github.com/svenssonaxel/pdf-sign) - A tool to sign PDF files. With Linux support.
-- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, 17+ clouds, or on-prem).
 - [kantord/LibreLingo](https://github.com/kantord/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
@@ -1383,7 +1386,6 @@
 - [theopfr/somo](https://github.com/theopfr/somo) - A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS.
 - [platformatic/php-node](https://github.com/platformatic/php-node) - PHP HTTP Request handler for Node.js
 - [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
-- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [antinomyhq/forge](https://github.com/antinomyhq/forge) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 - [BersisSe/feather](https://github.com/BersisSe/feather) - Feather🪶: A Rust web framework that does not use async
 - [d-e-s-o/notnow](https://github.com/d-e-s-o/notnow) - A terminal based task and TODO management software.
@@ -1474,7 +1476,6 @@
 - [quarylabs/quary](https://github.com/quarylabs/quary) - Open-source BI for engineers
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - A Lua code formatter
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [lapce/lapdev](https://github.com/lapce/lapdev) - Self-Hosted Remote Dev Environment
 - [dajoha/lapce-php-intelephense](https://github.com/dajoha/lapce-php-intelephense) - Lapce plugin for the Php language.
 - [magic-wormhole/magic-wormhole.rs](https://github.com/magic-wormhole/magic-wormhole.rs) - Rust implementation of Magic Wormhole, with new features and enhancements
@@ -1548,6 +1549,7 @@
 
 ## Shell 
 
+- [cdown/sshrc](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you ssh
 - [vet-run/vet](https://github.com/vet-run/vet) - vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit app
 - [mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide) - PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦
@@ -1768,7 +1770,7 @@
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [lunariajs/lunaria](https://github.com/lunariajs/lunaria) - The missing localization management toolchain for open-source projects
-- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 - [unjs/changelogen](https://github.com/unjs/changelogen) - 💅 Beautiful Changelogs using Conventional Commits
 - [unjs/ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works on node, browser and workers.
 - [unjs/destr](https://github.com/unjs/destr) - 🚀 Faster, secure and convenient alternative for JSON.parse for arbitrary inputs
@@ -2037,6 +2039,10 @@
 - [caneara/varnish](https://github.com/caneara/varnish) - A library of UI components built using Vue.js and TailwindCSS.
 - [bttger/contributing-gen-web](https://github.com/bttger/contributing-gen-web) - Web Frontend of contributing-gen - The guideline to communicate how people should contribute to your project.
 - [seijikohara/json-tree-view-vue3](https://github.com/seijikohara/json-tree-view-vue3) - JSON tree rendering Vue3 component
+
+## YAML 
+
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 
 ## Zig 
 
