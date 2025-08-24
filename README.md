@@ -627,7 +627,7 @@
 - [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.
 - [brix/crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
 - [SassDoc/sassdoc](https://github.com/SassDoc/sassdoc) - Release the docs!
-- [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
+- [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for power users
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
 - [cheeaun/phanpy](https://github.com/cheeaun/phanpy) - A minimalistic opinionated Mastodon web client
@@ -1681,7 +1681,7 @@
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine.
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
-- [dream-num/univer](https://github.com/dream-num/univer) - Univer is a full-stack framework for creating and editing spreadsheets, documents, and slides on both web and server.
+- [dream-num/univer](https://github.com/dream-num/univer) - Build truly AI-native spreadsheets. Univer is a full-stack framework for creating and editing spreadsheets, documents, and slides on both web and server. With Univer MCP, Univer Sheet is driven direct
 - [joinloops/loops-app](https://github.com/joinloops/loops-app) - Mobile app for Loops
 - [earthstar-project/earthstar](https://github.com/earthstar-project/earthstar) - Storage for private, distributed, offline-first applications.
 - [stackblitz/alien-signals](https://github.com/stackblitz/alien-signals) - 👾 The lightest signal library
