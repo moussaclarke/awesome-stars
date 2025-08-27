@@ -227,6 +227,7 @@
 
 ## CSS 
 
+- [Chainlift/liftkit](https://github.com/Chainlift/liftkit) - Components from design to production
 - [kognise/water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
@@ -613,7 +614,6 @@
 - [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
 - [Leleat/Tiling-Assistant](https://github.com/Leleat/Tiling-Assistant) - An extension which adds a Windows-like snap assist to GNOME. It also expands GNOME's 2 column tiling layout.
 - [css/csso](https://github.com/css/csso) - CSS minifier with structural optimizations
-- [neatnik/typo](https://github.com/neatnik/typo) - Typo is a more natural web typing thing
 - [insin/control-panel-for-youtube](https://github.com/insin/control-panel-for-youtube) - Browser extension which gives you more control over YouTube by adding missing options and UI improvements - for desktop & mobile browsers
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [nuejs/nue](https://github.com/nuejs/nue) - Standards first web framework taking HTML, CSS, JS, and WASM to their peak
@@ -673,7 +673,7 @@
 - [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [gpujs/gpu.js](https://github.com/gpujs/gpu.js) - GPU Accelerated JavaScript
-- [christianvoigt/argdown](https://github.com/christianvoigt/argdown) - a simple syntax for complex argumentation
+- [argdown/argdown](https://github.com/argdown/argdown) - a simple syntax for complex argumentation
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
 - [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
@@ -876,6 +876,7 @@
 
 ## PHP 
 
+- [spatie/laravel-backup-server](https://github.com/spatie/laravel-backup-server) - Backup multiple servers
 - [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions
 - [projectsend/projectsend](https://github.com/projectsend/projectsend) - ProjectSend is a free, open source software that lets you share files with your clients, focused on ease of use and privacy. It supports clients groups, system users roles, statistics, multiple langua
 - [aspirepress/aspireupdate](https://github.com/aspirepress/aspireupdate) - A plugin that allows for rewriting the URLs used to fetch updates from WordPress.org to some other endpoint
@@ -1239,7 +1240,7 @@
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
-- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-5, o1, o3, GPT-4, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice control, image generation and analysis, agents, tools, file upload
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice control, image generation and analysis, agents, tools, file upload
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [huggingface/smollm](https://github.com/huggingface/smollm) - Everything about the SmolLM and SmolVLM family of models
@@ -1271,7 +1272,6 @@
 - [Allen-Synthesis/EuroPi](https://github.com/Allen-Synthesis/EuroPi) - EuroPi: A reprogrammable Eurorack module based on the Raspberry Pi Pico
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
-- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [LordAmit/Brightness](https://github.com/LordAmit/Brightness) - Using Brightness Controller, you can control brightness of both primary and external displays in Linux. Check it out!
@@ -1681,7 +1681,7 @@
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine.
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
-- [dream-num/univer](https://github.com/dream-num/univer) - Build truly AI-native spreadsheets. Univer is a full-stack framework for creating and editing spreadsheets, documents, and slides on both web and server. With Univer MCP, Univer Sheet is driven direct
+- [dream-num/univer](https://github.com/dream-num/univer) - Build AI-native spreadsheets. Univer is a full-stack framework for creating and editing spreadsheets on both web and server. With Univer MCP, Univer Spreadsheets is driven directly through natural lan
 - [joinloops/loops-app](https://github.com/joinloops/loops-app) - Mobile app for Loops
 - [earthstar-project/earthstar](https://github.com/earthstar-project/earthstar) - Storage for private, distributed, offline-first applications.
 - [stackblitz/alien-signals](https://github.com/stackblitz/alien-signals) - 👾 The lightest signal library
@@ -1730,7 +1730,7 @@
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [logchimp/logchimp](https://github.com/logchimp/logchimp) - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work!
 - [boronine/h2tunnel](https://github.com/boronine/h2tunnel) - TCP over HTTP/2
-- [mnfst/manifest](https://github.com/mnfst/manifest) - Manifest gives you a complete backend with data, storage, logic and an admin UI so you can ship your prototypes, MVPs and simple web apps fast. 🦚
+- [mnfst/manifest](https://github.com/mnfst/manifest) - Portable backend to ship fast.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [twoslashes/twoslash](https://github.com/twoslashes/twoslash) - Markup for generating rich type information in your documentations ahead of time.
@@ -1752,6 +1752,7 @@
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
 - [rtfpessoa/diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Pretty diff to html javascript cli (diff2html-cli)
+- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [unscatty/unocss-preset-daisy](https://github.com/unscatty/unocss-preset-daisy) - UnoCSS preset for daisyUI
 - [kidonng/unocss-preset-daisy](https://github.com/kidonng/unocss-preset-daisy) - UnoCSS preset for daisyUI
