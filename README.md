@@ -886,6 +886,8 @@
 
 ## PHP 
 
+- [jenssegers/laravel-ab](https://github.com/jenssegers/laravel-ab) - A server-side A/B testing tool for Laravel.
+- [abrouter/laravel-abtest](https://github.com/abrouter/laravel-abtest) - ABRouter Laravel AB test is a simple package for the base library to run ab-tests and feature flags via ABRouter with Laravel. Prepare and run your ab-test in 10 minutes. Easy to manage and run. Can b
 - [spatie/laravel-backup-server](https://github.com/spatie/laravel-backup-server) - Backup multiple servers
 - [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions
 - [projectsend/projectsend](https://github.com/projectsend/projectsend) - ProjectSend is a free, open source software that lets you share files with your clients, focused on ease of use and privacy. It supports clients groups, system users roles, statistics, multiple langua
