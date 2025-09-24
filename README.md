@@ -755,6 +755,7 @@
 
 ## Kotlin 
 
+- [kson-org/kson](https://github.com/kson-org/kson) - A 💌 to the humans maintaining computer configurations
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to papers, presentations and books.
 - [FredJul/Flym](https://github.com/FredJul/Flym) - Flym News Reader is a light Android feed reader (RSS/Atom)
 - [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - RiMusic is a multilingual and multiplatform application for streaming music
@@ -885,6 +886,7 @@
 
 ## PHP 
 
+- [millancore/pesto](https://github.com/millancore/pesto) - PHP Expressive Templates
 - [jenssegers/laravel-ab](https://github.com/jenssegers/laravel-ab) - A server-side A/B testing tool for Laravel.
 - [abrouter/laravel-abtest](https://github.com/abrouter/laravel-abtest) - ABRouter Laravel AB test is a simple package for the base library to run ab-tests and feature flags via ABRouter with Laravel. Prepare and run your ab-test in 10 minutes. Easy to manage and run. Can b
 - [spatie/laravel-backup-server](https://github.com/spatie/laravel-backup-server) - Backup multiple servers
@@ -1389,6 +1391,7 @@
 
 ## Rust 
 
+- [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) - Like IntelliSense, but for shells
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [Byron/google-apis-rs](https://github.com/Byron/google-apis-rs) - A binding and CLI generator for all Google APIs
 - [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux
