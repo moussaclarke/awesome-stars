@@ -2720,7 +2720,6 @@
 - [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server
 - [NickvisionApps/Tagger](https://github.com/NickvisionApps/Tagger) - Tag your music
 - [hundredrabbits/Marabu](https://github.com/hundredrabbits/Marabu) - Music Synthetiser
-- [EmissarySocial/bandwagon](https://github.com/EmissarySocial/bandwagon) - An open community for bands and musicians
 - [maciejbudzowski/jsfx_mastering_suite](https://github.com/maciejbudzowski/jsfx_mastering_suite) - Open-source collection of JSFX (JesuSonic plugins) for Reaper. Plugins are made for use in mastering stage of music production.
 - [sergree/matchering-cli](https://github.com/sergree/matchering-cli) - 🎚️ Simple Matchering 2.0 Command Line Application
 - [sergree/matchering](https://github.com/sergree/matchering) - 🎚️ Open Source Audio Matching and Mastering
@@ -3340,6 +3339,7 @@
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [GNOME/gimp](https://github.com/GNOME/gimp) - Read-only mirror of https://gitlab.gnome.org/GNOME/gimp
 - [inkscape/inkscape](https://github.com/inkscape/inkscape) - Project Website: https://inkscape.org - Code Repository: https://gitlab.com/inkscape/inkscape - Draw freely. 🖌
+- [EmissarySocial/bandwagon](https://github.com/EmissarySocial/bandwagon) - An open community for bands and musicians
 - [EmissarySocial/emissary](https://github.com/EmissarySocial/emissary) - The Social Web Toolkit
 - [lukeraymonddowning/honey](https://github.com/lukeraymonddowning/honey) - A spam prevention package for Laravel, providing honeypot techniques, ip blocking and beautifully simple Recaptcha integration. Stop spam. Use Honey.
 - [Mick2nd/CsvImport](https://github.com/Mick2nd/CsvImport) - 
