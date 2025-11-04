@@ -280,7 +280,7 @@
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [kamilstanuch/codebase-digest](https://github.com/kamilstanuch/codebase-digest) - 🗜️ Codebase-digest is your AI-friendly codebase packer and analyzer. Features 60+ coding prompts and generates structured overviews with metrics. Ideal for feeding projects to LLMs like GPT-4, Claude,
 - [containers/ramalama](https://github.com/containers/ramalama) - RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of con
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click ins
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -402,6 +402,7 @@
 
 ## api 
 
+- [dhuan/mock](https://github.com/dhuan/mock) - Language-agnostic API mocking and testing utility
 - [dystcz/dystore-api](https://github.com/dystcz/dystore-api) - [READ ONLY] API layer for Lunar headless e-commerce package based on JSON:API
 - [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
 - [SleekDB/SleekDB](https://github.com/SleekDB/SleekDB) - Pure PHP NoSQL database with no dependency. Flat file, JSON based document database.
@@ -602,7 +603,7 @@
 - [alvinunreal/tmuxai](https://github.com/alvinunreal/tmuxai) - AI-Powered, Non-Intrusive Terminal Assistant
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [kamilstanuch/codebase-digest](https://github.com/kamilstanuch/codebase-digest) - 🗜️ Codebase-digest is your AI-friendly codebase packer and analyzer. Features 60+ coding prompts and generates structured overviews with metrics. Ideal for feeding projects to LLMs like GPT-4, Claude,
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click ins
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
@@ -657,7 +658,7 @@
 - [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It's Hacker News in your terminal
 - [emprcl/signls](https://github.com/emprcl/signls) - a non-linear, generative midi sequencer in the terminal :infinity:
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder 📺
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A fast and hackable fuzzy finder for the terminal.
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
@@ -891,6 +892,7 @@
 - [SassDoc/sassdoc](https://github.com/SassDoc/sassdoc) - Release the docs!
 - [oddbird/popover-polyfill](https://github.com/oddbird/popover-polyfill) - Polyfills the HTML popover attribute and showPopover/hidePopover/togglePopover methods onto HTMLElement, as well as the popovertarget and popovertargetaction attributes on &lt;button&gt; elements.
 - [postcss/autoprefixer](https://github.com/postcss/autoprefixer) - Parse CSS and add vendor prefixes to rules by Can I Use
+- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
@@ -1372,6 +1374,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
+- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [18alantom/strawberry](https://github.com/18alantom/strawberry) - Zero-dependency, build-free framework for the artisanal web.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
@@ -1548,6 +1551,7 @@
 
 ## golang 
 
+- [dhuan/mock](https://github.com/dhuan/mock) - Language-agnostic API mocking and testing utility
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [ayoisaiah/f2](https://github.com/ayoisaiah/f2) - F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
@@ -1689,7 +1693,6 @@
 - [containers/ramalama](https://github.com/containers/ramalama) - RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of con
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile
 - [citation-js/citation-js](https://github.com/citation-js/citation-js) - Core functionality of Citation.js, as well as the original plugins (CSL, BibTeX, RIS, DOI, Wikidata, and BibJSON)
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -1895,6 +1898,7 @@
 - [vstelmakh/url-highlight](https://github.com/vstelmakh/url-highlight) - PHP library to parse URLs from string input
 - [Kalabasa/htmz](https://github.com/Kalabasa/htmz) - html with targeted manipulation zones
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Web Awesome ("Shoelace 3") has been released! Get it here 👇👇👇
+- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [spatie/mjml-php](https://github.com/spatie/mjml-php) - Convert MJML to HTML using PHP
 - [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
 - [thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP
@@ -2220,7 +2224,7 @@
 
 ## js 
 
-- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - snapDOM captures HTML elements to images with exceptional speed and accuracy.
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM is a next-generation DOM capture engine that transforms HTML into almost any format all powered by a flexible plugin system
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [Kalabasa/htmz](https://github.com/Kalabasa/htmz) - html with targeted manipulation zones
 - [fredolss/rater-js](https://github.com/fredolss/rater-js) - Star rating widget for the browser. Unlimited number of stars. No dependencies. No Jquery required.
@@ -2836,7 +2840,7 @@
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click ins
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Full-Stack TypeScript toolkit that enhances Prisma ORM with flexible Authorization layer for RBAC/ABAC/PBAC/ReBAC, offering auto-generated type-safe APIs and frontend hooks.
@@ -3048,7 +3052,7 @@
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [kamilstanuch/codebase-digest](https://github.com/kamilstanuch/codebase-digest) - 🗜️ Codebase-digest is your AI-friendly codebase packer and analyzer. Features 60+ coding prompts and generates structured overviews with metrics. Ideal for feeding projects to LLMs like GPT-4, Claude,
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click ins
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -3188,7 +3192,7 @@
 - [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
 - [stucco-software/octothorp.es](https://github.com/stucco-software/octothorp.es) - Hashtags for Websites
 - [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
-- [dream-num/univer](https://github.com/dream-num/univer) - Build AI-native spreadsheets. Univer is a full-stack framework for creating and editing spreadsheets on both web and server. With Univer MCP, Univer Spreadsheets is driven directly through natural lan
+- [dream-num/univer](https://github.com/dream-num/univer) - Build AI-native spreadsheets. Univer is a full-stack framework for creating and editing spreadsheets on both web and server. With Univer Platform, Univer Spreadsheets is driven directly through natura
 - [firefly-iii/data-importer](https://github.com/firefly-iii/data-importer) - The Firefly III Data Importer can import data into Firefly III
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 - [esbudylin/modest](https://github.com/esbudylin/modest) - musical harmony library for Lua
@@ -3216,6 +3220,7 @@
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
 - [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens.
 - [campsite/campsite](https://github.com/campsite/campsite) - The Campsite monorepo
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
 - [ml5js/ml5-next-gen](https://github.com/ml5js/ml5-next-gen) - Repo for next generation of ml5.js: friendly machine learning for the web! 🤖
@@ -3248,7 +3253,6 @@
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [jirutka/swaylock-effects](https://github.com/jirutka/swaylock-effects) - Swaylock, with fancy effects
-- [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem
 - [hyperlaunch/hyperkit](https://github.com/hyperlaunch/hyperkit) - Headless web components for creating rich UIs with plain HTML
 - [xapp-project/gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk) - A GTK Frontend for GNOME Online Accounts
 - [typesense/postman](https://github.com/typesense/postman) - Postman collection for Typesense
@@ -3535,7 +3539,7 @@
 - [kylekatarnls/business-day](https://github.com/kylekatarnls/business-day) - Carbon mixin to handle business days
 - [yasyf/gpt-do](https://github.com/yasyf/gpt-do) - GPT-powered bash commands.
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
-- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
+- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [geany/geany](https://github.com/geany/geany) - A fast and lightweight IDE
 - [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
@@ -4199,6 +4203,7 @@
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [cardo-podcast/cardo](https://github.com/cardo-podcast/cardo) - Podcast client
 - [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
+- [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem
 - [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [quillforms/quillforms](https://github.com/quillforms/quillforms) - Open Source TypeForm Alternative Based on React JS and Typescript | Best Typeform Clone |  Conversational Multi Step Form
@@ -4344,7 +4349,7 @@
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [ginger51011/pandoras_pot](https://github.com/ginger51011/pandoras_pot) - HTTP honeypot to punish and educate unruly web crawlers, written in Rust (🚀)
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder 📺
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A fast and hackable fuzzy finder for the terminal.
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
@@ -4355,6 +4360,7 @@
 - [cardo-podcast/cardo](https://github.com/cardo-podcast/cardo) - Podcast client
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+- [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [freenet/freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
 - [Nutomic/ibis](https://github.com/Nutomic/ibis) - A federated online encyclopedia
@@ -4500,6 +4506,7 @@
 - [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
+- [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem
 - [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
@@ -4523,6 +4530,7 @@
 
 ## server 
 
+- [dhuan/mock](https://github.com/dhuan/mock) - Language-agnostic API mocking and testing utility
 - [BersisSe/feather](https://github.com/BersisSe/feather) - Feather🪶: A Rust web framework that does not use async
 - [ginger51011/pandoras_pot](https://github.com/ginger51011/pandoras_pot) - HTTP honeypot to punish and educate unruly web crawlers, written in Rust (🚀)
 - [ergochat/ergo](https://github.com/ergochat/ergo) - A modern IRC server (daemon/ircd) written in Go.
@@ -4738,6 +4746,7 @@
 ## tailwind 
 
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
+- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
@@ -4789,7 +4798,7 @@
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style & color support for your terminal applications
 - [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It's Hacker News in your terminal
 - [directvt/vtm](https://github.com/directvt/vtm) - Text-based desktop environment
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder 📺
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A fast and hackable fuzzy finder for the terminal.
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [mkasberg/ghostty-ubuntu](https://github.com/mkasberg/ghostty-ubuntu) - Ubuntu/Debian (.deb) packages for Ghostty
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
@@ -4860,6 +4869,7 @@
 
 ## testing 
 
+- [dhuan/mock](https://github.com/dhuan/mock) - Language-agnostic API mocking and testing utility
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to p
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
@@ -5042,6 +5052,7 @@
 - [geosigno/simpleParallax.js](https://github.com/geosigno/simpleParallax.js) - Easy Parallax Effect for React & JavaScript
 - [openui/open-ui](https://github.com/openui/open-ui) - Maintain an open standard for UI and promote its adherence and adoption.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Web Awesome ("Shoelace 3") has been released! Get it here 👇👇👇
+- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
 - [sailboatui/sailboatui](https://github.com/sailboatui/sailboatui) - Sailboat UI is a modern UI component library for Tailwind CSS
@@ -5388,6 +5399,7 @@
 
 ## zig 
 
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [neurocyte/flow](https://github.com/neurocyte/flow) - Flow Control: a programmer's text editor
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
