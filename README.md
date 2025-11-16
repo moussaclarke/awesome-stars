@@ -151,6 +151,7 @@
 
 - [meshtastic/firmware](https://github.com/meshtastic/firmware) - The official firmware for Meshtastic, an open-source, off-grid mesh communication system.
 - [dillo-browser/dillo](https://github.com/dillo-browser/dillo) - Dillo, a multi-platform graphical web browser
+- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [airwindows/airwindows](https://github.com/airwindows/airwindows) - This contains all the Airwindows audio open source code
 - [VCVRack/Rack](https://github.com/VCVRack/Rack) - The virtual Eurorack studio
@@ -1238,7 +1239,6 @@
 
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
-- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
 - [detroittommy879/aicodeprep-gui](https://github.com/detroittommy879/aicodeprep-gui) - Surgical context engineering with a nice UI, Windows, Mac, Linux, BSD, anywhere where python & Qt run
@@ -1406,6 +1406,7 @@
 
 ## Rust 
 
+- [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [hako/bbcli](https://github.com/hako/bbcli) - :newspaper: Browse BBC News like a hacker.
 - [nacho/servo-gtk](https://github.com/nacho/servo-gtk) - GTK integration for Servo
