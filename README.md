@@ -79,6 +79,7 @@
 
 ## C 
 
+- [tavianator/bfs](https://github.com/tavianator/bfs) - A breadth-first version of the UNIX find command
 - [dsp56300/gearmulator](https://github.com/dsp56300/gearmulator) - Emulation of classic VA synths of the late 90s/2000s that are based on Motorola 56300 family DSPs
 - [bootchk/resynthesizer](https://github.com/bootchk/resynthesizer) - Suite of gimp plugins for texture synthesis
 - [wessel-novacustom/clevo-keyboard](https://github.com/wessel-novacustom/clevo-keyboard) - Kernel module for keyboard backlighting for regular Clevo laptops and other vendors, based on TUXEDO Computers keyboard application
@@ -763,6 +764,7 @@
 
 ## Kotlin 
 
+- [hotwired/hotwire-native-android](https://github.com/hotwired/hotwire-native-android) - Hotwire Native for Android
 - [kson-org/kson](https://github.com/kson-org/kson) - A 💌 to the humans maintaining computer configurations
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to papers, presentations and books.
 - [FredJul/Flym](https://github.com/FredJul/Flym) - Flym News Reader is a light Android feed reader (RSS/Atom)
@@ -1604,6 +1606,7 @@
 
 ## Shell 
 
+- [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [attogram/bash-screensavers](https://github.com/attogram/bash-screensavers) - Turn your idle shell into a visual playground with this collection of Bash screensav­ers
 - [kohii/smoothcsv3](https://github.com/kohii/smoothcsv3) - SmoothCSV is a powerful and intuitive tool for editing CSV files.
 - [cdown/sshrc](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you ssh
@@ -1690,7 +1693,7 @@
 ## TypeScript 
 
 - [heroui-inc/tailwind-variants](https://github.com/heroui-inc/tailwind-variants) - 🦄 Tailwindcss first-class variant API
-- [flowglad/flowglad](https://github.com/flowglad/flowglad) - Open source payments + billing infrastructure
+- [flowglad/flowglad](https://github.com/flowglad/flowglad) - Open source, zero webhooks payment provider
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Status page with uptime monitoring & API monitoring as code   🫖
 - [hyperjumptech/monika](https://github.com/hyperjumptech/monika) - Monika is a command line application to monitor every part of your web app using a simple YAML configuration file. Get alert not only when your site is down but also when it's slow.
 - [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
