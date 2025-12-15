@@ -55,7 +55,6 @@
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [Swift](#swift)
-- [Tcl](#tcl)
 - [TeX](#tex)
 - [Tree-sitter Query](#tree-sitter-query)
 - [Twig](#twig)
@@ -108,6 +107,7 @@
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
+- [FolkComputer/folk](https://github.com/FolkComputer/folk) - 🎁 Physical computing system.
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [GNOME/gimp](https://github.com/GNOME/gimp) - Read-only mirror of https://gitlab.gnome.org/GNOME/gimp
@@ -666,6 +666,7 @@
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [atomiks/tippyjs](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library
 - [pockethost/pockethost](https://github.com/pockethost/pockethost) - Open source multitenant PocketBase server
+- [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [webtorrent/webtorrent-cli](https://github.com/webtorrent/webtorrent-cli) - WebTorrent, the streaming torrent client. For the command line.
 - [NickPiscitelli/Glider.js](https://github.com/NickPiscitelli/Glider.js) - A fast, lightweight, dependency free, native scrolling carousel alternative!
@@ -1367,7 +1368,6 @@
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [Cicada-Software/cicada](https://github.com/Cicada-Software/cicada) - A FOSS, cross-platform version of GitHub Actions and Gitlab CI
-- [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web
 - [mwmbl/mwmbl](https://github.com/mwmbl/mwmbl) - An open source, non-profit web search engine
 - [d8ahazard/FlexTV.bundle](https://github.com/d8ahazard/FlexTV.bundle) - Cast media, fetch stats...do more with less. :D
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
@@ -1482,7 +1482,7 @@
 - [Holzhaus/rekordcrate](https://github.com/Holzhaus/rekordcrate) - Library for parsing Pioneer Rekordbox device exports
 - [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
 - [moonrepo/proto](https://github.com/moonrepo/proto) - A pluggable multi-language version manager.
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A portable and hackable fuzzy finder for the terminal.
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal.
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
@@ -1686,10 +1686,6 @@
 - [ther0n/UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) - Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 
-## Tcl 
-
-- [FolkComputer/folk](https://github.com/FolkComputer/folk) - 🎁 Physical computing system.
-
 ## TeX 
 
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
@@ -1704,6 +1700,7 @@
 
 ## TypeScript 
 
+- [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - 🧩 The ultimate toolkit for working with APIs. 🎅🏼 HO. HO. HO.
 - [coder/ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility
 - [heroui-inc/tailwind-variants](https://github.com/heroui-inc/tailwind-variants) - 🦄 Tailwindcss first-class variant API
 - [flowglad/flowglad](https://github.com/flowglad/flowglad) - Open source, zero webhooks payment provider
@@ -1751,7 +1748,7 @@
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
 - [JoshuaKGoldberg/create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app) - Quickstart-friendly TypeScript template with comprehensive, configurable, opinionated tooling. 🎁
 - [martin226/vibe-draw](https://github.com/martin226/vibe-draw) - 🎨 Turn your roughest sketches into stunning 3D worlds by vibe drawing
