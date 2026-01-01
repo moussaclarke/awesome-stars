@@ -144,6 +144,7 @@
 
 ## C# # 
 
+- [tixl3d/tixl](https://github.com/tixl3d/tixl) - TiXL is an open source software to create realtime motion graphics.
 - [softfactors/LuceneQueryBuilder](https://github.com/softfactors/LuceneQueryBuilder) - A query builder for Lucene search indexes
 - [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
@@ -1433,6 +1434,7 @@
 
 ## Rust 
 
+- [bjesus/clapboard](https://github.com/bjesus/clapboard) - Wayland clipboard manager that will make you clap 👏
 - [coupler-rs/vst3-rs](https://github.com/coupler-rs/vst3-rs) - Rust bindings for the VST 3 API
 - [Daninet/mtxt](https://github.com/Daninet/mtxt) - A human-writable text format for musical notes, timing, and expression.
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
@@ -1855,7 +1857,7 @@
 - [unscatty/unocss-preset-daisy](https://github.com/unscatty/unocss-preset-daisy) - UnoCSS preset for daisyUI. Demo: https://unscatty.github.io/unocss-preset-daisy/
 - [kidonng/unocss-preset-daisy](https://github.com/kidonng/unocss-preset-daisy) - UnoCSS preset for daisyUI
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
-- [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
+- [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of Floorp 12, the most Advanced and Fastest Firefox derivative 🦊
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [TryGhost/ActivityPub](https://github.com/TryGhost/ActivityPub) - A full-featured ActivityPub server for networked publishing with Ghost
