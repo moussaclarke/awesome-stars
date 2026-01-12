@@ -1982,6 +1982,7 @@
 
 ## html 
 
+- [Guseyn/EHTML](https://github.com/Guseyn/EHTML) - HTML as Template Language
 - [spatie/menu](https://github.com/spatie/menu) - Html menu generator
 - [ffoodd/a11y.css](https://github.com/ffoodd/a11y.css) - This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code. It can also be used to roughly evaluate a site's quality by simply including it as an external style
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
@@ -3266,6 +3267,7 @@
 
 ## others 
 
+- [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
 - [baehyunsol/ragit](https://github.com/baehyunsol/ragit) - git-like rag pipeline
 - [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
 - [BLGardner/prism.tools](https://github.com/BLGardner/prism.tools) - Prism.Tools - Developer Utilities, Refined. A modular, privacy-focused collection of developer utilities that runs entirely in your browser.  Features: Client-Side - Modular Architecture - Bookmarkabl
@@ -5552,6 +5554,7 @@
 
 ## web-components 
 
+- [Guseyn/EHTML](https://github.com/Guseyn/EHTML) - HTML as Template Language
 - [emuell/restic-browser](https://github.com/emuell/restic-browser) - A GUI to browse and restore restic backup repositories.
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [muxinc/media-chrome](https://github.com/muxinc/media-chrome) - Custom elements (web components) for making audio and video player controls that look great in your website or app.
