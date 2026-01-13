@@ -25,6 +25,7 @@
 - [HTML](#html)
 - [Handlebars](#handlebars)
 - [Haskell](#haskell)
+- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -312,6 +313,7 @@
 
 ## Go 
 
+- [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos
 - [humanlogio/humanlog](https://github.com/humanlogio/humanlog) - Observability on your laptop
@@ -507,6 +509,7 @@
 - [eladg/ffmpeg-by-example](https://github.com/eladg/ffmpeg-by-example) - 
 - [stucco-software/octothorp.es](https://github.com/stucco-software/octothorp.es) - Hashtags for Websites
 - [tnylea/php-ext](https://github.com/tnylea/php-ext) - A chrome extension to show PHP (Laravel) devtools console
+- [locutusjs/locutus](https://github.com/locutusjs/locutus) - Bringing stdlibs of other programming languages to JavaScript for educational purposes
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [MaxwellBo/celine](https://github.com/MaxwellBo/celine) - 🐌 A suite of libraries for building reactive HTML notebooks with inline contenteditable &lt;script&gt;s
 - [apankrat/nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
@@ -545,6 +548,10 @@
 - [tidalcycles/Tidal](https://github.com/tidalcycles/Tidal) - Pattern language
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
+## JSON 
+
+- [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
+
 ## Java 
 
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
@@ -565,6 +572,7 @@
 
 ## JavaScript 
 
+- [Guseyn/EHTML](https://github.com/Guseyn/EHTML) - HTML as Template Language
 - [BrowserWorks/waterfox](https://github.com/BrowserWorks/waterfox) - The official Waterfox 💧 source code repository
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [socioboard/Socioboard-5.0](https://github.com/socioboard/Socioboard-5.0) - Socioboard is world's first and open source Social Technology Enabler. Socioboard Core is our flagship product.
@@ -585,7 +593,6 @@
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 - [gochev/utext](https://github.com/gochev/utext) - UteXt which is UX by code.. a Markdown to UI/UX editor.
 - [spatie/laravel-web-tinker](https://github.com/spatie/laravel-web-tinker) - Tinker in your browser
-- [locutusjs/locutus](https://github.com/locutusjs/locutus) - Bringing stdlibs of other programming languages to JavaScript for educational purposes
 - [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
 - [liabru/matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web ▲● ■
 - [ml5js/ml5-next-gen](https://github.com/ml5js/ml5-next-gen) - Repo for next generation of ml5.js: friendly machine learning for the web! 🤖
@@ -612,7 +619,6 @@
 - [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
 - [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
 - [anvaka/panzoom](https://github.com/anvaka/panzoom) - Universal pan and zoom library (DOM, SVG, Custom)
-- [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
 - [verlok/vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) - LazyLoad is a lightweight, flexible script that speeds up your website by deferring the loading of your below-the-fold images, backgrounds, videos, iframes and scripts to when they will enter the view
 - [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
@@ -1032,7 +1038,7 @@
 - [corcel/corcel](https://github.com/corcel/corcel) - Use WordPress backend with Laravel or any PHP application
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony
 - [laravel/valet](https://github.com/laravel/valet) - A more enjoyable local development experience for Mac.
-- [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
+- [fruitcake/laravel-debugbar](https://github.com/fruitcake/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
 - [Astrotomic/laravel-translatable](https://github.com/Astrotomic/laravel-translatable) - A Laravel package for multilingual models
 - [spatie/laravel-translatable](https://github.com/spatie/laravel-translatable) - Making Eloquent models translatable
 - [revoltphp/event-loop](https://github.com/revoltphp/event-loop) - Revolt is a rock-solid event loop for concurrent PHP applications.
@@ -1262,6 +1268,9 @@
 
 ## Python 
 
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
+- [michaelfeil/infinity](https://github.com/michaelfeil/infinity) - Infinity is a high-throughput, low-latency serving engine for text-embeddings, reranking models, clip, clap and colpali
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
@@ -1296,13 +1305,14 @@
 - [Stability-AI/stable-audio-tools](https://github.com/Stability-AI/stable-audio-tools) - Generative models for conditional audio generation
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [containers/ramalama](https://github.com/containers/ramalama) - RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of con
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [dylanljones/pyrekordbox](https://github.com/dylanljones/pyrekordbox) - Inofficial Python package for interacting with the database and other files (XML, ANLZ, MySettings) of Pioneers Rekordbox DJ software
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [huggingface/smollm](https://github.com/huggingface/smollm) - Everything about the SmolLM and SmolVLM family of models
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [ics-py/ics-py](https://github.com/ics-py/ics-py) - Pythonic and easy iCalendar library (rfc5545)
@@ -1437,6 +1447,7 @@
 
 ## Rust 
 
+- [baehyunsol/ragit](https://github.com/baehyunsol/ragit) - git-like rag pipeline
 - [huseyinbabal/taws](https://github.com/huseyinbabal/taws) - Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager
 - [bjesus/clapboard](https://github.com/bjesus/clapboard) - Wayland clipboard manager that will make you clap 👏
 - [coupler-rs/vst3-rs](https://github.com/coupler-rs/vst3-rs) - Rust bindings for the VST 3 API
@@ -1682,7 +1693,6 @@
 - [cupcakearmy/cryptgeon](https://github.com/cupcakearmy/cryptgeon) - cryptgeon is a secure, open source note / file sharing service inspired by PrivNote written in rust & svelte.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgre
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
@@ -1716,7 +1726,7 @@
 - [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
 - [khairul169/garage-webui](https://github.com/khairul169/garage-webui) - WebUI for Garage Object Storage Service
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - 🧩 The ultimate toolkit for working with APIs.
+- [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - 🧩 The Ultimate Toolkit for Generating Type-Safe API Clients, Hooks, and Validators.
 - [coder/ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility
 - [heroui-inc/tailwind-variants](https://github.com/heroui-inc/tailwind-variants) - 🦄 Tailwindcss first-class variant API
 - [flowglad/flowglad](https://github.com/flowglad/flowglad) - Open source, zero webhooks payment provider
@@ -1724,7 +1734,7 @@
 - [hyperjumptech/monika](https://github.com/hyperjumptech/monika) - Monika is a command line application to monitor every part of your web app using a simple YAML configuration file. Get alert not only when your site is down but also when it's slow.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
-- [VladSez/easy-invoice-pdf](https://github.com/VladSez/easy-invoice-pdf) - 📄 Free & Open-Source Invoice Generator – Live PDF Preview, No Sign-Up, 100% In-Browser. Includes a Stripe-style invoice template.
+- [VladSez/easy-invoice-pdf](https://github.com/VladSez/easy-invoice-pdf) - Free & Open-Source Invoice Generator – Live PDF Preview, No Sign-Up, 100% In-Browser. Includes a Stripe-style invoice template.
 - [emuell/restic-browser](https://github.com/emuell/restic-browser) - A GUI to browse and restore restic backup repositories.
 - [yamlresume/yamlresume](https://github.com/yamlresume/yamlresume) - Resumes as code in YAML, brought to you with ❤️ by PPResume.
 - [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run
@@ -1838,7 +1848,7 @@
 - [logchimp/logchimp](https://github.com/logchimp/logchimp) - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work!
 - [boronine/h2tunnel](https://github.com/boronine/h2tunnel) - TCP over HTTP/2
 - [mathix420/free-the-web-apps](https://github.com/mathix420/free-the-web-apps) - Turn any website into an app in seconds!
-- [mnfst/manifest](https://github.com/mnfst/manifest) - Shadcn/ui components library for building ChatGPT Apps
+- [mnfst/manifest](https://github.com/mnfst/manifest) - A shadcn/ui library for building ChatGPT Apps
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [twoslashes/twoslash](https://github.com/twoslashes/twoslash) - Markup for generating rich type information in your documentations ahead of time.
@@ -2015,7 +2025,7 @@
 - [bluulo/joplin-plugin-code-clipboard](https://github.com/bluulo/joplin-plugin-code-clipboard) - Copy the content of a code block to the clipboard
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
 - [antfu-collective/taze](https://github.com/antfu-collective/taze) - 🥦 A modern cli tool that keeps your deps fresh
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [antfu/vscode-browse-lite](https://github.com/antfu/vscode-browse-lite) - 🚀 An embedded browser in VS Code
