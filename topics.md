@@ -1316,6 +1316,7 @@
 - [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) - Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level.
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [zoonk/uneebee](https://github.com/zoonk/uneebee) - Platform for creating interactive courses.
+- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 
@@ -3503,7 +3504,7 @@
 - [NastuzziSamy/ulauncher-custom-scripts](https://github.com/NastuzziSamy/ulauncher-custom-scripts) - Extension to execute custom scripts in Ulauncher
 - [b0o/swaynagmode](https://github.com/b0o/swaynagmode) - ⌨ swaynag wrapper for the love of keybindings
 - [anvaka/panzoom](https://github.com/anvaka/panzoom) - Universal pan and zoom library (DOM, SVG, Custom)
-- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps you understand your codebase.
+- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps developers and agents understand your codebase.
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
 - [grampelberg/kty](https://github.com/grampelberg/kty) - The terminal for Kubernetes
 - [mysql2sqlite/mysql2sqlite](https://github.com/mysql2sqlite/mysql2sqlite) - Converts MySQL dump to SQLite3 compatible dump
@@ -4021,6 +4022,7 @@
 - [ratchetphp/Ratchet](https://github.com/ratchetphp/Ratchet) - Asynchronous WebSocket server
 - [akaunting/akaunting](https://github.com/akaunting/akaunting) - Online Accounting Software
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - PHPStan based SQL static analysis and type inference for the database access layer
+- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
 - [minicli/minicli](https://github.com/minicli/minicli) - A minimal framework for command-line applications in PHP. Join our Discord: https://discord.gg/hY5UNC4XPf
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
