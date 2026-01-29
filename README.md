@@ -313,6 +313,7 @@
 
 ## Go 
 
+- [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang!
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos
