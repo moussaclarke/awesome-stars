@@ -194,7 +194,6 @@
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [relativty/Relativty](https://github.com/relativty/Relativty) - An open source VR headset with SteamVR supports for $200
-- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [GothenburgBitFactory/timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Timewarrior - Commandline Time Tracking and Reporting
@@ -315,6 +314,7 @@
 
 ## Go 
 
+- [Owloops/updo](https://github.com/Owloops/updo) - Uptime monitoring CLI tool with alerting and advanced settings
 - [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang!
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
@@ -575,6 +575,7 @@
 
 ## JavaScript 
 
+- [Omodaka9375/peerweb](https://github.com/Omodaka9375/peerweb) - Decentralized website hosting powered by WebTorrent
 - [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
 - [Guseyn/EHTML](https://github.com/Guseyn/EHTML) - HTML as Template Language
@@ -1456,6 +1457,8 @@
 
 ## Rust 
 
+- [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
+- [sassman/t-rec-rs](https://github.com/sassman/t-rec-rs) - Blazingly fast terminal recorder that generates animated gif images for the web written in rust
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A drop-in, 5-20x faster, experimental Homebrew alternative
 - [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs
 - [baehyunsol/ragit](https://github.com/baehyunsol/ragit) - git-like rag pipeline
@@ -1840,6 +1843,7 @@
 - [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [meriyah/meriyah](https://github.com/meriyah/meriyah) - A 100% compliant, self-hosted javascript parser  - https://meriyah.github.io/meriyah
+- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 - [cardo-podcast/cardo](https://github.com/cardo-podcast/cardo) - Podcast client
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [unjs/db0](https://github.com/unjs/db0) - 📚  Lightweight SQL Connector
