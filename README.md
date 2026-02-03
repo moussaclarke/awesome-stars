@@ -926,6 +926,7 @@
 
 ## PHP 
 
+- [tabuna/breadcrumbs](https://github.com/tabuna/breadcrumbs) - Laravel Breadcrumbs - An easy way to add breadcrumbs to your @Laravel app.
 - [imTigger/laravel-job-status](https://github.com/imTigger/laravel-job-status) - Add ability to track Job progress, status and result dispatched to Queue.
 - [protonemedia/laravel-ffmpeg](https://github.com/protonemedia/laravel-ffmpeg) - This package provides an integration with FFmpeg for Laravel. Laravel's Filesystem handles the storage of the files.
 - [spatie/menu](https://github.com/spatie/menu) - Html menu generator
@@ -1858,7 +1859,7 @@
 - [harlan-zw/nuxt-seo](https://github.com/harlan-zw/nuxt-seo) - The complete SEO solution for Nuxt.
 - [harlan-zw/nuxt-schema-org](https://github.com/harlan-zw/nuxt-schema-org) - The quickest and easiest way to build Schema.org graphs for Nuxt.
 - [CalebJohn/joplin-math-mode](https://github.com/CalebJohn/joplin-math-mode) - Turn your notes into a powerful calculator with inline math.
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - OpenObserve is an open-source observability platform for logs, metrics, traces, and frontend monitoring. A cost-effective alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage cost
 - [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
@@ -1875,7 +1876,7 @@
 - [EmranMR/tree-sitter-blade](https://github.com/EmranMR/tree-sitter-blade) - tree-sitter grammar for Laravel blade files
 - [open-circle/valibot](https://github.com/open-circle/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [muxinc/media-chrome](https://github.com/muxinc/media-chrome) - Custom elements (web components) for making audio and video player controls that look great in your website or app.
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - open source rewind | 100% local | dev friendly | 24/7 screen, mic recording
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
 - [nuxt/scripts](https://github.com/nuxt/scripts) - Third-Party Scripts Meets Nuxt Developer Experience.
 - [lucafalasco/scroll-snap](https://github.com/lucafalasco/scroll-snap) - ↯ Snap page when user stops scrolling, with a customizable configuration and a consistent cross browser behaviour
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
