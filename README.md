@@ -316,6 +316,8 @@
 
 ## Go 
 
+- [walles/moor](https://github.com/walles/moor) - Moor is a pager. It's designed to just do the right thing without any configuration.
+- [nao1215/gup](https://github.com/nao1215/gup) - gup - Update binaries installed by "go install" with goroutines.
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text/numeric/geo-spatial/vector indexing library for go
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Web history on steroids
 - [AlexanderGrooff/mermaid-ascii](https://github.com/AlexanderGrooff/mermaid-ascii) - Render Mermaid graphs inside your terminal
@@ -940,6 +942,7 @@
 
 ## PHP 
 
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone portable PHP binaries on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 - [tabuna/breadcrumbs](https://github.com/tabuna/breadcrumbs) - Laravel Breadcrumbs - An easy way to add breadcrumbs to your @Laravel app.
 - [imTigger/laravel-job-status](https://github.com/imTigger/laravel-job-status) - Add ability to track Job progress, status and result dispatched to Queue.
 - [protonemedia/laravel-ffmpeg](https://github.com/protonemedia/laravel-ffmpeg) - This package provides an integration with FFmpeg for Laravel. Laravel's Filesystem handles the storage of the files.
