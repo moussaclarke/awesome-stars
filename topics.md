@@ -5398,6 +5398,7 @@
 
 ## ui 
 
+- [someshkar/oat-chips](https://github.com/someshkar/oat-chips) - Lightweight chip/tag component extension for Oat UI (~1KB)
 - [nuxt/ui](https://github.com/nuxt/ui) - The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.
 - [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
