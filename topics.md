@@ -3532,7 +3532,7 @@
 - [quantum5/wayland-recorder](https://github.com/quantum5/wayland-recorder) - Scripts to use with wf-recorder and waybar for screen recording
 - [boronine/h2tunnel](https://github.com/boronine/h2tunnel) - TCP over HTTP/2
 - [Keloran/dracula-swaync](https://github.com/Keloran/dracula-swaync) - 
-- [mnfst/manifest](https://github.com/mnfst/manifest) - Real-time cost observability for your OpenClaw agents.
+- [mnfst/manifest](https://github.com/mnfst/manifest) - OpenClaw Real-time Cost Observability
 - [unjs/unwasm](https://github.com/unjs/unwasm) - 🇼 WebAssembly tools for JavaScript
 - [vue-reactivity/watch](https://github.com/vue-reactivity/watch) - The missing `watch` for @vue/reactivity
 - [indieweb/indiewebify-me](https://github.com/indieweb/indiewebify-me) - Tools to help you get the best out of your indieweb site
