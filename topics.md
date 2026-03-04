@@ -280,6 +280,7 @@
 
 ## 3d 
 
+- [enable3d/enable3d](https://github.com/enable3d/enable3d) - 🕹️ Standalone 3D Framework / Physics for three.js (using ammo.js) / 3D extension for Phaser 3
 - [Fabric-Project/Fabric](https://github.com/Fabric-Project/Fabric) - Node Creative Coding / 3D / Image Processing tool inspired by Quartz Composer
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
@@ -338,7 +339,7 @@
 
 ## ai-agents 
 
-- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic'
+- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [detroittommy879/aicodeprep-gui](https://github.com/detroittommy879/aicodeprep-gui) - Surgical context engineering with a nice UI, Windows, Mac, Linux, BSD, anywhere where python & Qt run
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
@@ -3320,6 +3321,9 @@
 
 ## others 
 
+- [akgitrepos/explain-my-curl](https://github.com/akgitrepos/explain-my-curl) - Takes a curl command and explains DNS/TLS/HTTP details step-by-step
+- [RiScJ/waybar-weather](https://github.com/RiScJ/waybar-weather) - A weather module for Waybar.
+- [kripken/ammo.js](https://github.com/kripken/ammo.js) - Direct port of the Bullet physics engine to JavaScript using Emscripten
 - [moussaclarke/pilot](https://github.com/moussaclarke/pilot) - Lightweight opinionated php dev environment manager
 - [jescarri/go-joplin](https://github.com/jescarri/go-joplin) - Implementation of Joplin clipper server in golang.
 - [piccobit/goplin](https://github.com/piccobit/goplin) - Golang module to access the Joplin Data API
@@ -3992,6 +3996,7 @@
 
 ## phaser 
 
+- [enable3d/enable3d](https://github.com/enable3d/enable3d) - 🕹️ Standalone 3D Framework / Physics for three.js (using ammo.js) / 3D extension for Phaser 3
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 
 ## php 
@@ -4331,7 +4336,6 @@
 
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
-- [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
 - [cheeaun/phanpy](https://github.com/cheeaun/phanpy) - A minimalistic opinionated Mastodon web client
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [le0pard/pgtune](https://github.com/le0pard/pgtune) - Pgtune - tuning PostgreSQL config by your hardware
@@ -5827,6 +5831,7 @@
 
 ## zig 
 
+- [exaroth/i3-news](https://github.com/exaroth/i3-news) - Interactive  RSS/Atom news headlines plugin  for i3wm and sway - compatible with i3status, i3blocks, polybar and waybar
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [neurocyte/flow](https://github.com/neurocyte/flow) - Flow Control: a programmer's text editor
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
