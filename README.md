@@ -159,6 +159,7 @@
 
 ## C++ 
 
+- [kripken/ammo.js](https://github.com/kripken/ammo.js) - Direct port of the Bullet physics engine to JavaScript using Emscripten
 - [intel/openvino-plugins-ai-audacity](https://github.com/intel/openvino-plugins-ai-audacity) - A set of AI-enabled effects, generators, and analyzers for Audacity®.
 - [meshtastic/firmware](https://github.com/meshtastic/firmware) - The official firmware for Meshtastic, an open-source, off-grid mesh communication system.
 - [dillo-browser/dillo](https://github.com/dillo-browser/dillo) - Dillo, a multi-platform graphical web browser
@@ -318,6 +319,7 @@
 
 ## Go 
 
+- [akgitrepos/explain-my-curl](https://github.com/akgitrepos/explain-my-curl) - Takes a curl command and explains DNS/TLS/HTTP details step-by-step
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [moussaclarke/pilot](https://github.com/moussaclarke/pilot) - Lightweight opinionated php dev environment manager
 - [jescarri/go-joplin](https://github.com/jescarri/go-joplin) - Implementation of Joplin clipper server in golang.
@@ -530,7 +532,6 @@
 - [eladg/ffmpeg-by-example](https://github.com/eladg/ffmpeg-by-example) - 
 - [stucco-software/octothorp.es](https://github.com/stucco-software/octothorp.es) - Hashtags for Websites
 - [tnylea/php-ext](https://github.com/tnylea/php-ext) - A chrome extension to show PHP (Laravel) devtools console
-- [locutusjs/locutus](https://github.com/locutusjs/locutus) - Bringing stdlibs of other programming languages to TypeScript for fun
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [MaxwellBo/celine](https://github.com/MaxwellBo/celine) - 🐌 A suite of libraries for building reactive HTML notebooks with inline contenteditable &lt;script&gt;s
 - [apankrat/nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
@@ -594,6 +595,7 @@
 
 ## JavaScript 
 
+- [enable3d/enable3d](https://github.com/enable3d/enable3d) - 🕹️ Standalone 3D Framework / Physics for three.js (using ammo.js) / 3D extension for Phaser 3
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [Omodaka9375/peerweb](https://github.com/Omodaka9375/peerweb) - Decentralized website hosting powered by WebTorrent
@@ -1306,6 +1308,7 @@
 
 ## Python 
 
+- [RiScJ/waybar-weather](https://github.com/RiScJ/waybar-weather) - A weather module for Waybar.
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [Guake/guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME
 - [jmuncor/tokentap](https://github.com/jmuncor/tokentap) - Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions.
@@ -1746,6 +1749,7 @@
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgre
 - [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
+- [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## Swift 
@@ -1782,7 +1786,7 @@
 - [rocicorp/mono](https://github.com/rocicorp/mono) - 99% of Queries in Zero Milliseconds
 - [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 - [garden-co/jazz](https://github.com/garden-co/jazz) - A new kind of database that's distributed across your frontend, containers, serverless functions and its own storage cloud.
-- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic'
+- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Define, test, and document APIs like a developer, not a SaaS user.  No accounts. No lock-in. No telemetry. Just Markdown, Git, hotkeys, and your damn specs.
@@ -1866,6 +1870,7 @@
 - [stackblitz/alien-signals](https://github.com/stackblitz/alien-signals) - 👾 The lightest signal library
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [dlants/magenta.nvim](https://github.com/dlants/magenta.nvim) - A tool-use-focused LLM plugin for neovim.
+- [locutusjs/locutus](https://github.com/locutusjs/locutus) - Bringing stdlibs of other programming languages to TypeScript for fun
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
 - [kaitai-io/kaitai_struct_webide](https://github.com/kaitai-io/kaitai_struct_webide) - Online editor / visualizer for Kaitai Struct .ksy files
 - [campsite/campsite](https://github.com/campsite/campsite) - The Campsite monorepo
@@ -2010,7 +2015,6 @@
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [brianvoe/slim-select](https://github.com/brianvoe/slim-select) - Slim advanced select dropdown
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-- [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
@@ -2224,6 +2228,7 @@
 
 ## Zig 
 
+- [exaroth/i3-news](https://github.com/exaroth/i3-news) - Interactive  RSS/Atom news headlines plugin  for i3wm and sway - compatible with i3status, i3blocks, polybar and waybar
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [neurocyte/flow](https://github.com/neurocyte/flow) - Flow Control: a programmer's text editor
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
