@@ -924,6 +924,7 @@
 
 ## Others 
 
+- [moussaclarke/xtouchmini-csi](https://github.com/moussaclarke/xtouchmini-csi) - Basic X-Touch Mini CSI Configuration for Reaper
 - [frontenddogma/rote-learning-html-css](https://github.com/frontenddogma/rote-learning-html-css) - Source of “Rote Learning HTML & CSS,” a book about memorizing HTML and CSS
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 - [typesense/postman](https://github.com/typesense/postman) - Postman collection for Typesense
