@@ -904,7 +904,7 @@
 - [elm/compiler](https://github.com/elm/compiler) - Compiler for Elm, a functional language for reliable webapps.
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with a modernized webpack API 🦀
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Rust-based bundler for JavaScript and TypeScript with refined webpack API 🦀
 - [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
@@ -1153,6 +1153,7 @@
 
 ## design 
 
+- [assentorp/design-in-the-browser](https://github.com/assentorp/design-in-the-browser) - Design in the browser
 - [tixl3d/tixl](https://github.com/tixl3d/tixl) - TiXL is an open source software to create realtime motion graphics.
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
 - [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
@@ -1164,6 +1165,7 @@
 
 ## developer-tools 
 
+- [assentorp/design-in-the-browser](https://github.com/assentorp/design-in-the-browser) - Design in the browser
 - [jmuncor/tokentap](https://github.com/jmuncor/tokentap) - Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions.
 - [MadAppGang/dingo](https://github.com/MadAppGang/dingo) - A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility
 - [detroittommy879/aicodeprep-gui](https://github.com/detroittommy879/aicodeprep-gui) - Surgical context engineering with a nice UI, Windows, Mac, Linux, BSD, anywhere where python & Qt run
@@ -1309,6 +1311,7 @@
 
 ## electron 
 
+- [assentorp/design-in-the-browser](https://github.com/assentorp/design-in-the-browser) - Design in the browser
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [ImVexed/muon](https://github.com/ImVexed/muon) - GPU based Electron on a diet
@@ -2219,7 +2222,7 @@
 - [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [spatie/laravel-cookie-consent](https://github.com/spatie/laravel-cookie-consent) - Make your Laravel app comply with the crazy EU cookie law
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with a modernized webpack API 🦀
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Rust-based bundler for JavaScript and TypeScript with refined webpack API 🦀
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
@@ -3535,7 +3538,7 @@
 - [lazeroffmichael/ticktick-py](https://github.com/lazeroffmichael/ticktick-py) - Unofficial TickTick API
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
-- [jirutka/swaylock-effects](https://github.com/jirutka/swaylock-effects) - Swaylock, with fancy effects
+- [jirutka/swaylock-effects](https://github.com/jirutka/swaylock-effects) - Swaylock, with fancy effects (unmaintained)
 - [hyperlaunch/hyperkit](https://github.com/hyperlaunch/hyperkit) - Headless web components for creating rich UIs with plain HTML
 - [xapp-project/gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk) - A GTK Frontend for GNOME Online Accounts
 - [typesense/postman](https://github.com/typesense/postman) - Postman collection for Typesense
@@ -4701,7 +4704,7 @@
 - [gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) - The Gosub browser engine
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with a modernized webpack API 🦀
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Rust-based bundler for JavaScript and TypeScript with refined webpack API 🦀
 - [versotile-org/verso](https://github.com/versotile-org/verso) - Mirror of https://gitlab.com/verso-browser/verso
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
@@ -5348,7 +5351,7 @@
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [timmywil/panzoom](https://github.com/timmywil/panzoom) - A library for panning and zooming elements using CSS transforms :mag:
 - [line/tsr](https://github.com/line/tsr) - TypeScript Remove (tsr) is a utility that removes unused code from TypeScript projects – It's like tree shaking, but for source files
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with a modernized webpack API 🦀
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Rust-based bundler for JavaScript and TypeScript with refined webpack API 🦀
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
 - [rtfpessoa/diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Pretty diff to html javascript cli (diff2html-cli)
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
@@ -5666,7 +5669,7 @@
 - [justin-schroeder/arrow-js](https://github.com/justin-schroeder/arrow-js) - Reactivity without the framework
 - [mathix420/free-the-web-apps](https://github.com/mathix420/free-the-web-apps) - Turn any website into an app in seconds!
 - [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with a modernized webpack API 🦀
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Rust-based bundler for JavaScript and TypeScript with refined webpack API 🦀
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
@@ -5721,7 +5724,7 @@
 
 - [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with a modernized webpack API 🦀
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Rust-based bundler for JavaScript and TypeScript with refined webpack API 🦀
 - [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, Rolldown, and more
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [symfony/webpack-encore](https://github.com/symfony/webpack-encore) - A simple but powerful API for processing & compiling assets built around Webpack
