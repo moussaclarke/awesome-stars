@@ -253,6 +253,7 @@
 
 ## CSS 
 
+- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [someshkar/oat-chips](https://github.com/someshkar/oat-chips) - Lightweight chip/tag component extension for Oat UI (~1KB)
 - [knadh/oat](https://github.com/knadh/oat) - Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~8KB min+gz.
 - [Chainlift/liftkit](https://github.com/Chainlift/liftkit) - Components from design to production
@@ -281,6 +282,7 @@
 
 - [OneKeePass/desktop](https://github.com/OneKeePass/desktop) - A secure password manager for macOS,Linux and Windows platforms
 - [digital-dj-tools/dj-data-converter](https://github.com/digital-dj-tools/dj-data-converter) - A command-line app for converting data files to and from different DJ software formats.
+- [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
@@ -322,6 +324,8 @@
 
 ## Go 
 
+- [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
+- [SgtApple/autonomix-cli](https://github.com/SgtApple/autonomix-cli) - 
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [sentriz/cliphist](https://github.com/sentriz/cliphist) - Wayland clipboard manager with support for multimedia
 - [akgitrepos/explain-my-curl](https://github.com/akgitrepos/explain-my-curl) - Takes a curl command and explains DNS/TLS/HTTP details step-by-step
@@ -602,6 +606,7 @@
 
 ## JavaScript 
 
+- [MarmadileManteater/FreeTubeAndroid](https://github.com/MarmadileManteater/FreeTubeAndroid) - A soft fork of FreeTube which brings it to Android (formerly FreeTubeCordova)
 - [knadh/floatype.js](https://github.com/knadh/floatype.js) - A tiny, zero-dependency, floating autocomplete / autosuggestion widget for textareas.
 - [knadh/dragmove.js](https://github.com/knadh/dragmove.js) - A super tiny Javascript library to make DOM elements draggable and movable. ~500 bytes (minified+gzipped) and no dependencies.
 - [knadh/highlighted-input.js](https://github.com/knadh/highlighted-input.js) - Super tiny, zero dep Javascript lib that highlights specific keywords and tags in an &lt;input&gt; field.
@@ -673,7 +678,6 @@
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [pipes-digital/pipes](https://github.com/pipes-digital/pipes) - Repository for Pipes
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [typicode/mistcss](https://github.com/typicode/mistcss) - Create visual components for React without JavaScript or TypeScript.  Leverage native HTML and CSS. It's an alternative to CSS-in-JS and CSS modules.
 - [jwilber/roughViz](https://github.com/jwilber/roughViz) - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
 - [Kukei-eu/spider](https://github.com/Kukei-eu/spider) - 
@@ -1325,6 +1329,10 @@
 
 ## Python 
 
+- [nwg-piotr/nwg-clipman](https://github.com/nwg-piotr/nwg-clipman) - nwg-shell clipboard manager - a GTK3-based GUI for cliphist
+- [lilydjwg/nvchecker](https://github.com/lilydjwg/nvchecker) - New version checker for software releases
+- [thp/urlwatch](https://github.com/thp/urlwatch) - Watch (parts of) webpages and get notified when something changes via e-mail, on your phone or via other means. Highly configurable.
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
 - [RiScJ/waybar-weather](https://github.com/RiScJ/waybar-weather) - A weather module for Waybar.
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [Guake/guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME
@@ -1677,7 +1685,7 @@
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
@@ -1714,6 +1722,7 @@
 
 ## Shell 
 
+- [vinceliuice/grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern Design theme for Grub2
 - [fcambus/ansiweather](https://github.com/fcambus/ansiweather) - Weather in terminal, with ANSI colors and Unicode symbols
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [attogram/bash-screensavers](https://github.com/attogram/bash-screensavers) - Turn your idle shell into a visual playground with this collection of Bash screensav­ers
@@ -1954,7 +1963,6 @@
 - [line/tsr](https://github.com/line/tsr) - TypeScript Remove (tsr) is a utility that removes unused code from TypeScript projects – It's like tree shaking, but for source files
 - [shufo/blade-formatter](https://github.com/shufo/blade-formatter) - An opinionated blade template formatter for Laravel that respects readability
 - [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
-- [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
 - [rtfpessoa/diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Pretty diff to html javascript cli (diff2html-cli)
@@ -1975,6 +1983,7 @@
 - [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Modern Data Layer for TypeScript Apps - type-safe ORM, built-in access control, automatic query services
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [lunariajs/lunaria](https://github.com/lunariajs/lunaria) - The missing localization management toolchain for open-source projects
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [unjs/changelogen](https://github.com/unjs/changelogen) - 💅 Beautiful Changelogs using Conventional Commits
