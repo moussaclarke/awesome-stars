@@ -692,7 +692,6 @@
 - [kiprotect/klaro](https://github.com/kiprotect/klaro) - Klaro Privacy Manager. An open-source, privacy-friendly & compliant consent manager for your website.
 - [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js
 - [osano/cookieconsent](https://github.com/osano/cookieconsent) - A free solution to the EU, GDPR, and California Cookie Laws
-- [nk-o/jarallax](https://github.com/nk-o/jarallax) - Parallax scrolling for modern browsers
 - [jonobr1/two.js](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
@@ -833,6 +832,7 @@
 
 ## Kotlin 
 
+- [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
 - [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) - bluetooth mesh chat, IRC vibes
 - [CompassMB/MBCompass](https://github.com/CompassMB/MBCompass) - Modern FOSS Compass and Navigation app without Ads, IAP or Tracking
 - [hotwired/hotwire-native-android](https://github.com/hotwired/hotwire-native-android) - Hotwire Native for Android
@@ -977,6 +977,7 @@
 
 ## PHP 
 
+- [spatie/laravel-typescript-transformer](https://github.com/spatie/laravel-typescript-transformer) - Transform PHP types to Typescript
 - [smarty-php/smarty](https://github.com/smarty-php/smarty) - Smarty is a template engine for PHP, facilitating the separation of presentation (HTML/CSS) from application logic.
 - [Oak-Digital/WP-REST-API-PSR7](https://github.com/Oak-Digital/WP-REST-API-PSR7) - PSR-7 Compatible Request & Response sub-classes for working with WP REST API
 - [nette/latte](https://github.com/nette/latte) - ☕ Latte: the safest & truly intuitive templates for PHP. Engine for those who want the most secure PHP sites.
@@ -2012,6 +2013,7 @@
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [antonk52/coc-cssmodules](https://github.com/antonk52/coc-cssmodules) - css modules autocompletion and go to definition coc.nvim plugin
 - [geosigno/simpleParallax.js](https://github.com/geosigno/simpleParallax.js) - Easy Parallax Effect for React & JavaScript
+- [nk-o/jarallax](https://github.com/nk-o/jarallax) - Parallax scrolling for modern browsers
 - [zengm-games/facesjs](https://github.com/zengm-games/facesjs) - A JavaScript library for generating vector-based cartoon faces
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A music theory library for Javascript
