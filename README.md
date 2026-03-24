@@ -493,7 +493,7 @@
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [skeema/skeema](https://github.com/skeema/skeema) - Declarative pure-SQL schema management for MySQL and MariaDB
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
@@ -593,6 +593,7 @@
 
 ## Java 
 
+- [hectorvent/floci](https://github.com/hectorvent/floci) - Light, fluffy, and always free - AWS Local Emulator
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
@@ -611,6 +612,8 @@
 
 ## JavaScript 
 
+- [lllyasviel/style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)
+- [e18e/e18e](https://github.com/e18e/e18e) - 
 - [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
 - [MarmadileManteater/FreeTubeAndroid](https://github.com/MarmadileManteater/FreeTubeAndroid) - A soft fork of FreeTube which brings it to Android (formerly FreeTubeCordova)
 - [knadh/floatype.js](https://github.com/knadh/floatype.js) - A tiny, zero-dependency, floating autocomplete / autosuggestion widget for textareas.
@@ -950,7 +953,7 @@
 - [dracula/plymouth](https://github.com/dracula/plymouth) - 🧛🏻‍♂️ Dark theme for Plymouth
 - [moussaclarke/awesome-stars](https://github.com/moussaclarke/awesome-stars) - 
 - [moussaclarke/xtouchmini-csi](https://github.com/moussaclarke/xtouchmini-csi) - Basic X-Touch Mini CSI Configuration for Reaper
-- [frontenddogma/rote-learning-html-css](https://github.com/frontenddogma/rote-learning-html-css) - Source of “Rote Learning HTML & CSS,” a book about memorizing HTML and CSS
+- [frontenddogma/rote-learning-html-css](https://github.com/frontenddogma/rote-learning-html-css) - The book “Rote Learning HTML & CSS”
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 - [typesense/postman](https://github.com/typesense/postman) - Postman collection for Typesense
 - [pilcrowonpaper/copenhagen](https://github.com/pilcrowonpaper/copenhagen) - A basic guideline on implementing auth for the web
@@ -1340,6 +1343,8 @@
 
 ## Python 
 
+- [lllyasviel/IC-Light](https://github.com/lllyasviel/IC-Light) - More relighting!
+- [lllyasviel/FramePack](https://github.com/lllyasviel/FramePack) - Lets make video diffusion practical!
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - 
@@ -1948,7 +1953,7 @@
 - [standardnotes/app](https://github.com/standardnotes/app) - Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 - [natelindev/tsdav](https://github.com/natelindev/tsdav) - WebDAV, CALDAV, and CARDDAV client for Nodejs and the Browser
 - [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
-- [standardagents/arrow-js](https://github.com/standardagents/arrow-js) - Reactivity without the framework
+- [standardagents/arrow-js](https://github.com/standardagents/arrow-js) - The first UI framework for the agentic era — tiny, performant, with WASM sandboxes for safe code execution.
 - [posva/pinia-colada](https://github.com/posva/pinia-colada) - 🍹 The smart data fetching layer for Vue
 - [harlan-zw/nuxt-seo](https://github.com/harlan-zw/nuxt-seo) - Fully equipped Technical SEO for busy Nuxters.
 - [harlan-zw/nuxt-schema-org](https://github.com/harlan-zw/nuxt-schema-org) - The quickest and easiest way to build Schema.org graphs for Nuxt.
