@@ -543,7 +543,6 @@
 ## HTML 
 
 - [knadh/autocomp.js](https://github.com/knadh/autocomp.js) - A super tiny Javascript autocomplete / autosuggestions library. Zero dependencies, ~800 bytes min+gzip.
-- [BLGardner/prism.tools](https://github.com/BLGardner/prism.tools) - Prism.Tools - Developer Utilities, Refined. A modular, privacy-focused collection of developer utilities that runs entirely in your browser.  Features: Client-Side - Modular Architecture - Bookmarkabl
 - [design-tokens/community-group](https://github.com/design-tokens/community-group) - This is the official DTCG repository for the design tokens site and specification.
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [eladg/ffmpeg-by-example](https://github.com/eladg/ffmpeg-by-example) - 
