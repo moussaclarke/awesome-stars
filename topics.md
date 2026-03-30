@@ -3454,7 +3454,6 @@
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
 - [baehyunsol/ragit](https://github.com/baehyunsol/ragit) - git-like rag pipeline
 - [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
-- [BLGardner/prism.tools](https://github.com/BLGardner/prism.tools) - Prism.Tools - Developer Utilities, Refined. A modular, privacy-focused collection of developer utilities that runs entirely in your browser.  Features: Client-Side - Modular Architecture - Bookmarkabl
 - [khairul169/garage-webui](https://github.com/khairul169/garage-webui) - WebUI for Garage Object Storage Service
 - [huseyinbabal/taws](https://github.com/huseyinbabal/taws) - Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager
 - [coupler-rs/vst3-rs](https://github.com/coupler-rs/vst3-rs) - Rust bindings for the VST 3 API
