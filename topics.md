@@ -973,6 +973,7 @@
 
 ## crawler 
 
+- [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
@@ -1475,6 +1476,7 @@
 
 ## framework 
 
+- [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
@@ -1643,6 +1645,7 @@
 
 ## go 
 
+- [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [nao1215/gup](https://github.com/nao1215/gup) - gup - Update binaries installed by "go install" with goroutines.
@@ -1721,6 +1724,7 @@
 
 ## golang 
 
+- [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [TypicalAM/goread](https://github.com/TypicalAM/goread) - Beautiful program to read your RSS/Atom feeds right in the terminal!
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
@@ -3387,6 +3391,7 @@
 
 ## others 
 
+- [chenglou/pretext](https://github.com/chenglou/pretext) - 
 - [stanford-scs/jai](https://github.com/stanford-scs/jai) - Jail your AI agent
 - [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim) - 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
 - [mozilla-ai/cq](https://github.com/mozilla-ai/cq) - An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently.
@@ -5924,7 +5929,7 @@
 - [themosis/themosis](https://github.com/themosis/themosis) - A framework for WordPress developers.
 - [TypeRocket/typerocket](https://github.com/TypeRocket/typerocket) - TypeRocket is a highly integrated MVC WordPress framework with beautiful UI components for the modern developer.
 - [Brain-WP/BrainMonkey](https://github.com/Brain-WP/BrainMonkey) - Mocking utility for PHP functions and WordPress plugin API
-- [wpengine/wpackagist](https://github.com/wpengine/wpackagist) - WordPress Packagist — manage your plugins with Composer
+- [wpengine/wpackagist](https://github.com/wpengine/wpackagist) - WPackagist — manage your plugins with Composer
 - [idleberg/php-wordpress-vite-assets](https://github.com/idleberg/php-wordpress-vite-assets) - Injects assets from a Vite manifest to the Wordpress head, supports themes and plugins
 - [szepeviktor/phpstan-wordpress](https://github.com/szepeviktor/phpstan-wordpress) - WordPress extensions for PHPStan ⛏️
 - [formewp/forme-codegen](https://github.com/formewp/forme-codegen) - The Forme cli tool - knocking WordPress into shape
