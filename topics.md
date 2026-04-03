@@ -455,7 +455,7 @@
 - [goravel/goravel](https://github.com/goravel/goravel) - The full-featured Golang Development Framework skeleton
 - [UnkwUsr/ticktask](https://github.com/UnkwUsr/ticktask) - Simple cli for creating tasks on ticktick.com
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Modern Data Layer for TypeScript Apps - type-safe ORM, built-in access control, automatic query services
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Modern data layer for TypeScript apps - type-safe ORM, built-in access control, automatic query services
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [revertinc/revert](https://github.com/revertinc/revert) - Revert makes it incredibly easy to build integrations with any third party API
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
@@ -835,6 +835,7 @@
 
 ## cms 
 
+- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [filamentphp/filament](https://github.com/filamentphp/filament) - A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
@@ -1259,7 +1260,7 @@
 
 ## django 
 
-- [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source video conferencing app powered by LiveKit.
+- [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source video conferencing app powered by LiveKit. Built with Django and React.
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgre
@@ -2285,7 +2286,7 @@
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [CoderLine/alphaTab](https://github.com/CoderLine/alphaTab) - alphaTab is a cross platform music notation and guitar tablature rendering library.
 - [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Modern Data Layer for TypeScript Apps - type-safe ORM, built-in access control, automatic query services
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Modern data layer for TypeScript apps - type-safe ORM, built-in access control, automatic query services
 - [JohannesNE/literature-clock](https://github.com/JohannesNE/literature-clock) - Clock using time quotes from the literature, based on the work of Jaap Meijers
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
@@ -3140,7 +3141,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Modern Data Layer for TypeScript Apps - type-safe ORM, built-in access control, automatic query services
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Modern data layer for TypeScript apps - type-safe ORM, built-in access control, automatic query services
 - [typicode/mistcss](https://github.com/typicode/mistcss) - Create visual components for React without JavaScript or TypeScript.  Leverage native HTML and CSS. It's an alternative to CSS-in-JS and CSS modules.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [pagescms/pagescms](https://github.com/pagescms/pagescms) - The simplest CMS you'll ever need. Manage content and media right in your GitHub repository.
@@ -3178,7 +3179,7 @@
 - [vikejs/vike](https://github.com/vikejs/vike) - (Replaces Next.js/Nuxt) 🔨 Composable framework to build advanced applications with flexibility and stability.
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Modern Data Layer for TypeScript Apps - type-safe ORM, built-in access control, automatic query services
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Modern data layer for TypeScript apps - type-safe ORM, built-in access control, automatic query services
 - [unjs/destr](https://github.com/unjs/destr) - 🚀 Faster, secure and convenient alternative for JSON.parse for arbitrary inputs
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
@@ -3397,7 +3398,6 @@
 
 ## others 
 
-- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - 
 - [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) - Claude Desktop for Debian-based Linux distributions
 - [chenglou/pretext](https://github.com/chenglou/pretext) - 
 - [stanford-scs/jai](https://github.com/stanford-scs/jai) - Jail your AI agent
@@ -3456,7 +3456,7 @@
 - [wesm/msgvault](https://github.com/wesm/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB
 - [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate.
 - [iamkarasik/sonarqube.nvim](https://github.com/iamkarasik/sonarqube.nvim) - A SonarQube LSP client plugin for neovim
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Assistant"
 - [superfly/tokenizer](https://github.com/superfly/tokenizer) - HTTP proxy that injects 3rd party credentials into requests
 - [Omodaka9375/peerweb](https://github.com/Omodaka9375/peerweb) - Decentralized website hosting powered by WebTorrent
 - [jtheoof/swappy](https://github.com/jtheoof/swappy) - A Wayland native snapshot editing tool, inspired by Snappy on macOS
@@ -4627,7 +4627,7 @@
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (V
-- [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source video conferencing app powered by LiveKit.
+- [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source video conferencing app powered by LiveKit. Built with Django and React.
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [ascorbic/unpic-img](https://github.com/ascorbic/unpic-img) - Multi-framework responsive image component
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine.
@@ -4683,6 +4683,7 @@
 - [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
 - [hmsk/vite-plugin-markdown](https://github.com/hmsk/vite-plugin-markdown) - A vite plugin to import a Markdown file in various formats like Front Matter, HTML, ToC, and React/Vue Component
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
+- [formkit/formkit](https://github.com/formkit/formkit) - The form framework for coding agents
 - [symfony/webpack-encore](https://github.com/symfony/webpack-encore) - A simple but powerful API for processing & compiling assets built around Webpack
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -4699,13 +4700,14 @@
 ## reactjs 
 
 - [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
-- [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source video conferencing app powered by LiveKit.
+- [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source video conferencing app powered by LiveKit. Built with Django and React.
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
+- [formkit/formkit](https://github.com/formkit/formkit) - The form framework for coding agents
 - [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) - A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
 
 ## redux 
@@ -5424,6 +5426,7 @@
 
 ## typescript 
 
+- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - 🧩 The Ultimate Toolkit for Generating Type-Safe API Clients, Hooks, and Validators.
 - [flowglad/flowglad](https://github.com/flowglad/flowglad) - Open source, zero webhooks payment provider
@@ -5740,7 +5743,7 @@
 - [nuxt/framework](https://github.com/nuxt/framework) - Old repo of Nuxt 3 framework, now on nuxt/nuxt
 - [bootstrap-vue-next/bootstrap-vue-next](https://github.com/bootstrap-vue-next/bootstrap-vue-next) - Seamless integration of Vue 3, Bootstrap 5, and TypeScript for modern, type-safe UI development
 - [vuejs/router](https://github.com/vuejs/router) - 🚦 The official router for Vue.js
-- [formkit/formkit](https://github.com/formkit/formkit) - Vue Forms ⚡️ Supercharged
+- [formkit/formkit](https://github.com/formkit/formkit) - The form framework for coding agents
 - [arielsalminen/vue-design-system](https://github.com/arielsalminen/vue-design-system) - An open source tool for building UI Design Systems with Vue.js
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
