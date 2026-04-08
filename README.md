@@ -544,6 +544,7 @@
 
 ## HTML 
 
+- [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [knadh/autocomp.js](https://github.com/knadh/autocomp.js) - A super tiny Javascript autocomplete / autosuggestions library. Zero dependencies, ~800 bytes min+gzip.
 - [design-tokens/community-group](https://github.com/design-tokens/community-group) - This is the official DTCG repository for the design tokens site and specification.
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
@@ -1127,7 +1128,7 @@
 - [amphp/amp](https://github.com/amphp/amp) - A non-blocking concurrency framework for PHP applications. 🐘
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
 - [matthiasmullie/scrapbook](https://github.com/matthiasmullie/scrapbook) - PHP cache library, with adapters for e.g. Memcached, Redis, Couchbase, APC(u), SQL and additional capabilities (e.g. transactions, stampede protection) built on top.
-- [PHPSocialNetwork/phpfastcache](https://github.com/PHPSocialNetwork/phpfastcache) - A high-performance backend cache system.  It is intended for use in speeding up dynamic web applications by alleviating database load.  Well implemented, it can drops the database load to almost nothi
+- [TruCopilot/phpfastcache](https://github.com/TruCopilot/phpfastcache) - A high-performance backend cache system.  It is intended for use in speeding up dynamic web applications by alleviating database load.  Well implemented, it can drops the database load to almost nothi
 - [longxinH/xhprof](https://github.com/longxinH/xhprof) - PHP7/PHP8 support
 - [jokkedk/webgrind](https://github.com/jokkedk/webgrind) - Xdebug Profiling Web Frontend in PHP
 - [typesense/typesense-php](https://github.com/typesense/typesense-php) - PHP client for Typesense: https://github.com/typesense/typesense
@@ -1351,6 +1352,7 @@
 
 ## Python 
 
+- [cecli-dev/cecli](https://github.com/cecli-dev/cecli) - cecli - a neat cli assistant
 - [arman-bd/guppylm](https://github.com/arman-bd/guppylm) - A ~9M parameter LLM that talks like a small fish.
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [mozilla-ai/cq](https://github.com/mozilla-ai/cq) - An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently.
