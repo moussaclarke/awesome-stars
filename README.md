@@ -1321,7 +1321,7 @@
 - [Sylius/AdminOrderCreationPlugin](https://github.com/Sylius/AdminOrderCreationPlugin) - Create orders in Sylius as an Administrator
 - [knuckleswtf/scribe](https://github.com/knuckleswtf/scribe) - Generate API documentation for humans from your Laravel codebase.✍
 - [project-satisfy/satisfy](https://github.com/project-satisfy/satisfy) - Satis composer repository manager with a Web UI
-- [FLUX-SE/SyliusPayumStripePlugin](https://github.com/FLUX-SE/SyliusPayumStripePlugin) - Sylius Payum Stripe gateway plugin (with SCA support)
+- [Sylius/PayumStripePlugin](https://github.com/Sylius/PayumStripePlugin) - Sylius Payum Stripe gateway plugin (with SCA support)
 - [Brille24/SyliusCustomOptionsPlugin](https://github.com/Brille24/SyliusCustomOptionsPlugin) - A Sylius plugin that adds customer options
 - [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) - A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
 - [LaravelCollective/html](https://github.com/LaravelCollective/html) - HTML and Form Builders for the Laravel Framework
@@ -2034,7 +2034,7 @@
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [lunariajs/lunaria](https://github.com/lunariajs/lunaria) - The missing localization management toolchain for open-source projects
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
 - [unjs/changelogen](https://github.com/unjs/changelogen) - 💅 Beautiful Changelogs using Conventional Commits
 - [unjs/ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works everywhere.
 - [unjs/destr](https://github.com/unjs/destr) - 🚀 Faster, secure and convenient alternative for JSON.parse for arbitrary inputs
