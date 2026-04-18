@@ -325,6 +325,7 @@
 
 ## Go 
 
+- [versity/versitygw](https://github.com/versity/versitygw) - A simple to deploy but feature rich S3 object storage server for your filesystem
 - [roots/wp-packages](https://github.com/roots/wp-packages) - Manage your WordPress plugins and themes with Composer
 - [ginkida/gokin](https://github.com/ginkida/gokin) - A powerful CLI tool that brings AI assistance directly to your terminal. Gokin understands your codebase and helps with file operations, code search, shell commands, git workflows, task management, an
 - [maaslalani/sheets](https://github.com/maaslalani/sheets) - Terminal based spreadsheet tool
