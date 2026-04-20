@@ -85,6 +85,7 @@
 - [ubuntu/lightdm](https://github.com/ubuntu/lightdm) - Display Manager
 - [universal-ctags/ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
 - [plp13/qman](https://github.com/plp13/qman) - A more modern man page viewer for our terminals
+- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [jtheoof/swappy](https://github.com/jtheoof/swappy) - A Wayland native snapshot editing tool, inspired by Snappy on macOS
 - [openvenues/php-postal](https://github.com/openvenues/php-postal) - PHP bindings to libpostal for for fast international street address parsing/normalization
 - [openvenues/libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
@@ -349,7 +350,6 @@
 - [walles/moor](https://github.com/walles/moor) - Moor is a pager. It's designed to just do the right thing without any configuration.
 - [nao1215/gup](https://github.com/nao1215/gup) - gup - Update binaries installed by "go install" with goroutines.
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text/numeric/geo-spatial/vector indexing library for go
-- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [AlexanderGrooff/mermaid-ascii](https://github.com/AlexanderGrooff/mermaid-ascii) - Render Mermaid graphs inside your terminal
 - [wesm/msgvault](https://github.com/wesm/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB
 - [superfly/tokenizer](https://github.com/superfly/tokenizer) - HTTP proxy that injects 3rd party credentials into requests
@@ -1200,7 +1200,7 @@
 - [friendica/friendica](https://github.com/friendica/friendica) - Friendica Communications Platform
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - Fun, powerful and practical PHPStan rules for Symfony, Doctrine, PHPUnit or plain PHP projects
 - [landrok/activitypub](https://github.com/landrok/activitypub) - A PHP implementation of ActivityPub protocol based upon the ActivityStreams 2.0 data format.
-- [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - Phel is a functional, Lisp-inspired programming language that compiles to PHP. It brings the expressive power of Clojure and the simplicity of Janet to the PHP ecosystem.
+- [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - A functional, Lisp-inspired language that compiles to PHP. Inspired by Clojure, Phel brings macros, persistent data structures, and expressive functional idioms to the PHP ecosystem.
 - [reactphp/reactphp](https://github.com/reactphp/reactphp) - Event-driven, non-blocking I/O with PHP.
 - [lunarphp/lunar](https://github.com/lunarphp/lunar) - An open-source package that brings the power of modern headless e-commerce functionality to Laravel.
 - [stripe/stripe-php](https://github.com/stripe/stripe-php) - PHP library for the Stripe API.
