@@ -1564,7 +1564,7 @@
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [weedonandscott/trolley](https://github.com/weedonandscott/trolley) - Run terminal apps anywhere
-- [joaoh82/rustunnel](https://github.com/joaoh82/rustunnel) - **Rustunnel** is an open-source tunnel that scales with you. Don't pay for idle time. Secure, Rust-fast, and Pay-as-you-go.. It exposes local services running behind NAT/firewalls to the public intern
+- [joaoh82/rustunnel](https://github.com/joaoh82/rustunnel) - Self-hosted, secure tunnel server in Rust. Expose local HTTP/HTTPS/TCP/UDP services to the public internet via TLS-encrypted WebSocket. Open-source, pay-as-you-go managed option, MCP server for AI age
 - [coastalwhite/lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI display/login manager written in Rust 🐒
 - [matiasvillaverde/context-creator](https://github.com/matiasvillaverde/context-creator) - A high-performance Rust CLI for optimizing context engineering in agentic programming.
 - [igorls/context-builder](https://github.com/igorls/context-builder) - 
