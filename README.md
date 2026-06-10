@@ -92,6 +92,7 @@
 - [bootchk/resynthesizer](https://github.com/bootchk/resynthesizer) - Suite of gimp plugins for texture synthesis
 - [wessel-novacustom/clevo-keyboard](https://github.com/wessel-novacustom/clevo-keyboard) - Kernel module for keyboard backlighting for regular Clevo laptops and other vendors, based on TUXEDO Computers keyboard application
 - [skyjake/lagrange](https://github.com/skyjake/lagrange) - A Beautiful Gemini Client
+- [pragtical/pragtical](https://github.com/pragtical/pragtical) - The practical and pragmatic code editor.
 - [LukashonakV/cava](https://github.com/LukashonakV/cava) - Cross-platform Audio Visualizer
 - [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
@@ -719,7 +720,6 @@
 - [ubuntu/Tiling-Assistant](https://github.com/ubuntu/Tiling-Assistant) - An extension which adds a Windows-like snap assist to GNOME. It also expands GNOME's 2 column tiling layout.
 - [css/csso](https://github.com/css/csso) - CSS minifier with structural optimizations
 - [insin/control-panel-for-youtube](https://github.com/insin/control-panel-for-youtube) - Browser extension which gives you more control over YouTube by adding missing options and UI improvements - for desktop & mobile browsers
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [nuejs/nue](https://github.com/nuejs/nue) - Fastest way to build modern websites
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
@@ -873,7 +873,6 @@
 - [nvim-telescope/telescope-media-files.nvim](https://github.com/nvim-telescope/telescope-media-files.nvim) - Telescope extension to preview media files using Ueberzug.
 - [sudormrfbin/cheatsheet.nvim](https://github.com/sudormrfbin/cheatsheet.nvim) - A cheatsheet plugin for neovim with bundled cheatsheets for the editor, multiple vim plugins, nerd-fonts, regex, etc. with a Telescope fuzzy finder interface!
 - [iamkarasik/sonarqube.nvim](https://github.com/iamkarasik/sonarqube.nvim) - A SonarQube LSP client plugin for neovim
-- [pragtical/pragtical](https://github.com/pragtical/pragtical) - The practical and pragmatic code editor.
 - [GeorgesAlkhouri/nvim-aider](https://github.com/GeorgesAlkhouri/nvim-aider) - 🤖 Seamlessly integrate Aider with Neovim for an enhanced AI-assisted coding experience!
 - [joshuavial/aider.nvim](https://github.com/joshuavial/aider.nvim) - 
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
@@ -1478,7 +1477,7 @@
 - [sergree/matchering-cli](https://github.com/sergree/matchering-cli) - 🎚️ Simple Matchering 2.0 Command Line Application
 - [sergree/matchering](https://github.com/sergree/matchering) - 🎚️ Open Source Audio Matching and Mastering
 - [chrisdonahue/wavegan](https://github.com/chrisdonahue/wavegan) - WaveGAN: Learn to synthesize raw audio with generative adversarial networks
-- [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A natural language interface for computers
 - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [anderspitman/SirTunnel](https://github.com/anderspitman/SirTunnel) - Minimal, self-hosted, 0-config alternative to ngrok. Caddy+OpenSSH+50 lines of Python.
 - [NatronGitHub/natron-plugins](https://github.com/NatronGitHub/natron-plugins) - Natron Community Plugins
@@ -1609,7 +1608,7 @@
 - [tattoy-org/tattoy](https://github.com/tattoy-org/tattoy) - A text-based compositor for modern terminals
 - [theopfr/somo](https://github.com/theopfr/somo) - A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS.
 - [platformatic/php-node](https://github.com/platformatic/php-node) - PHP HTTP Request handler for Node.js
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local-first and microVM-backed programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microvms for untrusted workloads. use as dev container, ai agent sandbox,  ci/cd, and more.
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 - [BersisSe/feather](https://github.com/BersisSe/feather) - Feather🪶: A Rust web framework that does not use async
@@ -1776,6 +1775,7 @@
 
 ## Shell 
 
+- [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) - Claude Desktop for Linux
 - [vinceliuice/grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern Design theme for Grub2
 - [fcambus/ansiweather](https://github.com/fcambus/ansiweather) - Weather in terminal, with ANSI colors and Unicode symbols
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
@@ -1857,12 +1857,11 @@
 ## TypeScript 
 
 - [jwagner/dont-crop](https://github.com/jwagner/dont-crop) - A small, dependency free javascript library to fit a gradient to an image or extract it's primary colors.
-- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev) - a fast, modern browser for the npm registry
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
-- [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) - Claude Desktop for Linux
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [paulmillr/noble-hashes](https://github.com/paulmillr/noble-hashes) - Audited & minimal JS implementation of hash functions, MACs and KDFs.
 - [davidmonterocrespo24/velxio](https://github.com/davidmonterocrespo24/velxio) - Emulate Arduino, ESP32 & Raspberry Pi. in your browser. Write code, compile, and run on 19 real boards — Arduino Uno, ESP32, ESP32-C3, Raspberry Pi Pico, Raspberry Pi 3, and more. No hardware, no clou
@@ -1961,7 +1960,7 @@
 - [locutusjs/locutus](https://github.com/locutusjs/locutus) - Bringing stdlibs of other programming languages to TypeScript for fun
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [kaitai-io/kaitai_struct_webide](https://github.com/kaitai-io/kaitai_struct_webide) - Online editor / visualizer for Kaitai Struct .ksy files
-- [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
+- [jetkvm/kvm](https://github.com/jetkvm/kvm) - Control any computer remotely
 - [campsite/campsite](https://github.com/campsite/campsite) - The Campsite monorepo
 - [mathuo/dockview](https://github.com/mathuo/dockview) - Zero dependency docking layout manager supporting tabs, groups, grids and splitviews. Supports React, Vue, Angular, and vanilla TypeScript.
 - [moussaclarke/hobbes](https://github.com/moussaclarke/hobbes) - Client collaboration hub for solo devs, based on CalDAV VTODO
@@ -2077,6 +2076,7 @@
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [bikeshaving/crank](https://github.com/bikeshaving/crank) - The Just JavaScript UI Framework
 - [differentialhq/differential](https://github.com/differentialhq/differential) - Typescript-first background services platform with durable functions.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [buttercup/buttercup-cli](https://github.com/buttercup/buttercup-cli) - Buttercup password manager for the command line
 - [testcontainers/testcontainers-node](https://github.com/testcontainers/testcontainers-node) - Testcontainers is a NodeJS library that supports tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
