@@ -740,6 +740,7 @@
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
+- [nao1215/gup](https://github.com/nao1215/gup) - Fast manager for Go-installed binaries in $GOBIN: update, export/import, and migrate toolsets across machines
 - [jmuncor/tokentap](https://github.com/jmuncor/tokentap) - Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions.
 - [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Design, Test and Document APIs in plain Markdown. Compose Requests with API blocks. Reuse, Replace & Version everything just like code. Offline, Truly Git Native, No Lock-in.
 - [Owloops/updo](https://github.com/Owloops/updo) - Uptime monitoring CLI tool with alerting and advanced settings
@@ -1243,6 +1244,7 @@
 - [universal-ctags/ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [assentorp/design-in-the-browser](https://github.com/assentorp/design-in-the-browser) - Design in the browser
+- [nao1215/gup](https://github.com/nao1215/gup) - Fast manager for Go-installed binaries in $GOBIN: update, export/import, and migrate toolsets across machines
 - [jmuncor/tokentap](https://github.com/jmuncor/tokentap) - Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions.
 - [MadAppGang/dingo](https://github.com/MadAppGang/dingo) - A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility
 - [detroittommy879/aicodeprep-gui](https://github.com/detroittommy879/aicodeprep-gui) - Surgical context engineering with a nice UI, Windows, Mac, Linux, BSD, anywhere where python & Qt run
@@ -1377,6 +1379,7 @@
 
 ## dotfiles 
 
+- [nao1215/gup](https://github.com/nao1215/gup) - Fast manager for Go-installed binaries in $GOBIN: update, export/import, and migrate toolsets across machines
 - [yarlson/lnk](https://github.com/yarlson/lnk) - 🔗 Git-native dotfiles management that doesn't suck.
 - [volllly/rotz](https://github.com/volllly/rotz) - Fully cross platform dotfile manager and dev environment bootstrapper written in Rust.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
@@ -1705,7 +1708,7 @@
 - [mozilla-ai/cq](https://github.com/mozilla-ai/cq) - An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently.
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
-- [nao1215/gup](https://github.com/nao1215/gup) - Fast parallel updater and manager for binaries installed with `go install`
+- [nao1215/gup](https://github.com/nao1215/gup) - Fast manager for Go-installed binaries in $GOBIN: update, export/import, and migrate toolsets across machines
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos
 - [MadAppGang/dingo](https://github.com/MadAppGang/dingo) - A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility
@@ -1788,7 +1791,7 @@
 - [TypicalAM/goread](https://github.com/TypicalAM/goread) - Beautiful program to read your RSS/Atom feeds right in the terminal!
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
-- [nao1215/gup](https://github.com/nao1215/gup) - Fast parallel updater and manager for binaries installed with `go install`
+- [nao1215/gup](https://github.com/nao1215/gup) - Fast manager for Go-installed binaries in $GOBIN: update, export/import, and migrate toolsets across machines
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang!
@@ -1930,7 +1933,6 @@
 - [monicahq/laravel-cloudflare](https://github.com/monicahq/laravel-cloudflare) - Add Cloudflare ip addresses to trusted proxies for Laravel.
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [Guake/guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME
-- [nao1215/gup](https://github.com/nao1215/gup) - Fast parallel updater and manager for binaries installed with `go install`
 - [tabuna/breadcrumbs](https://github.com/tabuna/breadcrumbs) - Laravel Breadcrumbs - An easy way to add breadcrumbs to your @Laravel app.
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [sassman/t-rec-rs](https://github.com/sassman/t-rec-rs) - Blazingly fast terminal recorder that generates animated gif images for the web written in rust
