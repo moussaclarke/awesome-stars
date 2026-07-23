@@ -340,7 +340,7 @@
 - [Compresr-ai/Context-Gateway](https://github.com/Compresr-ai/Context-Gateway) - Context Gateway is an agentic proxy that enhances any AI agent workflow with instant history compaction and context optimization tools
 - [TypicalAM/goread](https://github.com/TypicalAM/goread) - Beautiful program to read your RSS/Atom feeds right in the terminal!
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
-- [SgtApple/autonomix-cli](https://github.com/SgtApple/autonomix-cli) - 
+- [Yapka72/autonomix-cli](https://github.com/Yapka72/autonomix-cli) - 
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [sentriz/cliphist](https://github.com/sentriz/cliphist) - Wayland clipboard manager with support for multimedia
 - [akgitrepos/explain-my-curl](https://github.com/akgitrepos/explain-my-curl) - Takes a curl command and explains DNS/TLS/HTTP details step-by-step
@@ -1281,7 +1281,7 @@
 - [spatie/enum](https://github.com/spatie/enum) - Strongly typed enums in PHP supporting autocompletion and refactoring
 - [Behat/Behat](https://github.com/Behat/Behat) - BDD in PHP
 - [phpspec/phpspec](https://github.com/phpspec/phpspec) - SpecBDD Framework for PHP
-- [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
+- [pestphp/pest](https://github.com/pestphp/pest) - The elegant testing framework for PHP developers and AI agents.
 - [mpyw-junks/stream-interface-resource](https://github.com/mpyw-junks/stream-interface-resource) - Create resource stream from PSR-7 StreamInterface implementation
 - [wikimedia/composer-merge-plugin](https://github.com/wikimedia/composer-merge-plugin) - Merge one or more additional composer.json files at Composer runtime
 - [wintercms/winter](https://github.com/wintercms/winter) - Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework.
