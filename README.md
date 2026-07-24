@@ -362,7 +362,7 @@
 - [Owloops/updo](https://github.com/Owloops/updo) - Uptime monitoring CLI tool with alerting and advanced settings
 - [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang!
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos
 - [humanlogio/humanlog](https://github.com/humanlogio/humanlog) - Observability on your laptop
 - [shoenig/bcrypt-tool](https://github.com/shoenig/bcrypt-tool) - A CLI tool for bcrypt - hash a password, determine if password matches a hash, compute cost of hash
