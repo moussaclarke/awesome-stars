@@ -1237,7 +1237,7 @@
 - [formewp/forme-codegen](https://github.com/formewp/forme-codegen) - The Forme cli tool - knocking WordPress into shape
 - [astorm/pestle](https://github.com/astorm/pestle) - A collection of command line scripts for Magento 2 code generation, and a PHP module system for organizing command line scripts.
 - [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) - A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
-- [bagisto/bagisto](https://github.com/bagisto/bagisto) - Free and open source laravel eCommerce platform
+- [bagisto/bagisto](https://github.com/bagisto/bagisto) - Open Source eCommerce Platform Built with Laravel for Enterprise-Scale Commerce Supporting 10M+ SKUs
 - [rectorphp/rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
 - [lstrojny/functional-php](https://github.com/lstrojny/functional-php) - Primitives for functional programming in PHP
 - [doctrine/dbal](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer
@@ -1340,7 +1340,7 @@
 
 ## PLpgSQL 
 
-- [commandprompt/pgmanage](https://github.com/commandprompt/pgmanage) - Web tool for database management
+- [commandprompt/Audax-Data-Manager](https://github.com/commandprompt/Audax-Data-Manager) - Web tool for database management
 
 ## Perl 
 
