@@ -1553,6 +1553,7 @@
 
 ## Rust 
 
+- [alexanderwanyoike/vibez](https://github.com/alexanderwanyoike/vibez) - An open-source DAW for electronic music, written in pure Rust
 - [LucasPickering/slumber](https://github.com/LucasPickering/slumber) - Terminal-based HTTP/REST client
 - [jdx/aube](https://github.com/jdx/aube) - A fast Node.js package manager
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
