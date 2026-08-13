@@ -363,7 +363,7 @@
 - [Owloops/updo](https://github.com/Owloops/updo) - Uptime monitoring CLI tool with alerting and advanced settings
 - [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang!
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? CA: BYjCWd4XS7PTnDbou4Swwmj4XkAtreMKew8n2Pagpump
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos
 - [humanlogio/humanlog](https://github.com/humanlogio/humanlog) - Observability on your laptop
 - [shoenig/bcrypt-tool](https://github.com/shoenig/bcrypt-tool) - A CLI tool for bcrypt - hash a password, determine if password matches a hash, compute cost of hash
@@ -811,7 +811,7 @@
 - [fredolss/rater-js](https://github.com/fredolss/rater-js) - Star rating widget for the browser. Unlimited number of stars. No dependencies. No Jquery required.
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [pattern-lab/patternlab-node](https://github.com/pattern-lab/patternlab-node) - The Node version of Pattern Lab
-- [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
+- [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive email easy
 - [dropzone/dropzone](https://github.com/dropzone/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
 - [serversideup/amplitudejs](https://github.com/serversideup/amplitudejs) - AmplitudeJS: Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
 - [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
@@ -1741,7 +1741,7 @@
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [trunk-rs/trunk](https://github.com/trunk-rs/trunk) - Build, bundle & ship your Rust WASM application to the web.
 - [elk-zone/elk-native](https://github.com/elk-zone/elk-native) - Native version of Elk, a nimble Mastodon web
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A decentralised discussion platform for communities.
 - [LemmyNet/activitypub-federation-rust](https://github.com/LemmyNet/activitypub-federation-rust) - High-level Rust library for the Activitypub protocol
@@ -1946,7 +1946,7 @@
 - [ascorbic/unpic-img](https://github.com/ascorbic/unpic-img) - Multi-framework responsive image component
 - [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) - A standard interface for TypeScript schema validation libraries
 - [SkipLabs/skip](https://github.com/SkipLabs/skip) - Skip is a framework for building reactive services
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no tracking, self-hosted or in the cloud.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine.
 - [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
@@ -2211,7 +2211,7 @@
 - [h3js/h3](https://github.com/h3js/h3) - ⚡️ Minimal H(TTP) framework built for high performance and portability
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform for agents and developers
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
-- [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
+- [microfeed/microfeed](https://github.com/microfeed/microfeed) - an agentic cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [nasa8x/rss-to-json](https://github.com/nasa8x/rss-to-json) - RSS and Atom feed generator for Node.js
 - [neet/masto.js](https://github.com/neet/masto.js) - 🐘 Universal Mastodon API client for JavaScript
