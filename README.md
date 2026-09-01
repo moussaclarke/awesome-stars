@@ -1099,6 +1099,7 @@
 - [dfridrich/PhpMimeType](https://github.com/dfridrich/PhpMimeType) - Simple PHP class for guessing file mime type based on file extension with ability to use in Symfony project.
 - [phpactor/phpactor](https://github.com/phpactor/phpactor) - Mainly a PHP Language Server with more features than you can shake a stick at
 - [vstelmakh/url-highlight](https://github.com/vstelmakh/url-highlight) - PHP library to find URLs in text and turn them into clickable links. Made to handle complex URLs, HTML markup and edge cases.
+- [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 - [area17/twill-image](https://github.com/area17/twill-image) - Twill Image is a package designed to work with Twill. It leverages Twill image processing with modern lazy-loading techniques and art-directed responsive images.
 - [cpriego/valet-linux](https://github.com/cpriego/valet-linux) - A fork of Laravel Valet to work in Linux.
 - [conedevelopment/i18n](https://github.com/conedevelopment/i18n) - Push your Laravel translations to the front-end and use them easily with JavaScript.
@@ -1805,7 +1806,7 @@
 - [evgvs/turboarch](https://github.com/evgvs/turboarch) - TurboArch - Seamlessly Replace Your Current OS with Arch Linux NOW!
 - [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
 - [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
-- [omacom/omakub](https://github.com/omacom/omakub) - Opinionated Ubuntu Setup
+- [omacom/omakub](https://github.com/omacom/omakub) - Retired — the story lives at https://omarchy.org/omakub, the thread continues at https://omabuntu.omakasui.org
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 - [frolickingpotato/waybar-gammastep](https://github.com/frolickingpotato/waybar-gammastep) - A gammastep control module for waybar
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
@@ -2317,7 +2318,6 @@
 - [Derkyela/pert-calculator](https://github.com/Derkyela/pert-calculator) - PERT Calculator is a simple tool for project evaluation and review technique (PERT).
 - [mathix420/free-the-web-apps](https://github.com/mathix420/free-the-web-apps) - Turn any website into an app in seconds!
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-- [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker.
 - [fumeapp/tailvue](https://github.com/fumeapp/tailvue) - Vue components built for Nuxt3|Vue3 powered by Windi CSS|tailwindcss
