@@ -1956,6 +1956,7 @@
 
 ## gui 
 
+- [crmne/fastpotify](https://github.com/crmne/fastpotify) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [git-cola/git-cola](https://github.com/git-cola/git-cola) - git-cola: The highly caffeinated Git GUI
 - [skyjake/lagrange](https://github.com/skyjake/lagrange) - A Beautiful Gemini Client
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
@@ -2131,7 +2132,7 @@
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) - A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
-- [bagisto/bagisto](https://github.com/bagisto/bagisto) - Open Source eCommerce Platform Built with Laravel for Enterprise-Scale Commerce Supporting 10M+ SKUs
+- [bagisto/bagisto](https://github.com/bagisto/bagisto) - Open Source eCommerce & Multi-Vendor Marketplace Platform Built with Laravel for Enterprise-Scale Commerce, Supporting 10M+ SKUs
 - [doctrine/orm](https://github.com/doctrine/orm) - Doctrine Object Relational Mapper (ORM)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP's built-in reflection API.
 - [composer/satis](https://github.com/composer/satis) - Simple static Composer repository generator - For a full private Composer repo use Private Packagist
@@ -2711,7 +2712,7 @@
 - [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) - IDE Helper for Laravel
 - [spatie/laravel-enum](https://github.com/spatie/laravel-enum) - Laravel support for spatie/enum
 - [innocenzi/laravel-vite](https://github.com/innocenzi/laravel-vite) - Vite integration for Laravel (maintenance mode)
-- [bagisto/bagisto](https://github.com/bagisto/bagisto) - Open Source eCommerce Platform Built with Laravel for Enterprise-Scale Commerce Supporting 10M+ SKUs
+- [bagisto/bagisto](https://github.com/bagisto/bagisto) - Open Source eCommerce & Multi-Vendor Marketplace Platform Built with Laravel for Enterprise-Scale Commerce, Supporting 10M+ SKUs
 - [jenssegers/blade](https://github.com/jenssegers/blade) - 🔪 A standalone version of Laravel's Blade templating engine for use outside of Laravel.
 - [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [wintercms/winter](https://github.com/wintercms/winter) - Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework.
@@ -2750,6 +2751,7 @@
 
 ## linux 
 
+- [crmne/fastpotify](https://github.com/crmne/fastpotify) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [magiblot/tvision](https://github.com/magiblot/tvision) - A modern port of Turbo Vision 2.0, the classical framework for text-based user interfaces. Now cross-platform and with Unicode support.
 - [ExTV/Podroid](https://github.com/ExTV/Podroid) - A rootless Android app that boots Alpine Linux: run containers (Podman/Docker/LXC) and GUI desktop apps.
@@ -2932,6 +2934,7 @@
 
 ## macos 
 
+- [crmne/fastpotify](https://github.com/crmne/fastpotify) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
@@ -3129,6 +3132,7 @@
 
 ## music 
 
+- [crmne/fastpotify](https://github.com/crmne/fastpotify) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [Daninet/mtxt](https://github.com/Daninet/mtxt) - A human-writable text format for musical notes, timing, and expression.
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [jerryuhoo/Fire](https://github.com/jerryuhoo/Fire) - This is a mutiband distortion plugin.
@@ -3482,7 +3486,7 @@
 - [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 - [nextcloud/social](https://github.com/nextcloud/social) - 🎉 Social can be used for work, or to connect to the fediverse!
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-- [bagisto/bagisto](https://github.com/bagisto/bagisto) - Open Source eCommerce Platform Built with Laravel for Enterprise-Scale Commerce Supporting 10M+ SKUs
+- [bagisto/bagisto](https://github.com/bagisto/bagisto) - Open Source eCommerce & Multi-Vendor Marketplace Platform Built with Laravel for Enterprise-Scale Commerce, Supporting 10M+ SKUs
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - plays everything, runs anywhere. Code here: https://code.videolan.org/videolan/vlc
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 
@@ -4199,7 +4203,7 @@
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
 - [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
 - [earthstar-project/earthstar](https://github.com/earthstar-project/earthstar) - Storage for private, distributed, offline-first applications.
-- [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
+- [dont-be-evil-company/p2p.kiwi](https://github.com/dont-be-evil-company/p2p.kiwi) - p2p.kiwi 🥝, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
 - [fireproof-storage/fireproof](https://github.com/fireproof-storage/fireproof) - The vibe coding database runs in the browser, fits in the context window, and syncs anywhere.
 - [freenet/freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
 - [taubyte/tau](https://github.com/taubyte/tau) - Fullstack Workspace for Humans & Machines
@@ -4384,7 +4388,7 @@
 - [odan/phinx-migrations-generator](https://github.com/odan/phinx-migrations-generator) - A Migration Code Generator for Phinx
 - [spatie/laravel-enum](https://github.com/spatie/laravel-enum) - Laravel support for spatie/enum
 - [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) - A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
-- [bagisto/bagisto](https://github.com/bagisto/bagisto) - Open Source eCommerce Platform Built with Laravel for Enterprise-Scale Commerce Supporting 10M+ SKUs
+- [bagisto/bagisto](https://github.com/bagisto/bagisto) - Open Source eCommerce & Multi-Vendor Marketplace Platform Built with Laravel for Enterprise-Scale Commerce, Supporting 10M+ SKUs
 - [rectorphp/rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
 - [box-project/box](https://github.com/box-project/box) - 📦🚀 Fast, zero config application bundler with PHARs.
 - [dannyvankooten/AltoRouter](https://github.com/dannyvankooten/AltoRouter) - PHP routing class. Lightweight yet flexible. Supports REST, dynamic and reversed routing.
@@ -4909,6 +4913,7 @@
 
 ## rust 
 
+- [crmne/fastpotify](https://github.com/crmne/fastpotify) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [alexanderwanyoike/vibez](https://github.com/alexanderwanyoike/vibez) - An open-source DAW for electronic music, written in pure Rust
 - [LucasPickering/slumber](https://github.com/LucasPickering/slumber) - Terminal-based HTTP/REST client
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
@@ -6050,6 +6055,7 @@
 
 ## windows 
 
+- [crmne/fastpotify](https://github.com/crmne/fastpotify) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [magiblot/tvision](https://github.com/magiblot/tvision) - A modern port of Turbo Vision 2.0, the classical framework for text-based user interfaces. Now cross-platform and with Unicode support.
 - [friction2d/friction](https://github.com/friction2d/friction) - Friction Graphics
 - [git-cola/git-cola](https://github.com/git-cola/git-cola) - git-cola: The highly caffeinated Git GUI
