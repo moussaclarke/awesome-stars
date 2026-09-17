@@ -304,7 +304,6 @@
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
 ## agent-skills 
@@ -320,6 +319,7 @@
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-6, GPT-5, Gemini, Claude, Ollama, Grok, DeepSeek, Perplexity, Bielik, chat, agents, vision, voice, RAG, image and video generation, tools, MCP, plugins, speech synt
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -350,11 +350,10 @@
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [containers/ramalama](https://github.com/containers/ramalama) - RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of con
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
-- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-6, GPT-5, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-6, GPT-5, Gemini, Claude, Ollama, Grok, DeepSeek, Perplexity, Bielik, chat, agents, vision, voice, RAG, image and video generation, tools, MCP, plugins, speech synt
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [LykosAI/StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) - Multi-Platform Package Manager for Stable Diffusion
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -367,7 +366,7 @@
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
 - [taubyte/tau](https://github.com/taubyte/tau) - Fullstack Workspace for Humans & Machines
 - [BinarCode/laravel-restify](https://github.com/BinarCode/laravel-restify) - Laravel API for Ai Agents and humans.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
 - [james1236/backseat.nvim](https://github.com/james1236/backseat.nvim) - A neovim plugin that uses GPT to highlight and explain code readability issues
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
@@ -393,7 +392,7 @@
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 
 ## ajax 
@@ -526,7 +525,7 @@
 ## artificial-intelligence 
 
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
-- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-6, GPT-5, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-6, GPT-5, Gemini, Claude, Ollama, Grok, DeepSeek, Perplexity, Bielik, chat, agents, vision, voice, RAG, image and video generation, tools, MCP, plugins, speech synt
 - [1aienthusiast/audiocraft-infinity-webui](https://github.com/1aienthusiast/audiocraft-infinity-webui) - 
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -693,7 +692,7 @@
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications. -- bolt.new -- Help Center: https://support.bolt.new/ -- Community Support: https://discord.com/invite/stackblitz
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
-- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-6, GPT-5, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-6, GPT-5, Gemini, Claude, Ollama, Grok, DeepSeek, Perplexity, Bielik, chat, agents, vision, voice, RAG, image and video generation, tools, MCP, plugins, speech synt
 - [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
 
 ## chatgpt 
@@ -705,7 +704,6 @@
 - [alvinunreal/tmuxai](https://github.com/alvinunreal/tmuxai) - AI-Powered, Non-Intrusive Terminal Assistant
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [kamilstanuch/codebase-digest](https://github.com/kamilstanuch/codebase-digest) - 🗜️ Codebase-digest is your AI-friendly codebase packer and analyzer. Features 60+ coding prompts and generates structured overviews with metrics. Ideal for feeding projects to LLMs like GPT-4, Claude,
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
@@ -742,9 +740,8 @@
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - 🧡 The meta framework for code generation. Automate OpenAPI to type-safe TypeScript, Zod, and TanStack Query with a modular, plugin-based engine.
 - [kamilstanuch/codebase-digest](https://github.com/kamilstanuch/codebase-digest) - 🗜️ Codebase-digest is your AI-friendly codebase packer and analyzer. Features 60+ coding prompts and generates structured overviews with metrics. Ideal for feeding projects to LLMs like GPT-4, Claude,
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
-- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-6, GPT-5, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-6, GPT-5, Gemini, Claude, Ollama, Grok, DeepSeek, Perplexity, Bielik, chat, agents, vision, voice, RAG, image and video generation, tools, MCP, plugins, speech synt
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -1054,7 +1051,7 @@
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
 - [goclone-dev/goclone](https://github.com/goclone-dev/goclone) - Website Cloner - Utilizes powerful Go routines to clone websites to your computer within seconds.
 
 ## cryptography 
@@ -2850,13 +2847,13 @@
 - [containers/ramalama](https://github.com/containers/ramalama) - RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of con
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
-- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-6, GPT-5, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-6, GPT-5, Gemini, Claude, Ollama, Grok, DeepSeek, Perplexity, Bielik, chat, agents, vision, voice, RAG, image and video generation, tools, MCP, plugins, speech synt
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - A single-file relational spreadsheet for you and your agent.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
@@ -3002,7 +2999,7 @@
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
 - [ellisonleao/glow.nvim](https://github.com/ellisonleao/glow.nvim) - A markdown preview directly in your neovim.
 - [tk04/Marker](https://github.com/tk04/Marker) - A Desktop App for Easily Viewing and Editing Markdown Files
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
@@ -3066,10 +3063,9 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [Kochava-Studios/witsy](https://github.com/Kochava-Studios/witsy) - Witsy: desktop AI assistant / universal MCP client
-- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-6, GPT-5, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-6, GPT-5, Gemini, Claude, Ollama, Grok, DeepSeek, Perplexity, Bielik, chat, agents, vision, voice, RAG, image and video generation, tools, MCP, plugins, speech synt
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
 - [BinarCode/laravel-restify](https://github.com/BinarCode/laravel-restify) - Laravel API for Ai Agents and humans.
@@ -3494,12 +3490,11 @@
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [kamilstanuch/codebase-digest](https://github.com/kamilstanuch/codebase-digest) - 🗜️ Codebase-digest is your AI-friendly codebase packer and analyzer. Features 60+ coding prompts and generates structured overviews with metrics. Ideal for feeding projects to LLMs like GPT-4, Claude,
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [Kochava-Studios/witsy](https://github.com/Kochava-Studios/witsy) - Witsy: desktop AI assistant / universal MCP client
-- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-6, GPT-5, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
+- [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-6, GPT-5, Gemini, Claude, Ollama, Grok, DeepSeek, Perplexity, Bielik, chat, agents, vision, voice, RAG, image and video generation, tools, MCP, plugins, speech synt
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [voideditor/void](https://github.com/voideditor/void) - 
