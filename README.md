@@ -391,7 +391,7 @@
 - [pomdtr/tweety](https://github.com/pomdtr/tweety) - An integrated terminal for your browser
 - [ayoisaiah/f2](https://github.com/ayoisaiah/f2) - F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
 - [yarlson/lnk](https://github.com/yarlson/lnk) - 🔗 Git-native dotfiles management that doesn't suck.
-- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker integrated in git
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [gocarina/gocsv](https://github.com/gocarina/gocsv) - The GoCSV package aims to provide easy CSV serialization and deserialization to the golang programming language
@@ -747,7 +747,6 @@
 - [NickPiscitelli/Glider.js](https://github.com/NickPiscitelli/Glider.js) - A fast, lightweight, dependency free, native scrolling carousel alternative!
 - [mzusin/toolcool-range-slider](https://github.com/mzusin/toolcool-range-slider) - Responsive range slider library written in typescript and using web component technologies. Pure JavaScript without additional dependencies. It has a rich set of settings, including any number of  poi
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
@@ -1421,7 +1420,7 @@
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-6, GPT-5, Gemini, Claude, Grok, Ollama, DeepSeek, Perplexity, and more - chat, agents, tools, MCP, plugins, RAG, vision, voice, image and video generation, speech s
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [huggingface/smollm](https://github.com/huggingface/smollm) - Everything about the SmolLM and SmolVLM family of models
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
@@ -1499,6 +1498,7 @@
 - [Cicada-Software/cicada](https://github.com/Cicada-Software/cicada) - A FOSS, cross-platform version of GitHub Actions and Gitlab CI
 - [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web
 - [mwmbl/mwmbl](https://github.com/mwmbl/mwmbl) - An open source, non-profit web search engine
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [d8ahazard/FlexTV.bundle](https://github.com/d8ahazard/FlexTV.bundle) - Cast media, fetch stats...do more with less. :D
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
 - [nanos/FediFetcher](https://github.com/nanos/FediFetcher) - FediFetcher is a tool for Mastodon that automatically fetches missing replies and posts from other fediverse instances, and adds them to your own Mastodon instance.
