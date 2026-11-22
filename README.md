@@ -2003,7 +2003,7 @@
 - [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
 - [standardagents/arrow-js](https://github.com/standardagents/arrow-js) - The first UI framework for the agentic era — tiny, performant, with WASM sandboxes for safe code execution.
 - [posva/pinia-colada](https://github.com/posva/pinia-colada) - 🍹 The smart data fetching layer for Vue
-- [hwittenborn/alto](https://github.com/hwittenborn/alto) - The best application for all of your cloud storage
+- [hwittenborn/alto](https://github.com/hwittenborn/alto) - Sync all of your cloud storage in one place
 - [harlan-zw/nuxt-seo](https://github.com/harlan-zw/nuxt-seo) - Fully equipped Technical SEO & AEO for busy Nuxters.
 - [harlan-zw/nuxt-schema-org](https://github.com/harlan-zw/nuxt-schema-org) - The quickest and easiest way to build Schema.org graphs for Nuxt.
 - [CalebJohn/joplin-math-mode](https://github.com/CalebJohn/joplin-math-mode) - Turn your notes into a powerful calculator with inline math.
